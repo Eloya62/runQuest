@@ -1,72 +1,66 @@
 <diagram program="umletino" version="15.1"><zoom_level>9</zoom_level><help_text>Space for diagram notes
-</help_text><element><id>UMLClass</id><coordinates><x>81</x><y>279</y><w>189</w><h>171</h></coordinates><panel_attributes>Evenement
+</help_text><element><id>UMLClass</id><coordinates><x>0</x><y>504</y><w>189</w><h>171</h></coordinates><panel_attributes>Evenement
 --
-_-id_
--nom
--date début
--date fin
+_-id_event_
+-nom_event
+-date_début
+-date_fin
 -lieux
-</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>414</x><y>270</y><w>189</w><h>171</h></coordinates><panel_attributes>Course
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>333</x><y>495</y><w>189</w><h>171</h></coordinates><panel_attributes>Course
 --
-_-id_
--nom
--date
+_-id_course
+-nom_course
+-date_course
 -Distance
 -denivelé_positif
--denivelé_négatif</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>261</x><y>522</y><w>189</w><h>171</h></coordinates><panel_attributes>Utilisateur
+-denivelé_négatif</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>180</x><y>747</y><w>189</w><h>171</h></coordinates><panel_attributes>Utilisateur
 --
--id: Long
-_-ClassAttribute: Long_
---
-#Operation(i: int): int
-/+AbstractOperation()/
---
-Responsibilities
--- Resp1
-*-- Resp2*</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>171</x><y>441</y><w>108</w><h>153</h></coordinates><panel_attributes>m1=0..n
+_-id_utilisateur_
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>90</x><y>666</y><w>108</w><h>153</h></coordinates><panel_attributes>m1=0..n
 m2=1
 participe
 
-lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;140;100;140</additional_attributes></element><element><id>Relation</id><coordinates><x>261</x><y>306</y><w>171</w><h>45</h></coordinates><panel_attributes>m1=0..n
+lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;140;100;140</additional_attributes></element><element><id>Relation</id><coordinates><x>180</x><y>531</y><w>171</w><h>45</h></coordinates><panel_attributes>m1=0..n
 m2=
 contient
-lt=&lt;&lt;-</panel_attributes><additional_attributes>170;20;10;20</additional_attributes></element><element><id>Relation</id><coordinates><x>261</x><y>369</y><w>171</w><h>45</h></coordinates><panel_attributes>m1=0..n
+lt=&lt;&lt;-</panel_attributes><additional_attributes>170;20;10;20</additional_attributes></element><element><id>Relation</id><coordinates><x>180</x><y>594</y><w>171</w><h>45</h></coordinates><panel_attributes>m1=0..n
 m2=
 participe
-lt=&lt;&lt;-</panel_attributes><additional_attributes>10;20;170;20</additional_attributes></element><element><id>Relation</id><coordinates><x>441</x><y>432</y><w>126</w><h>162</h></coordinates><panel_attributes>m1=0..n
+lt=&lt;&lt;-</panel_attributes><additional_attributes>10;20;170;20</additional_attributes></element><element><id>Relation</id><coordinates><x>360</x><y>657</y><w>126</w><h>162</h></coordinates><panel_attributes>m1=0..n
 m2=
 participe
-lt=&lt;&lt;-</panel_attributes><additional_attributes>80;10;80;160;10;160</additional_attributes></element><element><id>Relation</id><coordinates><x>423</x><y>432</y><w>63</w><h>108</h></coordinates><panel_attributes>m1=0..n
+lt=&lt;&lt;-</panel_attributes><additional_attributes>80;10;80;160;10;160</additional_attributes></element><element><id>Relation</id><coordinates><x>342</x><y>657</y><w>63</w><h>108</h></coordinates><panel_attributes>m1=0..n
 m2=
 organise
-lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;100</additional_attributes></element><element><id>Relation</id><coordinates><x>252</x><y>441</y><w>63</w><h>99</h></coordinates><panel_attributes>m1=0..n
+lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;100</additional_attributes></element><element><id>Relation</id><coordinates><x>171</x><y>666</y><w>63</w><h>99</h></coordinates><panel_attributes>m1=0..n
 m2=
 organise
-lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;90</additional_attributes></element><element><id>UMLClass</id><coordinates><x>621</x><y>495</y><w>189</w><h>171</h></coordinates><panel_attributes>Localisation
+lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;90</additional_attributes></element><element><id>UMLClass</id><coordinates><x>540</x><y>720</y><w>189</w><h>171</h></coordinates><panel_attributes>Localisation
 --
-_-id_
+_-id_localisation_
 -lon
 -lat
 -info
-</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>594</x><y>351</y><w>144</w><h>162</h></coordinates><panel_attributes>m1=0..1
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>513</x><y>576</y><w>144</w><h>162</h></coordinates><panel_attributes>m1=0..1
 m2=
 localiser
 
-lt=&lt;&lt;-</panel_attributes><additional_attributes>100;160;100;10;10;10</additional_attributes></element><element><id>UMLClass</id><coordinates><x>207</x><y>9</y><w>189</w><h>171</h></coordinates><panel_attributes>&lt;&lt;Enum&gt;&gt;
+lt=&lt;&lt;-</panel_attributes><additional_attributes>100;160;100;10;10;10</additional_attributes></element><element><id>UMLClass</id><coordinates><x>126</x><y>234</y><w>189</w><h>171</h></coordinates><panel_attributes>&lt;&lt;Enum&gt;&gt;
 Region
 --
-_-id_
--nom</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>630</x><y>9</y><w>189</w><h>171</h></coordinates><panel_attributes>Department
+_-id_region_
+-nom_region</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>549</x><y>234</y><w>189</w><h>171</h></coordinates><panel_attributes>Department
 --
-__-id__
-nom_dpt
-</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>342</x><y>171</y><w>144</w><h>117</h></coordinates><panel_attributes>m1=0..n
+__-id_dpt_
+-nom_dpt
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>261</x><y>396</y><w>144</w><h>117</h></coordinates><panel_attributes>m1=0..n
 m2=
 placer
-lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;90;140;90;140;110</additional_attributes></element><element><id>Relation</id><coordinates><x>531</x><y>171</y><w>198</w><h>117</h></coordinates><panel_attributes>m1=0..n
+lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;90;140;90;140;110</additional_attributes></element><element><id>Relation</id><coordinates><x>450</x><y>396</y><w>198</w><h>117</h></coordinates><panel_attributes>m1=0..n
 m2=
 situer
-lt=&lt;&lt;-</panel_attributes><additional_attributes>180;10;180;90;10;90;10;110</additional_attributes></element><element><id>Relation</id><coordinates><x>387</x><y>63</y><w>261</w><h>45</h></coordinates><panel_attributes>m1=0..n
+lt=&lt;&lt;-</panel_attributes><additional_attributes>180;10;180;90;10;90;10;110</additional_attributes></element><element><id>Relation</id><coordinates><x>306</x><y>288</y><w>261</w><h>45</h></coordinates><panel_attributes>m1=0..n
 m2=1
 r1=contient
 r2=est dans
