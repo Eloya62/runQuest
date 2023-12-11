@@ -25,7 +25,8 @@ json_data = {
 def get_info_for_course_from_req(req, n):
     premiere_course = req['results'][0]['hits'][n]
     eventName = premiere_course['eventName']
-    date = datetime.datetime.fromtimestamp(premiere_course['raceDate']).strftime('%Y-%m-%d %H:%M:%S')
+    date = premiere_course['editionStartDate']
+    end_date = premiere_course['editionEndDate']
     raceDistance = premiere_course['raceDistance']
     raceElevationGain = premiere_course['raceElevationGain']
     raceElevationLoss = premiere_course['raceElevationLoss']
@@ -47,6 +48,7 @@ def get_info_for_course_from_req(req, n):
     return [
         eventName,
         date,
+        end_date,
         raceDistance,
         raceElevationGain,
         raceElevationLoss,
@@ -64,7 +66,7 @@ req = json.loads(req.text)
 
 while len(req['results'][0]['hits']) > 10:
     holder = []
-    columns = ['nom', 'date', 'distance', 'dplus', 'dminus', 'description', 'region', 'departement', 'lat', 'lng', 'raceDistances', 'raceName']
+    columns = ['nom', 'date', 'enddate', 'distance', 'dplus', 'dminus', 'description', 'region', 'departement', 'lat', 'lng', 'raceDistances', 'raceName']
     for i in range(len(req['results'][0]['hits'])):
         holder.append(get_info_for_course_from_req(req, i))
 
