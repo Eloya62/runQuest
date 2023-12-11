@@ -9,6 +9,8 @@ function App() {
       <a href="create-account">Create an account</a>
       <a href="dashboard">Dashboard</a>
       <a href="preferences">Preferences</a>
+      <a href="create-event">CreateEvent</a>
+      <a href="create-race">CreateRace</a>
     </div>
   );
 }

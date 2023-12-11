@@ -1,6 +1,5 @@
 import React from 'react';
 import '../../General.css';
-import './CreateAccount.css';
 
 export default function CreateEvent() {
   return(

@@ -1,6 +1,5 @@
 import React from 'react';
 import '../../General.css';
-import './Connect.css';
 
 function Connect() {
   return (
