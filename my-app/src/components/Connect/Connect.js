@@ -1,8 +1,10 @@
-import './App.css';
+import React from 'react';
+import '../../General.css';
+import './Connect.css';
 
-function App() {
+function Connect() {
   return (
-    <div className="App">
+    <div className="Connect">
       <p>Basic App</p>
       <form>
         <label>Email : <input type="email" name="email" /></label>
@@ -13,4 +15,4 @@ function App() {
   );
 }
 
-export default App;
+export default Connect;
