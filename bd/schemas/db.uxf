@@ -18,7 +18,8 @@ _-id_course
 -descriptif</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>225</x><y>513</y><w>189</w><h>171</h></coordinates><panel_attributes>Utilisateur
 --
 _-id_utilisateur_
--utilisateur
+-prenom
+-nom
 -mdp_hache_s
 -date_naissance
 -email
@@ -31,13 +32,13 @@ lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;140;100;140</addi
 m2=0...n
 r1=contient
 r2=participe
-lt=&lt;&lt;-&gt;&gt;</panel_attributes><additional_attributes>170;20;10;20</additional_attributes></element><element><id>Relation</id><coordinates><x>405</x><y>423</y><w>135</w><h>162</h></coordinates><panel_attributes>m1=0..n
+lt=&lt;&lt;-&gt;&gt;</panel_attributes><additional_attributes>170;20;10;20</additional_attributes></element><element><id>Relation</id><coordinates><x>405</x><y>423</y><w>126</w><h>162</h></coordinates><panel_attributes>m1=0..n
 m2=
 participe
-lt=&lt;&lt;-</panel_attributes><additional_attributes>80;10;80;160;10;160</additional_attributes></element><element><id>Relation</id><coordinates><x>387</x><y>423</y><w>72</w><h>108</h></coordinates><panel_attributes>m1=0..n
+lt=&lt;&lt;-</panel_attributes><additional_attributes>80;10;80;160;10;160</additional_attributes></element><element><id>Relation</id><coordinates><x>387</x><y>423</y><w>63</w><h>108</h></coordinates><panel_attributes>m1=0..n
 m2=
 organise
-lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;100</additional_attributes></element><element><id>Relation</id><coordinates><x>216</x><y>432</y><w>72</w><h>99</h></coordinates><panel_attributes>m1=0..n
+lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;100</additional_attributes></element><element><id>Relation</id><coordinates><x>216</x><y>432</y><w>63</w><h>99</h></coordinates><panel_attributes>m1=0..n
 m2=
 organise
 lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;90</additional_attributes></element><element><id>UMLClass</id><coordinates><x>585</x><y>486</y><w>189</w><h>171</h></coordinates><panel_attributes>Localisation
@@ -46,7 +47,7 @@ _-id_localisation_
 -lon
 -lat
 -info
-</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>558</x><y>342</y><w>153</w><h>162</h></coordinates><panel_attributes>m1=0..1
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>558</x><y>342</y><w>144</w><h>162</h></coordinates><panel_attributes>m1=0..1
 m2=
 localiser
 
