@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-.Connect {
-  text-align: center;
+
+form{
+  flex-direction: column;
 }
