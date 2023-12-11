@@ -1,0 +1,1245 @@
+nom,date,distance,dplus,dminus,description,region,departement,lat,lng,raceDistances,raceName
+Trail de la Tour,2024-06-22 02:00:00,9000,240,,Viens faire un Tour,Auvergne-Rhône-Alpes,Drôme,45.269897,4.886737,[17000],Trail 9 km
+Vétathlon de l'Yonne,2024-06-23 02:00:00,7000,50,,Vélo et course à pied à l’Yonneur ,Bourgogne-Franche-Comté,Yonne,48.02443,3.670011,"[35000, 16000, 35000, 35000]",Vétatlhon jeunes - Solo - format XS
+Trail Perché de Calvignac,2024-06-24 02:00:00,12500,300,,Une course qui sort du Lot,Occitanie,Lot,44.46414499999999,1.779082,"[7500, 15500, 7500]",La Boucle Intermédiaire Calvignacoise 
+La Normandique,2024-06-25 02:00:00,7000,0,,Une marche Normandique,Normandie,Calvados,49.353976,0.075122,[12000],Marche Nordique Nature-Santé-Loisir
+Grand Duc - Trail de Chartreuse,2024-06-30 02:00:00,77000,4250,4450.0,Sappey comme jamais ,Auvergne-Rhône-Alpes,Isère,45.3875962,5.7344281,"[46000, 24000]",Grand Duc Relais à 5
+Trail des Passerelles du Monteynard ,2024-07-06 02:00:00,13000,600,,"Quand il y en a marre, il y a Monteynard !",Auvergne-Rhône-Alpes,Isère,44.899443,5.673713999999999,"[12000, 17000, 43000, 28000, 42000, 63000, 26000, 16000, 17000, 63000, 16000]",Trail du Drac
+Semi-Marathon du Mont-Ventoux,2024-07-07 02:00:00,21600,1610,,"N'est pas fou qui monte au Ventoux, est fou qui y retourne !",Provence-Alpes-Côte d'Azur,Vaucluse,44.124008,5.1803739,[],"Course sur route 21,6 km"
+Le Trail des 4 x 1800,2024-07-19 02:00:00,12000,800,,(Ça fait 7 200),Auvergne-Rhône-Alpes,Cantal,45.0827278,2.7503595,"[32000, 32000, 20000, 44000]",Le Trail du Plomb
+Oisans Trail Tour,2024-07-20 02:00:00,87000,5030,,Ose Oisans ! ,Auvergne-Rhône-Alpes,Isère,45.1406599,6.051151,"[21000, 40000]",Ultra Tour
+Défi de la Muzelle,2024-07-22 02:00:00,100000,6600,,Viens découvrir les joyaux de cet Écrin de nature,Auvergne-Rhône-Alpes,Isère,45.0081871,6.125145799999999,[50000],Défi de la Muzelle
+Trail de la Meije,2024-08-31 02:00:00,12820,552,,Le Meijeur trail du monde,Provence-Alpes-Côte d'Azur,Hautes-Alpes,45.045842,6.304705999999999,"[15000, 26000, 4800, 42000]",La Boucle de l'Aiguillon en joëlette
+Trail Margeride,2024-09-14 02:00:00,10000,250,,Tu auras Mal(aux)zieu devant tant de beauté,Occitanie,Lozère,44.855562,3.331872,"[17000, 17000, 43000, 26500]",La Veillade Dels Barons
+Triathlon des Roses - Paris,2024-09-21 02:00:00,13200,0,,Tout seinplement incroyable ! ,Île-de-France,Hauts-de-Seine,48.8300331,2.1744744,[],"Triathlon des Roses de Paris (solo, relais à 2 ou 3, challenge entreprises)"
+Marathon de Vannes,2024-09-28 02:00:00,10000,0,,C’est pas de la blague !  ,Bretagne,Morbihan,47.658236,-2.760847,"[42195, 20000, 42195, 42195]",10 Km Gwened Nocturne
+Triathlon des Roses - Toulouse ,2024-09-29 02:00:00,8100,0,,Une course sans épine ! ,Occitanie,Haute-Garonne,43.598264,1.4092542,[],"Triathlon des Roses de Lyon (solo, relais à 2 ou 3, challenge entreprises)"
+Marathon des Grands Crus,2024-10-06 02:00:00,42195,0,,Fruité et avec du corps ,Bourgogne-Franche-Comté,Côte-d'Or,47.32252070000001,5.0371733,"[21097, 10000, 5000]",Marathon
+Vredestein 20 km de Paris,2024-10-06 02:00:00,1000,0,,Le bon cru parisien ! ,Île-de-France,Paris,48.85837009999999,2.2944813,"[2024, 20000]",20kids de Paris Présentiel
+Semi-Marathon des Sources du Lac d'Annecy,2024-10-06 02:00:00,21097,100,,Récupère ton Doussard et c'est parti ! ,Auvergne-Rhône-Alpes,Haute-Savoie,45.77649599999999,6.220515000000001,[10000],Semi-Marathon
+Trail en Côte-Rôtie,2024-10-19 02:00:00,15000,0,,Du vin à toutes les sauces,Auvergne-Rhône-Alpes,Rhône,45.4889512,4.809573299999999,"[12000, 10000, 1000, 500, 1500, 45000, 45000, 45000, 24000, 2000]",La Vendangette
+Marathon de Chablis,2024-10-26 02:00:00,13200,350,,Qui aime bien Chablis bien !,Bourgogne-Franche-Comté,Yonne,47.812921,3.803712,"[21097, 11000, 42195, 19000]",Trail de la Feuillette
+LUT By Night,2024-11-02 01:00:00,15000,550,,Running night fever,Auvergne-Rhône-Alpes,Rhône,45.7605474,4.861117699999999,"[8000, 8000, 26000]",Trail 15 km
+Marathon International de la Côte d’Amour,2024-11-02 01:00:00,5000,0,,J'en reprends une tranche,Pays de la Loire,Loire-Atlantique,47.2869183,-2.3913777,"[42195, 42195, 21097, 10000]",5 km
+Toulouse Métropole Run Expérience,2024-11-10 01:00:00,42195,0,,La vie en rose ! ,Occitanie,Haute-Garonne,43.598264,1.4092542,"[10000, 21097]",Marathon en relais
+Asics SaintéLyon,2024-11-30 01:00:00,156000,4390,,"Saint'étonne, saintéfraiche, saintébynight ! ",Auvergne-Rhône-Alpes,Rhône,45.7605474,4.861117699999999,"[78000, 13000, 78000, 78000, 44000, 23000, 78000]",LyonSaintéLyon
+Grand Trail des Vallons de la Vilaine,2025-04-06 02:00:00,10000,0,,Loin d'être Vilaine !,Bretagne,Ille-et-Vilaine,47.978808,-1.721638,"[5000, 82000, 82000, 31200]",La Randonnée
+Esclapa l'Oeil Trail,2024-06-22 02:00:00,43000,2300,,Une course tape à l'Oeil ,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,43.783361,6.955305,[],Nouvelle Coursasse - relais à 2
+Tour du Lac de Vassivière ,2024-06-22 02:00:00,26000,0,,Un tour de lac ? Vassi !,Nouvelle-Aquitaine,Corrèze,45.6424049,2.094306,"[23400, 9500, 9000]",Marche-Nordique
+Run in Saint-Laurent,2024-06-22 02:00:00,5000,0,,,Occitanie,Pyrénées-Orientales,42.773217,2.989793,[10000],Marche 5 km
+Trail de la petite sensée,2024-06-22 02:00:00,800,0,,Un trail insensé !,Hauts-de-France,Nord,50.353186,3.0642045,"[7000, 11000, 21000, 1600]",La Salengro
+L'Ardèche Run,2024-06-22 02:00:00,21097,0,,Loin d'être la dèche,Auvergne-Rhône-Alpes,Ardèche,44.616893,4.404782,[],Semi-Marathon
+Trail de la Cerise,2024-06-23 02:00:00,18000,700,,Tu vas te refaire la cerise ,Provence-Alpes-Côte d'Azur,Vaucluse,43.829119,5.312693900000001,"[10000, 26000]",Trail 18 km
+Triathlon d'Aydat ,2024-06-23 02:00:00,25750,0,,,Auvergne-Rhône-Alpes,Puy-de-Dôme,45.660537,2.975199,[51500],Triathlon S
+Triathlon international du Lac d’Annecy,2024-06-23 02:00:00,4000,0,,,Auvergne-Rhône-Alpes,Haute-Savoie,45.8992115,6.131265099999999,[51500],Triathlon Sport Adpaté
+Triathlon de Béziers,2024-06-23 02:00:00,12800,0,,,Occitanie,Hérault,43.3362867,3.2188802,"[25750, 51500]",Triathlon XS
+Les Foulées de Beauregard,2024-06-23 02:00:00,9000,0,,,Auvergne-Rhône-Alpes,Rhône,45.6802146,4.793301,[14000],Marche 9 km
+Foulées Gouletaises,2024-06-23 02:00:00,6000,0,,Ca va t'Écouché par terre,Normandie,Orne,48.7174829,-0.1232008,"[10000, 8000]",Trail 6 km
+Triathlon du Lac de Lourdes,2024-06-23 02:00:00,12900,0,,,Occitanie,Hautes-Pyrénées,43.091463,-0.045726,[25750],Triathlon XS
+Courir la Jules Verne ,2024-06-23 02:00:00,5000,0,,Voyage au centre d'Amiens !,Hauts-de-France,Somme,49.894067,2.295753,[10000],Marche 5 km
+Speed Lohéacienne,2024-06-23 02:00:00,10000,0,,Une course qui donne Loh à la bouche,Bretagne,Ille-et-Vilaine,47.8667893,-1.8917513,[],Course sur route 10 km
+Ardennes Mega Trail,2024-06-23 02:00:00,13000,600,,Nature et découverte ,Grand Est,Ardennes,49.8839479,4.84195,"[85000, 48000, 26000]",CDS - Crêtes de Semoy - 13 KM
+Trail de l'Île d'Yeu,2024-06-24 02:00:00,45000,257,257.0,T'as de beaux Yeu tu sais !,Pays de la Loire,Vendée,46.70935290000001,-2.3466244,"[15000, 23000]",Trail 45 km
+Les Foulées de La Cathédrale,2024-06-24 02:00:00,9800,0,,Il est venu le temps des Cathédrales,Centre-Val de Loire,Eure-et-Loir,48.44385399999999,1.489012,[5000],Foulées de La Cathédrale
+Ekiden Grandes Heures Nature,2024-06-24 02:00:00,42195,1260,,À tes heures perdues,Bourgogne-Franche-Comté,Doubs,47.2404763,6.008138499999999,[],Marathon
+Semi Marathon de la Côte des Vikings ,2024-06-24 02:00:00,7000,0,,À l'abordage ,Normandie,Manche,49.5859178,-1.2644094,[21100],La course de l'huitre 
+Les Courses du Tilleul,2024-06-24 02:00:00,10000,0,,,Grand Est,Haut-Rhin,47.72967999999999,7.147285000000001,[5000],Course des As
+Corrida de Langueux,2024-06-24 02:00:00,20000,281,,Et non pas chorrida de langueux si t'as un cheveu sur la langueux,Bretagne,Côtes-d'Armor,48.494183,-2.714449,"[5000, 12000, 19000, 10000, 18000]",Trail 20km
+Marathon du Vignoble d'Alsace,2024-06-24 02:00:00,5000,0,,La choucroute ch’est bon ,Grand Est,Bas-Rhin,48.5384954,7.5155033,"[10000, 10000, 42195, 21097]",Les Foulées Doubles
+Course de la Citadelle,2024-06-24 02:00:00,10000,0,,À l'assaut de la Citadelle !,Hauts-de-France,Nord,50.62925,3.057256,"[5000, 5000]",Course sur route 10 km
+Course Nature du Parc de Flers,2024-06-24 02:00:00,8500,0,,Il te faudra du Flers,Normandie,Orne,48.7503746,-0.5701662,[],"Trail 8,5 km"
+La Fêlée Gourmande,2024-06-24 02:00:00,10000,0,,,Normandie,Seine-Maritime,49.5745759,0.4670195,[5000],Trail 10 km
+Run'In Lisieux,2024-06-24 02:00:00,10000,0,,Ouvre bien tes sieux,Normandie,Calvados,49.145922,0.227849,[5000],Course sur route 10 km
+Nocturne de Puyricard,2024-06-24 02:00:00,10000,0,,Une douce soirée d'été,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,43.582607,5.408437999999999,[],Course sur route 10 km
+Oxy'trail,2024-06-24 02:00:00,10800,73,,Une bouffée d'oxy'gène,Île-de-France,Seine-et-Marne,48.8568393,2.6239675,"[5000, 13000, 23000]",Marche nordique
+Font-Romeu Nature Trail,2024-06-24 02:00:00,7000,300,,Tous les chemins mènent à (Font)Romeu,Occitanie,Pyrénées-Orientales,42.5052379,2.0420012,"[15000, 45000, 26000]",Trail des Amis
+La Ruée des Fadas - Logelheim,2024-06-25 02:00:00,8000,125,,"Plus on est de fous, plus on rit ! ",Grand Est,Haut-Rhin,48.02017499999999,7.407025999999999,[],Course d'obstacles 8 km
+Valence Spahis Race,2024-06-25 02:00:00,7000,0,,Pour soutenir nos blessés !,Auvergne-Rhône-Alpes,Drôme,44.9280296,4.893293799999999,[],OPEN - INDIVIDUEL
+Les 10km de l'Hexagone de Paris,2024-06-25 02:00:00,4000,0,,Le Paris de l'Hexagone,Île-de-France,Paris,48.85837009999999,2.2944813,"[10000, 10000]",Family Walk & Run
+Trail de l'Oratoire,2024-06-25 02:00:00,18000,0,,Un vrai concours d'éloquence,Centre-Val de Loire,Loir-et-Cher,47.792551,1.065343,[9000],Trail 18 km
+Trail des 3 Pics,2024-06-25 02:00:00,56000,3800,,Pics épiques et cols égram !,Occitanie,Haute-Garonne,42.9957827,0.9080209,"[34000, 22500, 12000]",T3P XL
+Course des Héros,2024-06-25 02:00:00,7000,0,,Les vrais héros courent ! ,Nouvelle-Aquitaine,Landes,43.6408739,-1.224277,[],Course sur route 7 km
+Trail 3 rivières,2024-06-25 02:00:00,15000,0,,Mené la danse ,Bretagne,Côtes-d'Armor,48.2945866,-2.5219133,[9000],Trail 15 km
+Sarabande – Course Nature de la Vallée du Thouet,2024-06-25 02:00:00,9000,0,,Thouet permis sur la Sarabande,Nouvelle-Aquitaine,Deux-Sèvres,46.8217025,-0.1379572,"[26000, 15000]",Trail 9 km
+Trail de Nigloland,2024-06-25 02:00:00,26000,0,,L’attraction de l’année !,Grand Est,Aube,48.26064100000001,4.610033,"[15000, 8000]",Trail 26 km
+Les Foulées du Ter,2024-06-25 02:00:00,5000,0,,Ne prends pas le Ter,Bretagne,Morbihan,47.701032,-3.461667,[10000],Course sur route 5 km
+Trail de la Guyardaise,2024-06-25 02:00:00,9000,0,,Il est temps de s'enguyarder !,Bourgogne-Franche-Comté,Yonne,48.3424241,3.0717857,[19000],Randonné / Marche nordique 
+Corrida de Pontailler sur Saône,2024-06-25 02:00:00,5000,0,,Saone qui peut !,Bourgogne-Franche-Comté,Côte-d'Or,47.304937,5.415417,"[7600, 8000, 8700, 11500]",Trail 5 km
+Trail de Grésigne,2024-06-25 02:00:00,26000,1150,,À la trace du Tarn,Occitanie,Tarn,43.992948,1.710653,"[13000, 44000]",Trail 26 km
+Les Côteaux De La Logne,2024-06-25 02:00:00,21000,440,,Une course à couper au Côteaux,Pays de la Loire,Loire-Atlantique,46.9662416,-1.5768403,"[5000, 10000, 30000]",Trail XXS Gedimat Lesimple
+NordicTrack Running au Château de Versailles,2024-06-25 02:00:00,2000,0,,Qui sera le prochain Roi Soleil ?,Île-de-France,Yvelines,48.8048649,2.1203554,"[8000, 400, 8000, 15000]",Course du Château
+Trail de la Vallée de la Sélune,2024-06-25 02:00:00,25000,750,,"Au clair de Sélune, mon ami Pierrot",Normandie,Manche,48.60706159999999,-1.1693978,"[40000, 13000, 7500, 12000, 28000]",Défi « Thélem assurances Avranches »
+Trail de Dabo,2024-06-25 02:00:00,19000,880,,Les femmes Dabo,Grand Est,Moselle,48.6535664,7.235773,"[33000, 10500, 10500]",Trail de la Zorn
+Trail des remparts de Vannes,2024-06-25 02:00:00,7000,69,,Une course Médié-Vannes,Bretagne,Morbihan,47.658236,-2.760847,"[2000, 15000]",Trail 7 km
+Trail de l'Epine,2024-06-25 02:00:00,16000,660,,Un trail qui va t'enlever l'épine du pied !,Auvergne-Rhône-Alpes,Savoie,45.596488,5.874111999999999,"[53000, 40000, 25000]",Ronce
+Festy Tour,2024-06-25 02:00:00,9000,0,,Run to be alive ,Bretagne,Finistère,48.498961,-4.418542,[],Marche 9 km
+10 Bornes Nature de Conches,2024-06-25 02:00:00,7500,0,,C'est pas l'heure d'aller se Concher,Normandie,Eure,48.96195849999999,0.9428394,[10000],"Marche 7,5 km"
+La GouRunZik,2024-06-25 02:00:00,10000,0,,T'as le Gou de la musique ? ,Bretagne,Morbihan,48.13998000000001,-3.606398,[8000],Course sur route 10 km
+Transleonarde,2024-06-25 02:00:00,14000,0,,Mets-toi en transe !,Bretagne,Finistère,48.6593244,-4.2179568,"[42195, 42195, 21097]",Le Trail des Naufrageurs
+10 km de Saint Adresse ,2024-06-25 02:00:00,10000,0,,En voilà une bonne adresse,Normandie,Seine-Maritime,49.50510550000001,0.08581599999999999,[],Course sur route 10 km
+Trail de la Grande Champagne,2024-06-25 02:00:00,12500,297,,Une petite coupe de champagne et c'est parti ,Nouvelle-Aquitaine,Charente,45.617721,-0.218194,"[14000, 52500, 25500]","Trail 12,5 km"
+Running Up For Air,2024-06-25 02:00:00,1440,100,,Put your shoes in the Air,Auvergne-Rhône-Alpes,Haute-Savoie,45.923697,6.869433,[], Running Up For Air 
+La Foulée Royale,2024-06-25 02:00:00,10000,0,,Une course in-roi-table 👑,Île-de-France,Yvelines,48.8978725,2.0961234,[],Trail 10 km
+City Trail Di Sartè ,2024-06-26 02:00:00,8000,0,,La plus Corse des villes Corses,Corse,Corse-du-Sud,41.621822,8.97472,[10000],Marche
+7 Vallées Race,2024-06-26 02:00:00,32000,694,,Sors tes bottes de 7 lieues,Hauts-de-France,Pas-de-Calais,50.3729299,2.036676,"[8000, 21000, 15000, 10000, 12000]",Trail 32 km
+Run For Planet Lyon,2024-06-26 02:00:00,10000,0,,Tout pour la planète ,Auvergne-Rhône-Alpes,Rhône,45.7605474,4.861117699999999,[5000],Course sur route 10 km
+Marathon du Mont Blanc,2024-06-28 02:00:00,92000,6330,6330.0,La crème des trails,Auvergne-Rhône-Alpes,Haute-Savoie,45.923697,6.869433,"[21000, 10000, 23000, 15000, 3800, 42000]",90km du Mont-Blanc
+12 heures de Ceyzériat,2024-06-29 02:00:00,720,300,,Ain-2 heures,Auvergne-Rhône-Alpes,Ain,46.0,5.0,[],Trail 12h
+Triathlon de Montauban,2024-06-29 02:00:00,10300,0,,,Occitanie,Tarn-et-Garonne,44.01625809999999,1.352631,"[25750, 54500]",Triathlon XS
+Trail de la Vallée des Lacs,2024-06-29 02:00:00,15000,900,,Les lacs fantastiques,Grand Est,Vosges,48.0592886,6.892646099999999,"[33000, 13000, 12000, 65000, 65000]",La Géromée de la Vallée des Lacs
+Triathlon des Pyrénées ,2024-06-29 02:00:00,112900,2854,,Au cœur du Montious,Occitanie,Hautes-Pyrénées,42.815835,0.320251,"[13250, 48500]",Triathlon L
+Course Concert de Corbas,2024-06-29 02:00:00,10500,65,65.0,Coooorbaaaas myself 🎶,Auvergne-Rhône-Alpes,Rhône,45.6692071,4.896938599999999,[],Course Concert De Corbas
+Corrida Crédit Agricole Toulouse 31,2024-06-30 02:00:00,10000,0,,Enfile ton habit de lumière !,Occitanie,Haute-Garonne,43.598264,1.4092542,[3000],Course sur route 10 km
+Course des Crêtes du Pays Basque,2024-06-30 02:00:00,14000,500,,Ça va coller aux basques !,Nouvelle-Aquitaine,Pyrénées-Atlantiques,43.340759,-1.44872,"[16700, 7000, 20000, 28000, 7000]",Marche 14 km
+Triathlon des Monts de Guéret,2024-06-30 02:00:00,25750,0,,,Nouvelle-Aquitaine,Creuse,46.16959900000001,1.871452,[10300],Triathlon S
+Triathlon des Monts du Lyonnais,2024-06-30 02:00:00,10300,0,,,Auvergne-Rhône-Alpes,Rhône,45.70753,4.5911099,[25750],Triathlon XS
+L'Ultra Marin Raid Golfe du Morbihan,2024-06-30 02:00:00,175000,1430,,Ça va swinguer !,Bretagne,Morbihan,47.658236,-2.760847,"[100000, 29000, 56000, 34000]",Grand Raid
+Duo Nocturne de la Ville de Vedène,2024-06-30 02:00:00,7500,80,,La nuit porte conseil,Provence-Alpes-Côte d'Azur,Vaucluse,43.974378,4.903105,[],"Trail 7,5 km"
+Les Foulées de Bretagne,2024-06-30 02:00:00,13500,0,,Une course preNantes,Pays de la Loire,Loire-Atlantique,47.21627489999999,-1.5487708,[],"Trail 13,5 km"
+Ironman 70.3 Les Sables-d'Olonne - Vendée,2024-06-30 02:00:00,113000,0,,,Pays de la Loire,Vendée,46.49295799999999,-1.795493,[],Ironman 70.3
+Morvan Oxygene Experience,2024-07-01 02:00:00,36000,1000,,Oxy gènes de mutants,Bourgogne-Franche-Comté,Nièvre,47.0569552,3.9244916,"[21000, 10000, 15000]",Trail 36 km
+We Run Paris - Les 10km du PSG,2024-07-01 02:00:00,3000,0,,Pariiiiis est magique ! 🔴🔵,Île-de-France,Paris,48.856614,2.3522219,"[1500, 500, 10000, 1000, 10000]",Kids Race 13-15 Ans
+La Champduf Trail,2024-07-01 02:00:00,35000,1260,,Allumer le champ du feu !,Grand Est,Bas-Rhin,48.402916,7.215693,"[24000, 14000, 9500]",TRAIL DU BAN DU CENTENAIRE
+La Montagnhard,2024-07-01 02:00:00,50000,3790,,Fais ressortir le Montagn'hard qui est en toi !,Auvergne-Rhône-Alpes,Haute-Savoie,45.9064279,6.7012639,"[27000, 70000, 108000]",La Mi Hard
+Week-end du Tour des Glaciers de la Vanoise,2024-07-01 02:00:00,73000,3750,3740.0,"Éloignez-vous de la bordure du quai, le TGV trail débarque !",Auvergne-Rhône-Alpes,Savoie,45.3818378,6.7213822,"[30000, 16000]",Randonnée TGV
+Ultrachampsaur ,2024-07-01 02:00:00,57000,3700,,T'es ultrachampseux ,Provence-Alpes-Côte d'Azur,Hautes-Alpes,44.623591,6.205691,"[10000, 5000, 30000]",Ultra Champsaur - Relais
+Chalmatrail,2024-07-01 02:00:00,42195,1700,,"Chamallow, Chalmalow, Chalmazel, Chalmatrail",Auvergne-Rhône-Alpes,Loire,45.70340789999999,3.8513654,"[14500, 28000, 7000]",Le Marathon du Chalmatrail
+Lumitrail,2024-07-01 02:00:00,12000,0,,Lumineux !,Grand Est,Ardennes,49.7331178,4.783412,[8000],Lumi'Trail
+Les Onze d'Obernai,2024-07-01 02:00:00,11000,150,,Jean-Louis Obernai,Grand Est,Bas-Rhin,48.465205,7.468407999999999,[],Les O'nzes
+Trails des Balcons de Cauterets,2024-07-02 02:00:00,10000,0,,Y'a du monde au balcon,Occitanie,Hautes-Pyrénées,42.851548,-0.1368737,"[20000, 47000]",Trail 10 km
+Tulle Brive Nature,2024-07-02 02:00:00,11000,210,,Sois gaillard à Brive,Nouvelle-Aquitaine,Corrèze,45.2738685,1.7756071,"[5000, 40000, 29000, 24000]",Marche 11 km
+Le TOP Prixtel Ferté-Milon,2024-07-02 02:00:00,22000,0,,Au top du trail ,Hauts-de-France,Aisne,49.177915,3.124745,"[6000, 11000, 37000]",Le Trail Nature
+Course Nature de Laignelet,2024-07-02 02:00:00,4600,0,,Boire du petit Laig à Laignelet,Bretagne,Ille-et-Vilaine,48.370431,-1.151591,"[33800, 15300]",L'Agnelaise
+La Ronde de Saint-Didier,2024-07-02 02:00:00,12000,0,,Ça donnerait presque le tournis,Provence-Alpes-Côte d'Azur,Vaucluse,44.006624,5.101144,[],Course sur route 12 km
+Le Josselin Crugel,2024-07-02 02:00:00,6000,0,,Crugel-la,Bretagne,Morbihan,47.8784375,-2.597673,"[12000, 10000]",Marche 6 km
+Trail de la Flora,2024-07-02 02:00:00,10000,200,,La faune et la Flora,Bretagne,Côtes-d'Armor,48.557172,-2.532964,"[30000, 20000]",Trail 10 km
+10 km de falaise,2024-07-02 02:00:00,10000,0,,À l'aise à Falaise,Normandie,Calvados,48.8936885,-0.2036019,[],Course sur route 10 km
+Tour de l'Île de Batz,2024-07-02 02:00:00,10500,0,,Seras-tu le nouveau Batzman ?,Bretagne,Finistère,48.740682,-4.0077218,[21097],"Course sur route 10,5 km"
+Trail des Bauges,2024-07-02 02:00:00,10000,350,,Il va faire super Bau(ges) !,Auvergne-Rhône-Alpes,Savoie,45.6713274,6.1059987,"[48000, 21000, 48000]",Trail 10 km
+La Ronde des Alpes Mancelles,2024-07-02 02:00:00,5500,0,,Et si les vraies Alpes étaient dans la Sarthe ?,Pays de la Loire,Sarthe,48.353393,-0.076539,"[15000, 24000]","Trail 5,5 km"
+Ti Moon Trail,2024-07-02 02:00:00,15000,0,,T'es dans la lune ? ,Bretagne,Finistère,47.856372,-3.744641,[8000],Trail 15 km
+I Love Tr'ail,2024-07-02 02:00:00,21000,550,,C'est l'amour fou,Provence-Alpes-Côte d'Azur,Vaucluse,44.15768490000001,4.7250212,[10000],Trail 21 km
+La Frileuse,2024-07-02 02:00:00,20000,0,,Il va faire tout froid !,Île-de-France,Yvelines,48.85284499999999,1.874855,"[10000, 10000, 5000]",Course sur route 20 km
+Foulées de Rando Nature,2024-07-02 02:00:00,8000,0,,Tré belle course,Bretagne,Côtes-d'Armor,48.8147372,-3.3832965,"[16000, 16000]",Trail 8 km
+Trail du Schnepf,2024-07-02 02:00:00,13000,400,,,Grand Est,Haut-Rhin,47.9978638,7.074409,[20000],Trail 13 km
+Trail des Évoissons,2024-07-02 02:00:00,22000,780,,Un trail engagé pour l'environnement !,Hauts-de-France,Somme,49.735069,1.99655,"[35000, 55000]",L'Archemont
+Courses du Pays Glazik,2024-07-02 02:00:00,21100,0,,Un grand Glazik,Bretagne,Finistère,48.1003866,-4.0239205,[],"Course sur route 21,1 km"
+Semi-Marathon de Phalempin,2024-07-03 02:00:00,21097,0,,Pas de la poudre de Phalempinpin !,Hauts-de-France,Nord,50.5283308,3.0176664,[],Semi-Marathon
+Trail de la Lanterne,2024-07-03 02:00:00,22000,430,,Et la lumière fut ,Centre-Val de Loire,Indre-et-Loire,47.414169,0.754852,[13000],Trail 22 km
+Trail des Cerfs,2024-07-03 02:00:00,18000,0,,Gambade tel un cerf ,Bretagne,Côtes-d'Armor,48.176274,-2.752021,"[10000, 10000]",Trail 18 km
+Le Trail de l'Ic,2024-07-03 02:00:00,20000,609,,Il n'y aura pas de Ic ,Bretagne,Côtes-d'Armor,48.571991,-2.814177,[10000],Trail 20 km
+Course Nature et Marche Nordique de Chevaigné,2024-07-03 02:00:00,13000,0,,Une course de Chevaigné,Bretagne,Ille-et-Vilaine,48.2085821,-1.6304753,"[8000, 8000]",Trail 13 km
+Trail du Platane,2024-07-03 02:00:00,7000,170,,Platane o plomo,Nouvelle-Aquitaine,Dordogne,45.09565569999999,1.1956881,"[20000, 11000]",Chemin des moutons
+Nouya Trail,2024-07-03 02:00:00,13000,0,,T'as les pieds bordés de Nouy,Bretagne,Ille-et-Vilaine,48.1133774,-1.5226751,[],Trail 13 km
+Zinzin Ultra-Trail,2024-07-06 02:00:00,155000,6500,,"Zut, j'ai trail ! ",Occitanie,Lozère,44.32409270000001,3.593657,"[14000, 14000, 70000, 1500]",Zinzin Ultra-Trail Solo ou Duo
+Ultra Trail Côte d'Azur Mercantour,2024-07-07 02:00:00,5000,500,,Un grand tour dans le Mercantour,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,44.07013999999999,7.256428,"[30000, 75000, 50000, 10000, 125000, 125000]",Trail 5 km
+Triathlon Langogne Naussac,2024-07-07 02:00:00,51500,0,,,Occitanie,Aveyron,44.520582,2.093646,"[10300, 25750]",Triathlon M
+Grand Raid du Guillestrois-Queyras,2024-07-07 02:00:00,164000,11230,,L’Ultra Trail 100% authentique !,Provence-Alpes-Côte d'Azur,Hautes-Alpes,44.6610919,6.649365,"[65000, 100000, 45000]",Le Relais
+Company Cup Annecy,2024-07-07 02:00:00,10000,0,,Un esprit sain dans un corps sain,Auvergne-Rhône-Alpes,Haute-Savoie,45.8992115,6.131265099999999,[],City Trail
+Odlo High Trail Vanoise,2024-07-07 02:00:00,92000,6450,,Doux comme une glace à la Vanoise.,Auvergne-Rhône-Alpes,Savoie,45.448034,6.980226,"[20000, 9000, 72000, 3000, 42000, 72000, 42000]",Ultimate 5
+Trail l'Aube des Templiers,2024-07-08 02:00:00,22000,650,,Cours jusqu'à l'Aube,Grand Est,Aube,48.114154,4.373386,"[8000, 46000, 14000, 14000, 8000]",Trail de la Tour l'Horloge
+Restonica Trail by UTMB®,2024-07-08 02:00:00,110000,7200,,Attention ça ce Corse !,Corse,Haute-Corse,42.3064761,9.148098000000001,"[17000, 9000, 66800, 33000]",Ultra-Trail di Corsica
+La Foulée Jean-Henri Fabre,2024-07-08 02:00:00,1000,0,,Découvre la Provence à pleines foulées ,Provence-Alpes-Côte d'Azur,Vaucluse,44.1864105,4.8399171,"[5000, 12000, 6000]",Course sur route 1 km
+Les 10km de Grand-Fayt,2024-07-08 02:00:00,10000,0,,Du travail bien Fayt !,Hauts-de-France,Nord,50.11258,3.804235,[],10kms
+Beaujolais Runners Trail,2024-07-08 02:00:00,7000,320,,Des trails hauts en couleur !,Auvergne-Rhône-Alpes,Rhône,46.192646,4.6974557,"[18000, 8000, 31000]",Rando de la Madone
+Trail des Tordus,2024-07-08 02:00:00,12000,295,,Les tordus de trail,Grand Est,Marne,49.1586947,4.1466669,"[25000, 50000]",Le Mini Tordu
+La Course entre Mer et Forêt - Semi Marathon et 10 km,2024-07-08 02:00:00,21097,0,,Au taquet au Touquet !,Hauts-de-France,Pas-de-Calais,50.5242896,1.5830385,[10000],Semi-Marathon
+Arena Trail de Liévin,2024-07-08 02:00:00,15000,0,,,Hauts-de-France,Pas-de-Calais,50.417921,2.775222,"[22000, 8000]",Trail 15 km
+Trail du Tour des Fiz,2024-07-08 02:00:00,12300,870,,Ça Fiz zizir ! ,Auvergne-Rhône-Alpes,Haute-Savoie,45.9165563,6.691207599999999,"[24000, 31000, 70000, 64000]",Le balcon des Fiz 
+Corrida de Glaire,2024-07-08 02:00:00,10000,0,,Ne vas pas t'enrhumer !,Grand Est,Ardennes,49.711489,4.913349,[],Course sur route 10 km
+Luchon Aneto Trail,2024-07-08 02:00:00,85000,5300,,C'est LAT que tout se passe !,Occitanie,Haute-Garonne,42.788963,0.592943,"[65000, 42000, 21000, 10000, 45000]",Ultra LAT 
+Trail de France,2024-07-08 02:00:00,360000,13000,,Digne du Tour de France ,Auvergne-Rhône-Alpes,Ain,46.1113817,5.8262043,[],Trail 360 km
+Trail du Bout du Monde,2024-07-09 02:00:00,57000,900,,À la pointe du trail !,Bretagne,Finistère,48.3365969,-4.6143849,"[37000, 20000]",Ultra Trail du Bout du Monde
+Ekiden et Trail Nature du Pays de Sault,2024-07-09 02:00:00,16000,550,,Nature-peinture ,Provence-Alpes-Côte d'Azur,Vaucluse,44.091413,5.408174,"[42195, 11000]",Trail 16 km
+Trail du Pays Welche,2024-07-09 02:00:00,52000,2290,2300.0,À déguster sans modération,Grand Est,Haut-Rhin,48.1016282,7.159725799999999,[26000],Trail 52 km
+"Course ""La Mère Denis""",2024-07-09 02:00:00,6000,0,,Et son papa alors ? ,Normandie,Manche,49.3812029,-1.7516732,"[22000, 12000, 10000]",Les Buandières
+Trail pour les Enfants du Népal,2024-07-09 02:00:00,25000,740,,Pour la bonne cause !,Centre-Val de Loire,Indre-et-Loire,47.14546,0.400439,"[4500, 15000, 10000]",Trail 25 km
+Grand Trail de la Vallée d'Ossau,2024-07-09 02:00:00,74000,4600,,Vol comme un Ossau ,Nouvelle-Aquitaine,Pyrénées-Atlantiques,42.987644,-0.426274,[],Trail 74 km
+La panoramique du mont des cats,2024-07-09 02:00:00,7000,0,,C'est le Nord,Hauts-de-France,Nord,50.793405,2.647444,"[15000, 21000]",La Petite Pano
+La Lançonnaise,2024-07-09 02:00:00,10000,0,,On lance les paris !,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,43.6168507,5.1368814,[],Trail 10 km
+Nordic' Trail La Bresse,2024-07-10 02:00:00,10000,500,,"Puisque la montagne ne vient pas à toi, va à la montagne",Grand Est,Vosges,48.0386497,6.973603600000001,"[20000, 40000]",Trail 10 km
+Red Bull 400 - Courchevel,2024-07-10 02:00:00,400,0,,Courchevel donne des ailes !,Auvergne-Rhône-Alpes,Savoie,45.4328831,6.6213973,[],Trail 400 m
+Trail de Sérent,2024-07-10 02:00:00,9000,0,,En toute Sérentité ,Bretagne,Morbihan,47.822443,-2.506139,[17000],Trail 9 km
+La Montinette,2024-07-10 02:00:00,10000,0,,"Tire la chevillette, la Montinette cherra...",Hauts-de-France,Somme,50.072356,2.469544,"[5000, 21000]",Trail 10 km
+Trail des Duos,2024-07-10 02:00:00,9000,0,,Bonnie et Clyde ou Mario et Luigi ? ,Bretagne,Côtes-d'Armor,48.37908299999999,-2.971072,[],Trail 9 km
+Brevelaise,2024-07-10 02:00:00,6000,0,,Ce n'est pas à Velay mais a pieds,Bretagne,Morbihan,47.845229,-2.720734,[],Trail 6 km
+Foulées Ercéennes,2024-07-13 02:00:00,5000,0,,Tu pourras PErcé,Bretagne,Ille-et-Vilaine,48.2562209,-1.517549,"[17200, 9900]",Course sur route 5 km
+Triathlon du Lac du Bouchet,2024-07-13 02:00:00,17090,0,,,Auvergne-Rhône-Alpes,Haute-Loire,44.8902659,3.790115,"[26350, 46200, 102700, 8600]",SwimRun M
+Trail des Belleville,2024-07-13 02:00:00,7000,350,,Elle est belle la vie,Auvergne-Rhône-Alpes,Savoie,45.40031339999999,6.4951389,"[22000, 14000, 40000]",Trail 7 km
+Courons la Carmagnole,2024-07-13 02:00:00,6000,0,,Ne te casse pas la margoulette à la carmagnole,Centre-Val de Loire,Loiret,47.893201,1.702582,[12000],Trail 6 km
+Trail le Grand Huit,2024-07-14 02:00:00,8000,0,,Prêt pour les montagnes russes ?,Bretagne,Morbihan,47.6307509,-2.285521,[14000],Trail 8 km
+Courses de Wintzenheim,2024-07-14 02:00:00,10000,0,,,Grand Est,Haut-Rhin,48.073122,7.289782,[5000],Course sur route 10 km
+Course Nature Bénouville Blainville,2024-07-14 02:00:00,12700,0,,Entre château et nature,Normandie,Calvados,49.24242419999999,-0.2749971,[],"Trail 12,7 km"
+Nocturne du Jacquemart,2024-07-14 02:00:00,10000,0,,Prêt pour une nuit blanche ?,Occitanie,Tarn,43.73414770000001,1.7545071,[5000],Course sur route 10 km
+Trail des Bartàs,2024-07-14 02:00:00,21000,850,,Ne Tarn pas à venir ! ,Occitanie,Tarn,43.834397,2.339761,"[8000, 12000]",Le Semi
+UTMC (Ultra Tour de la Motte-Chalancon),2024-07-15 02:00:00,20000,1440,,"Un Ultra Tour dans la Drôme, ça te motte ?",Auvergne-Rhône-Alpes,Drôme,44.4848223,5.3793774,"[80000, 42000, 21000, 80000, 12000, 13000]",Rando des Aiguilles
+Trail Aquaterra,2024-07-15 02:00:00,15000,500,,Entre terre et mer,Nouvelle-Aquitaine,Corrèze,45.4127034,2.4986346,"[20000, 10000, 53000, 8000, 80000, 53000, 8000, 27000, 30000, 27000, 80000]",La Pierr'Fit Tour Solo
+Trail des Mélèzes du Mercantour,2024-07-15 02:00:00,10000,500,,,Provence-Alpes-Côte d'Azur,Alpes-de-Haute-Provence,44.182011,6.627111999999999,"[25000, 50000]",Trail 10 km
+Trail des Fleurs,2024-07-15 02:00:00,25000,1500,,"Je cours, un peu, beaucoup, à la folie",Occitanie,Hautes-Pyrénées,42.8970352,0.0658098,[13000],Trail 25 km
+La France en Courant,2024-07-15 02:00:00,2650000,0,,Une épreuve au levain du jour !,Normandie,Eure,49.0903967,0.5890567999999999,[],Course sur route 2 650 km
+Mad'trail,2024-07-15 02:00:00,3000,1000,,Mad Max Fury Trail ,Auvergne-Rhône-Alpes,Savoie,45.4615437,6.442199500000001,"[45000, 19000, 63000, 28000, 16000]",KV de Crève-Tête
+Trail de Terrides ,2024-07-16 02:00:00,22000,530,530.0,Ça va être vraiment terrides,Occitanie,Tarn-et-Garonne,43.9884919,1.0432546,"[11000, 13000, 400, 1200, 800]",Trail du Château de Terrides
+Course Nature d'Enelle,2024-07-16 02:00:00,17000,400,,Bienvenue dans le jardin d'Enelle,Grand Est,Ardennes,49.691755,4.6979,[8000],Trail 17 km
+UTTJ - Un Tour en Terre du Jura,2024-07-16 02:00:00,100000,4500,,La traversée des montagnes du Jura,Bourgogne-Franche-Comté,Jura,46.3899721,5.860323699999999,"[8000, 17000, 50000, 200000, 35000]",Les Balcons Du Léman - UTTJ 100
+Trail de Lyons la Forêt,2024-07-17 02:00:00,12000,350,,Rugis comme le Lyons ,Normandie,Eure,49.398575,1.475351,"[35000, 22000]",Trail 12 km
+La Courdelaise du Marais Poitevin,2024-07-17 02:00:00,10000,0,,À la découverte de la Venise verte,Pays de la Loire,Vendée,46.389159,-0.6868099999999999,"[15000, 5000]",Trail 10 km
+Trail du Caroux,2024-07-17 02:00:00,10000,500,,Car-où tu mets les pieds !,Occitanie,Hérault,43.57123,2.956289,"[18000, 30000]",Trail 10 km
+Trail du Rabioux,2024-07-17 02:00:00,23000,1500,,De quoi te rabioubocher,Provence-Alpes-Côte d'Azur,Hautes-Alpes,44.613468,6.521250999999999,[12000],Trail 23 km
+Le Crapahut des Dahuts,2024-07-19 02:00:00,170000,9500,,Crapahutons dans les bois 🎶,Auvergne-Rhône-Alpes,Haute-Savoie,46.187638,6.666891,[],Solo
+UltrAriège,2024-07-19 02:00:00,170000,10500,,"À la fin, tout le monde aux thermes !",Occitanie,Ariège,42.720254,1.837545,"[55000, 23000, 100000, 15000]",Trail 170 km
+UT4M,2024-07-20 02:00:00,160000,12050,,Tu vas voir en quadruple !,Auvergne-Rhône-Alpes,Isère,45.1906081,5.726845,"[20000, 100000, 40000, 40000, 80000, 40000, 40000, 20000, 20000, 20000]",UT4M 160 Xtrem
+Terre des Dieux,2024-07-20 02:00:00,165000,11000,,Zeus n'a qu'à bien se tenir !,Corse,Haute-Corse,42.50754,8.8555569,[],Trail 165 km
+Terre des Dieux - Terra Di I,2024-07-20 02:00:00,165000,11000,,Une course immortelle,Corse,Haute-Corse,42.697283,9.450880999999999,[],Trail 165 km
+Course du Moun,2024-07-20 02:00:00,10000,0,,Une course à pied pour tous !,Nouvelle-Aquitaine,Landes,43.893485,-0.4997819999999999,[],Trail 10 km
+Foulées du pâté aux pommes de terre,2024-07-20 02:00:00,12100,0,,,Nouvelle-Aquitaine,Creuse,45.84799899999999,1.994588,[8100],"Trail 12,1 km"
+Triathlon de Bergerac ,2024-07-21 02:00:00,25750,0,,"Bergerac, Bergerac,  Dormez-vous ? Dormez-vous?",Nouvelle-Aquitaine,Dordogne,44.853806,0.483392,"[10300, 51500]",Triathlon S
+Les foulées du large,2024-07-21 02:00:00,5000,0,,Ce soir je prends le large 🎶,Bretagne,Morbihan,47.482133,-3.121053,[10000],Trail 5 km
+Terra Rhona Bordeaux,2024-07-21 02:00:00,11000,0,,Terra pide dis donc !,Nouvelle-Aquitaine,Gironde,44.8448769,-0.656358,[8000],Course à obstacles 11 km
+Foulées du paté aux pommes de terre,2024-07-22 02:00:00,1000,0,,Purée de Pomme de Terre ! 🥔,Nouvelle-Aquitaine,Creuse,45.84799899999999,1.994588,"[12100, 9000, 8100]",Course enfants
+Ultra tour du Beaufortain,2024-07-22 02:00:00,114000,7200,," Soit beau, soit fort !",Auvergne-Rhône-Alpes,Savoie,45.719914,6.459098,[],Ultra Tour du Beaufortain en Relais
+Ronde Nocturne des Ponts Bleus,2024-07-22 02:00:00,10000,0,,Attention à ne pas passer pour un bleu ,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,43.4310575,5.0481732,[],Course sur route 10 km
+Montée du Nid d'Aigle,2024-07-22 02:00:00,19300,2202,405.0,"Petit à petit, Finisher fait son nid",Auvergne-Rhône-Alpes,Haute-Savoie,45.9064279,6.7012639,[],"Trail 19,3 km"
+Marathon du Grand Ballon,2024-07-23 02:00:00,16000,850,,Faut pas te dégonfler !,Grand Est,Haut-Rhin,47.9104866,6.9736273,"[26000, 80000, 42000]",Trail 16 km
+Argentrail,2024-07-23 02:00:00,27000,1690,,Un trail qui a du flouze !,Auvergne-Rhône-Alpes,Haute-Savoie,45.923697,6.869433,[14000],Argentrail
+Marathon de la Pointe de Barfleur,2024-07-23 02:00:00,42195,150,,A la croisée des bars et des fleurs !,Normandie,Manche,49.6696619,-1.2660038,[21097],Marathon
+Vauban Urban Trail,2024-07-23 02:00:00,13000,500,,Toujours plus haut !,Provence-Alpes-Côte d'Azur,Hautes-Alpes,44.899416,6.643179,[7000],Maxi VUT
+BK Trail,2024-07-23 02:00:00,24000,1700,,Burger King ou Baztandarrak ?,Nouvelle-Aquitaine,Pyrénées-Atlantiques,43.265573,-1.350543,[45000],Trail 24 km
+Trail des Gets,2024-07-23 02:00:00,1900,380,,Ça en Gette,Auvergne-Rhône-Alpes,Haute-Savoie,46.158622,6.669988,"[42000, 21000, 11000]",Le défi du Mont Chéry
+Marvejols-Mende,2024-07-23 02:00:00,22400,0,,Cévennes heaven,Occitanie,Lozère,44.517611,3.501873,[],"Course sur route 22,4 km"
+Les Foulées des 2 Roches,2024-07-24 02:00:00,46000,1490,,C'est clair comme de l'eau de roche !,Auvergne-Rhône-Alpes,Puy-de-Dôme,45.6856239,2.8023822,"[15000, 27000]",Le Marathon du Guéry
+Montée des Pavés Taninges Praz de Lys,2024-07-24 02:00:00,7000,900,,Petit ange partie trop vite,Auvergne-Rhône-Alpes,Haute-Savoie,46.1087639,6.5838169,"[12000, 8000]",Marche 7 km
+Course de la Sainte Anne,2024-07-24 02:00:00,10000,0,,Un joli p-Harcourt,Normandie,Eure,49.166874,0.7857489999999999,"[5000, 5000]",Course sur route 10 km
+20 km de la Côte de Granit Rose,2024-07-24 02:00:00,20000,0,,Aussi dur et solide que le granit ,Bretagne,Côtes-d'Armor,48.769253,-3.566092,"[6000, 10000]",Course sur route 20 km
+Les 10km du Château de Val-Seille,2024-07-24 02:00:00,10000,0,,N'oublie pas de faire preuve de courtoisie,Provence-Alpes-Côte d'Azur,Vaucluse,44.08564699999999,4.882963,[],Course sur route 10 km
+Foulées du Festayre,2024-07-26 02:00:00,13000,0,,Un bon entrainement aux férias,Nouvelle-Aquitaine,Pyrénées-Atlantiques,43.492949,-1.474841,[12800],Marche 13 km
+La 6000D La Plagne,2024-07-27 02:00:00,11000,600,,"Balance man, cadence man, trace la glace c'est le run man !",Auvergne-Rhône-Alpes,Savoie,45.5082417,6.6765547,"[69000, 67000, 30000, 43000]",La 6D Découverte
+Trail de la barousse,2024-07-28 02:00:00,2700,980,,Un Barousse d'honneur ! ,Occitanie,Hautes-Pyrénées,42.977934,0.5749569999999999,"[46000, 25000, 12000, 12000, 46000, 25000]","Trail 2,7 km"
+Trail de l'Etendard,2024-07-29 02:00:00,16000,543,,Détends toi !,Auvergne-Rhône-Alpes,Isère,45.0545052,6.030732299999999,"[22000, 44000, 65000]",Trail 16 km
+Trail Volodalen du Jura,2024-07-29 02:00:00,27000,800,,Bienvenue à JURAssic Park,Bourgogne-Franche-Comté,Jura,46.522526,5.612965,"[17000, 10000, 70000, 42000, 10000, 10000]",La Spéciale du Lac
+Vars Mountain Trail,2024-07-29 02:00:00,13000,627,,Vars attack,Provence-Alpes-Côte d'Azur,Hautes-Alpes,44.569422,6.682372,"[42000, 24000, 1400, 42000, 4000]",Col de Vars
+Megève Nature Trail,2024-07-29 02:00:00,46000,0,,Plus vrai que nature,Auvergne-Rhône-Alpes,Haute-Savoie,45.856876,6.61775,"[74000, 30000, 16000, 8000, 43000]",La Dooble Cîme (16+30)
+Run'in FAV,2024-07-30 02:00:00,10400,0,,Ta course FAVorite,Grand Est,Haut-Rhin,48.08732,7.278086999999999,[],"Trail 10,4 km"
+Via Romana,2024-07-30 02:00:00,50000,0,,Espérons que tu sois endurant !,Corse,Haute-Corse,42.357295,9.379332,"[22000, 12000]",L'Endurance Trail
+Les Foulées brettevillaises,2024-07-30 02:00:00,1500,0,,Prévois ta meilleure paire pour courir dans la Manche 👟,Normandie,Manche,49.256355,-1.631192,"[3200, 8900]","Course sur route 1,5 km"
+Trail du Grifoulet,2024-07-31 02:00:00,22000,600,,Tout en petite (gri)foulets,Occitanie,Tarn-et-Garonne,43.918261,1.399085,"[12000, 12000]",Trail 22 km
+La TransPyreneA,2024-08-01 02:00:00,900000,65000,,La Transpy car tu vas suer à grosses gouttes !,Nouvelle-Aquitaine,Pyrénées-Atlantiques,43.3530587,-1.7818216,"[450000, 180000, 180000, 450000]",La Transpyrenea Relais à 4
+La Panoramique,2024-08-03 02:00:00,16900,400,,Un beau panorama sur les Pyrénées et la mer !,Occitanie,Pyrénées-Orientales,42.69247,2.695643,[],"Trail 16,9 km"
+Millet XTrail Courchevel,2024-08-04 02:00:00,22000,1630,1630.0,"On ne te le dit pas X fois, viens à Courchevel !",Auvergne-Rhône-Alpes,Savoie,45.4328831,6.6213973,"[11000, 33000, 44000, 66000, 55000]",Trail 22 km
+Semi du Pays de Saint Gilles,2024-08-04 02:00:00,7000,0,,Vendée comme vous êtes ! ,Pays de la Loire,Vendée,46.720204,-1.945917,"[21097, 14000, 21097]",Course sur route 7 km
+Trail des Hauts Forts Morzine-Avoriaz,2024-08-05 02:00:00,23000,1950,,"Avoriaz, prêts, grimpez !",Auvergne-Rhône-Alpes,Haute-Savoie,46.19214770000001,6.7751173,"[51000, 51000, 40000]",Trail des Mines d'Or
+Trail du Montagnon,2024-08-05 02:00:00,19000,1100,,Un trail fait pour les montagnards,Nouvelle-Aquitaine,Pyrénées-Atlantiques,43.00185099999999,-0.541725,"[32000, 13000]",Marche 19 km
+Val Tho Summit Games,2024-08-05 02:00:00,4600,1000,,Les X Games mais en mieux,Auvergne-Rhône-Alpes,Savoie,45.40031339999999,6.4951389,"[20000, 6000, 42000, 10000]",VT SPEED 3200
+La Course des 2 Ponts,2024-08-05 02:00:00,5000,0,,C'est le Pont Pont sur la Haute-Vienne,Nouvelle-Aquitaine,Haute-Vienne,45.719274,1.831592,"[9600, 19200]",Trail 5 km
+Trail du Louron,2024-08-05 02:00:00,25000,0,,C’est Lourdon !,Occitanie,Hautes-Pyrénées,42.80898699999999,0.401686,[11000],Trail 25 km
+Trail Frison Roche,2024-08-05 02:00:00,7000,370,,"Il t’emmène au galop vers ton trail.. Ahh ce frison, qu’il est Beau et Fort !",Auvergne-Rhône-Alpes,Savoie,45.7171049,6.574292,"[17000, 42000]",Trail 7 km
+Les Courses du Jura Alsacien,2024-08-06 02:00:00,15000,570,,Je Ferrette bien un petit trail,Grand Est,Haut-Rhin,47.4947791,7.313822500000001,"[32000, 8000]",Le Trail Découverte
+Trail EDF Cenis Tour ,2024-08-06 02:00:00,82000,4700,,Un tour haut en couleur ! ,Auvergne-Rhône-Alpes,Savoie,45.2766578,6.817320899999999,"[59000, 35000, 21000, 12000, 11000]",Trail Noir relais à 3
+OussTrail,2024-08-06 02:00:00,10000,0,,Ouss a m'a l'air top ce trail !,Nouvelle-Aquitaine,Landes,43.956533,-0.76102,"[5000, 24000]",Trail 10 km
+Championnat du Canigó,2024-08-06 02:00:00,19000,0,,C'est de l'histoire ancienne !,Occitanie,Pyrénées-Orientales,42.5439854,2.390018,"[11500, 34000]",Trail 19 km
+Semi-Marathon Névache - Val des Prés - Briançon,2024-08-06 02:00:00,10000,0,,Ça brille à Briançon,Provence-Alpes-Côte d'Azur,Hautes-Alpes,44.899416,6.643179,[21000],Course sur route 10 km
+La 3000 Express,2024-08-06 02:00:00,22000,1350,,La reine des Meije ,Provence-Alpes-Côte d'Azur,Hautes-Alpes,45.045842,6.304705999999999,[],VTT et Trail en Relais
+Terre d'Argence,2024-08-07 02:00:00,5000,0,,À grandes foulées en Occitanie,Occitanie,Gard,43.69276199999999,4.610861,[10000],Course sur route 5 km
+Ubaye Trail Salomon,2024-08-07 02:00:00,23000,1070,,"Comme à Barcelone, mais en mieux !",Provence-Alpes-Côte d'Azur,Alpes-de-Haute-Provence,44.3857283,6.6519721,"[42000, 12000]",Parcours Découverte
+Méribel Trail,2024-08-10 02:00:00,5000,340,340.0,La crème de la crème,Auvergne-Rhône-Alpes,Savoie,45.432268,6.556993,"[35000, 10000, 25000]",Trail 5 km
+Marathon pour Tous,2024-08-10 02:00:00,42195,0,,Une forme olympique,Île-de-France,Paris,48.856614,2.3522219,[],Marathon
+Mizuno X3 Courchevel,2024-08-11 02:00:00,27800,1500,,,Auvergne-Rhône-Alpes,Savoie,45.4328831,6.6213973,[],X3 Courchevel
+Feriascapade,2024-08-11 02:00:00,10000,0,,Bienvenue à Disney-Landes !,Nouvelle-Aquitaine,Landes,43.708608,-1.051945,[],Trail 10 km
+Trail du Hatschbourg ,2024-08-11 02:00:00,16000,0,,,Grand Est,Haut-Rhin,48.011055,7.300300000000001,[],Trail du Hatschbourg
+Trail des Étoiles,2024-08-13 02:00:00,36000,2300,,Un peu plus près des étoiles ! 🌟,Provence-Alpes-Côte d'Azur,Hautes-Alpes,44.700836,6.868570999999999,"[62000, 10000, 17000]",Le Trail des Étoiles
+Trail de Monaccia,2024-08-13 02:00:00,12000,400,,Le trailstival de Cagne !,Corse,Corse-du-Sud,41.51202900000001,9.01188,[8500],La Monaccia
+La Marinade,2024-08-14 02:00:00,10000,0,,Courir pour la bonne cause !,Occitanie,Pyrénées-Orientales,42.7342375,3.0333286,[],Trail 10 km
+Trail du Mézenc,2024-08-15 02:00:00,14000,0,,Debout sur le Mézenc !,Auvergne-Rhône-Alpes,Haute-Loire,44.90351,4.1560629,"[15000, 31000, 8000]",Randonnée
+Foulée des Gardis,2024-08-15 02:00:00,14000,0,,Au cœur des vignes ,Provence-Alpes-Côte d'Azur,Vaucluse,43.734629,5.373049,[9000],Trail 14 km
+Triathlon de la Madeleine,2024-08-17 02:00:00,117800,3800,,"""L'allégorie des madeleines file à la vitesse de Prost""",Auvergne-Rhône-Alpes,Savoie,45.392198,6.265620999999999,"[24700, 62400]",Triathlon L
+Challenge du Montcalm,2024-08-17 02:00:00,3500,1000,,Keep calm and Montcalm,Occitanie,Ariège,42.767129,1.479285,"[25000, 13000, 109000, 70000, 42000]",KV
+Triathlon des Cabanes de Fleury,2024-08-18 02:00:00,23750,0,,,Occitanie,Aude,43.2286302,3.1350667,[10300],Triathlon S
+Enduro Pédestre des Sables,2024-08-19 02:00:00,6000,0,,Une course inclas-Sable !,Normandie,Manche,49.0482976,-1.5998165,"[21000, 14000, 7000, 7000]",Trail 6 km
+Trail du Galibier - Thabor,2024-08-19 02:00:00,67000,3690,,L'échappée au sommet du Galibier !,Auvergne-Rhône-Alpes,Savoie,45.1656825,6.4290823,"[12000, 12000, 23000, 52000, 32000, 23000, 10000]",Trail du Galibier-Thabor
+Trail des Moulins de la Pommeraye,2024-08-19 02:00:00,9000,100,,Pas là pour brasser de l’air ! ,Pays de la Loire,Maine-et-Loire,47.355566,-0.8591284,"[30000, 17000]",La Traversière
+Les Crêtes Vosgiennes,2024-08-20 02:00:00,17800,450,,Rencontres aux sommets,Grand Est,Haut-Rhin,48.1016282,7.159725799999999,"[33000, 33000]",Le Tour des Lacs
+Trail des Balcons de Châteauvieux,2024-08-20 02:00:00,12000,0,,"Pas besoin de VAR, ce trail est bien valable !",Provence-Alpes-Côte d'Azur,Hautes-Alpes,44.487446,6.052817999999999,"[5000, 24000]",Parcours du Château
+Trail des Pérics,2024-08-20 02:00:00,23000,1300,,Balèze ces Pérics,Occitanie,Pyrénées-Orientales,42.5772819,2.073585,[10000],Trail des Pérics
+Tignes Trail,2024-08-20 02:00:00,27000,1770,,"Il suffira d'un Tignes, un matin !",Auvergne-Rhône-Alpes,Savoie,45.4688455,6.9068754,"[13000, 44000]",Trail 27 km
+Course du Run,2024-08-20 02:00:00,8000,0,,Run vaut mieux que deux tu l'auras ! ,Normandie,Manche,49.5859178,-1.2644094,[],Course sur route 8 km
+Trail des Bornes,2024-08-21 02:00:00,60,200,,Un petit Mille Bornes ?,Bourgogne-Franche-Comté,Territoire de Belfort,47.4704237,6.9640248,[],Trail 1h
+La Farigoule,2024-08-21 02:00:00,5000,0,,Te laisse pas rouler dans la farine ,Provence-Alpes-Côte d'Azur,Vaucluse,44.17444,5.1320499,[12000],Trail 5 km
+Trails du Tour de la Grande Casse,2024-08-21 02:00:00,3500,600,,Tu vas tout casser ,Auvergne-Rhône-Alpes,Savoie,45.3818378,6.7213822,"[42000, 21000, 66000]",Bochor Express
+VercorsMan,2024-08-23 02:00:00,29700,0,,,Auvergne-Rhône-Alpes,Drôme,45.059666,5.249726,"[68250, 145250, 31000]",VercorsMan S
+Triathlon du Lévézou,2024-08-24 02:00:00,30750,0,,,Occitanie,Aveyron,44.0880377,2.7042545,"[12900, 51500]",Triathlon S (Seul ou Relais)
+Grand Raid des Pyrénées,2024-08-24 02:00:00,60000,3600,,Raid dingue !,Occitanie,Hautes-Pyrénées,42.83038200000001,0.325556,"[40000, 160000, 40000, 120000, 160000, 80000]",Tour du Moudang
+Triathlon Montriond Morzine Avoriaz,2024-08-25 02:00:00,43700,0,,,Auvergne-Rhône-Alpes,Haute-Savoie,46.19214770000001,6.7751173,"[8200, 18200]",Triathlon M
+Triathlon de Trélissac,2024-08-25 02:00:00,12900,0,,,Nouvelle-Aquitaine,Dordogne,45.1909202,0.7616798,[25750],Triathlon XS
+Triathlon du Grand Cognac,2024-08-25 02:00:00,12900,0,,,Nouvelle-Aquitaine,Charente,45.691046,-0.328744,[25750],Triathlon XS
+L'Échappée Belle,2024-08-25 02:00:00,84000,6140,,Tu n'y échapperas pas ! ,Auvergne-Rhône-Alpes,Isère,45.0755137,5.7734425,"[21000, 149000, 62000]",La Traversée Nord
+Le Bélier,2024-08-25 02:00:00,7000,180,,La famille bélier,Auvergne-Rhône-Alpes,Haute-Savoie,45.9007209,6.481667,"[42000, 42000, 27000, 24000, 15000, 13000, 84000]",Les Filles VS les Garçons
+UTMB®,2024-08-26 02:00:00,300000,25000,,Au sommet de ton art ! ,Auvergne-Rhône-Alpes,Haute-Savoie,45.923697,6.869433,"[100000, 55000, 15000, 14000, 8000, 4000, 171000, 145000, 40000]",PTL (La Petite Trotte à Léon)
+Les 24 heures de Villenave d'Ornon,2024-08-26 02:00:00,1440,0,,24h de bonheur,Nouvelle-Aquitaine,Gironde,44.782103,-0.5369337,[],Course sur route 24h
+Trail des 6 Burons,2024-08-26 02:00:00,13000,280,,Cantal Goyave,Auvergne-Rhône-Alpes,Cantal,45.2848333,2.6581649,"[73000, 73000, 23000]",Trail des 2 lacs
+Saint-Jeoire Trail Festival,2024-08-26 02:00:00,30000,2680,,Cache ta Jeoire,Auvergne-Rhône-Alpes,Haute-Savoie,46.137715,6.457955,"[80000, 13000]",Trail des Deux Massifs
+Trail de Bormes,2024-08-26 02:00:00,30000,0,,Il faudra avaler les bormes,Provence-Alpes-Côte d'Azur,Var,43.1235759,6.365573299999999,"[20000, 10000]",Les 30 Bormes
+Verti'Trail du Môle,2024-08-26 02:00:00,13900,1150,,Un trail à 90°,Auvergne-Rhône-Alpes,Haute-Savoie,46.137715,6.457955,[],"Trail 13,9 km"
+Marathon des Oussailles,2024-08-27 02:00:00,42195,0,,À l'abordage Moussaillons !,Occitanie,Ariège,42.9845424,1.143597,"[21000, 10000, 42000, 10000]",Relais à 4
+UniverTrail d'Arêches,2024-08-27 02:00:00,16000,1200,,Tu découvriras un tout nouvel Univers !,Auvergne-Rhône-Alpes,Savoie,45.7171049,6.574292,[27000],Trail 16 km
+Trail de la sonnette,2024-08-27 02:00:00,13000,0,,Sonne qui peut ! ,Nouvelle-Aquitaine,Charente,45.9420879,0.4457228,"[17000, 27000, 8000, 8000, 8000]",Marche 13 km
+Trail du Quiloury,2024-08-27 02:00:00,23000,0,,Perdre des calories au Quiloury,Bretagne,Côtes-d'Armor,48.37218,-2.495512,"[6000, 13000]",Trail 23 km
+L’Arbois Duranne,2024-08-27 02:00:00,7000,0,,Sous la chaleur aoûtienne,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,43.5267152,5.4629942,[12000],Trail 7 km
+Trail du Saugeais,2024-08-27 02:00:00,12000,0,,Saugeais par le gong !,Bourgogne-Franche-Comté,Doubs,47.033217,6.503788999999999,[29000],Marche 12 km
+Casinca Trail,2024-08-27 02:00:00,17000,1000,,"Casinca, Casinca, éblouis moi !",Corse,Haute-Corse,42.4596504,9.5016202,"[7000, 10000]",Grande boucle
+Tour du Lac de Paladru,2024-08-27 02:00:00,14200,77,,C’est Paladisiaque ! ,Auvergne-Rhône-Alpes,Isère,45.489463,5.591543,[],"Course sur route 14,2 km"
+Course des Étangs de Marignane,2024-08-27 02:00:00,10000,0,,Il est temps de venir courir à Marignane !,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,43.4384235,5.214414,[],Course sur route 10 km
+Semi-Marathon Cancale Saint-Malo,2024-08-27 02:00:00,21097,0,,Un petit Semi-malothon ? ,Bretagne,Ille-et-Vilaine,48.649337,-2.025674,[],Semi-Marathon
+Triathlon des Cadets de Gascogne,2024-09-01 02:00:00,30250,0,,,Nouvelle-Aquitaine,Lot-et-Garonne,44.31374599999999,0.088354,"[11900, 51000, 2009500]",Triathlon S
+Triathlon du Pont de Sireuil,2024-09-01 02:00:00,54500,0,,,Nouvelle-Aquitaine,Charente,45.615995,0.009302999999999999,[27750],Triathlon M
+Ironman 70.3 de Vichy,2024-09-01 02:00:00,113000,0,,,Auvergne-Rhône-Alpes,Allier,46.1259661,3.4174551,[],Ironman 70.3
+Triathlon de Saint Pierre d'Albigny,2024-09-01 02:00:00,27750,0,,,Auvergne-Rhône-Alpes,Savoie,45.569489,6.154183,[10900],Triathlon S
+La Jarri'Hard,2024-09-02 02:00:00,16000,0,,C'est hardement bon ,Auvergne-Rhône-Alpes,Isère,45.1124266,5.7547492,"[8000, 8000]",Trail 16 km
+La Foulée de la Pomme,2024-09-02 02:00:00,4000,0,,Des vertes et des pas mûres ,Provence-Alpes-Côte d'Azur,Vaucluse,43.8366045,5.0407814,"[8000, 12000]",Marche 4 km
+Saint Mont Vignoble en Course,2024-09-02 02:00:00,8000,0,,À courir sans modération,Occitanie,Gers,43.697738,0.082901,"[12000, 21000]", La course des sables Fauves
+Urban Trail Poitiers,2024-09-02 02:00:00,10000,0,,La Romane s'offre à toi,Nouvelle-Aquitaine,Vienne,46.58022400000001,0.340375,[],Trail 10 km
+La Biskoulenn,2024-09-02 02:00:00,8700,0,,C'est la Biskoulenn qui redémarre !,Bretagne,Finistère,48.4476378,-4.417832400000001,[17700],La Bihan
+Marathon du Médoc,2024-09-02 02:00:00,42195,0,,Un évènement bourré de surprises !,Nouvelle-Aquitaine,Gironde,45.199585,-0.746212,[],Marathon
+La Run des Filles,2024-09-02 02:00:00,2500,0,,Who run the world ? Girls !,Provence-Alpes-Côte d'Azur,Vaucluse,43.919203,5.0539513,[],"Course sur route 2,5 km"
+Trail du Haut-Koenigsbourg,2024-09-02 02:00:00,109000,4850,,A l'assaut de la forteresse alsacienne !,Grand Est,Bas-Rhin,48.260464,7.374915000000001,"[25000, 13000, 56000]",Ultra Trail Haut-koenigsbourg
+Boucles de Saint-Thonan,2024-09-03 02:00:00,10000,0,,EThonnant ! ,Bretagne,Finistère,48.4734991,-4.328123,"[9000, 5000]",Course sur route 10 km
+La 4 Pattes,2024-09-03 02:00:00,12000,0,,1+1 = 4,Grand Est,Moselle,49.1193089,6.175715599999999,"[6000, 2000, 1000]",Course sur route 12 km
+Tour Pédestre de Vouziers,2024-09-03 02:00:00,14000,0,,Un petit tour et puis s'en va !,Grand Est,Ardennes,49.3948437,4.7012833,"[5000, 9000]",Trail 14 km
+La Tremblaysienne,2024-09-03 02:00:00,7000,80,,Prépare toi à Tremblay ! ,Île-de-France,Yvelines,48.775321,1.8744675,[12000],Course sur route 7 km
+Taranis Arga Trail,2024-09-03 02:00:00,38000,0,,Nom de Dieu ! ,Auvergne-Rhône-Alpes,Ardèche,44.5645305,4.252087599999999,"[118000, 107000, 84000, 96000, 73000, 60000, 49000, 25000, 11000]",Trail 38 km
+Trail Urbain Nocturne de Vouziers,2024-09-03 02:00:00,5000,0,,Comme si Vouziers étiez !,Grand Est,Ardennes,49.3948437,4.7012833,"[15000, 10000]",Trail 5 km
+Les Nocturnes de Poissons,2024-09-03 02:00:00,11400,0,,Pour les squales du running,Grand Est,Haute-Marne,48.4245469,5.217746,[],"Trail 11,4 km"
+La Ronde des Grangeons,2024-09-03 02:00:00,9000,250,,Viens Bugey ton corps !,Auvergne-Rhône-Alpes,Ain,45.953986,5.342405299999999,"[16000, 15000, 28000, 10000, 16000]",La Ronde Nordique
+QBRC (Quelques bonnes raisons de courir),2024-09-03 02:00:00,12000,0,,Viens te faire une raison,Île-de-France,Yvelines,48.8006256,2.1714255,[20000],Trail 12 km
+Trail de la Saint Aubeu,2024-09-03 02:00:00,25000,0,,Sors le Aubeu de chauffe !,Grand Est,Marne,49.370142,3.895249,[13000],Trail 25 km
+Trail Vallée Cère et Dordogne,2024-09-03 02:00:00,13000,400,,Tu as tiré le gros Lot,Occitanie,Lot,44.91565,1.83836,[26000],Trail des Vignes
+Urban Trail du Cannet,2024-09-03 02:00:00,10000,185,,L'art de la course,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,43.57655099999999,7.019019999999999,"[6000, 4000]",Trail 10 km
+La Caldéniacienne,2024-09-03 02:00:00,21097,0,,La Cal-démentielle !,Grand Est,Meurthe-et-Moselle,48.652014,5.905420899999999,"[10000, 11000]",Semi-marathon
+La Braderie de Lille ,2024-09-03 02:00:00,21000,0,,C'est à cette Braderie que l'on fait les meilleurs affaires ! ,Hauts-de-France,Nord,50.62925,3.057256,"[2000, 10000]",Course sur route 21 km
+Trail d'Ussel Diège et Collines,2024-09-03 02:00:00,25000,0,,Viens mettre ton grain d'Ussel,Nouvelle-Aquitaine,Corrèze,45.5434429,2.3122923,[14000],Diège et Collines
+Trail des rainettes,2024-09-03 02:00:00,19000,0,,Trail des Rainettes et trail d'api,Grand Est,Haut-Rhin,47.7378279,7.287401,[9200],Trail 19 km
+Le Relais des Vignobles,2024-09-03 02:00:00,38000,0,,À l'heure des vendanges,Occitanie,Hérault,43.38212499999999,3.462905,[],Trail 38 km
+La Onzainoise,2024-09-04 02:00:00,24000,0,,,Centre-Val de Loire,Loir-et-Cher,47.4998614,1.173884,[11000],Trail 24 km
+Trail du Cagire,2024-09-07 02:00:00,35000,2400,,Alléchant sous tous ses Aspet ! ,Occitanie,Haute-Garonne,43.014456,0.8029259999999999,[17000],Trail du Cagire
+Triathlon de Toulouse ,2024-09-07 02:00:00,51500,0,,Rose sera ton Triathlon ,Occitanie,Haute-Garonne,43.56878469999999,1.3374414,"[28750, 14900, 1255100, 28750]",Triathlon M
+Triathlon VautourMan,2024-09-07 02:00:00,21600,760,,,Occitanie,Hautes-Pyrénées,42.956415,-0.215173,[1288000],Triathlon S
+T24 Xtrem Triathlon - Le Touquet,2024-09-07 02:00:00,1440,0,,,Hauts-de-France,Pas-de-Calais,50.5242896,1.5830385,[],"Xtrem Triathlon (solo, relais à 2,4 ou 6)"
+Courir a carignan,2024-09-08 02:00:00,10000,0,,,Nouvelle-Aquitaine,Gironde,44.8130625,-0.4750623,[16000],Marche 10 km
+La Nuit des Cabornes,2024-09-08 02:00:00,20000,1000,,,Auvergne-Rhône-Alpes,Rhône,45.83918550000001,4.8208424,[10000],Trail 20 km
+Le triathlon du Lac Chambon,2024-09-08 02:00:00,41700,665,,,Auvergne-Rhône-Alpes,Puy-de-Dôme,45.533303,2.84931,[22450],Triathlon M
+Les Foulées de Mulsanne,2024-09-08 02:00:00,5000,0,,Ne dort pas comme un loir,Pays de la Loire,Sarthe,47.9134014,0.2433375,"[10000, 21000]",Course de couples
+L'Infernal Trail des Vosges,2024-09-08 02:00:00,205000,10000,,"Infernal, parce que tu le Vosges bien !",Grand Est,Vosges,48.047208,6.578315,"[130000, 100000, 15000, 8000, 8000, 130000, 100000, 68000, 32000, 32000]",IT200 - en autonomie
+Corrida des Buis de Culoz,2024-09-09 02:00:00,6000,0,,,Auvergne-Rhône-Alpes,Ain,45.8476209,5.781229,[],Course sur route 6 km
+Ventoux by Night,2024-09-09 02:00:00,14000,900,,,Provence-Alpes-Côte d'Azur,Vaucluse,44.183663,5.16637,[],15 km Ventoux by Night
+Semi-Marathon Auray-Vannes,2024-09-09 02:00:00,5000,0,,T'Auray pas une Vannes ? ,Bretagne,Morbihan,47.6660213,-2.9791047,"[10000, 21097]",5 km La Brèche-Vannes
+Serre Che Trail Salomon,2024-09-09 02:00:00,12000,600,,SerreChe pas plus loin !,Provence-Alpes-Côte d'Azur,Hautes-Alpes,44.976254,6.507839,"[45000, 26000, 60000]",Tour des Chapelles 
+Evancy Trail National Côte d'Opale,2024-09-09 02:00:00,7000,120,,"Seul sur le sable, les pieds dans l'eau...",Hauts-de-France,Pas-de-Calais,50.885777,1.662474,"[27000, 15000, 24000, 12000, 80000, 42000, 104000, 12000, 13000]",Trail 7 km
+Trail des 36 000,2024-09-09 02:00:00,36000,1200,,Course à remonter le temps ,Auvergne-Rhône-Alpes,Ardèche,44.3819986,4.4161982,"[20000, 11000, 11000]",Trail 36 km
+L'Epicurienne,2024-09-09 02:00:00,16000,300,,"Cours, mange, cours, mange...",Occitanie,Haute-Garonne,43.7701956,1.3611764,"[11000, 21000, 11000]",La Gastronome
+Les Foulées de Mornas,2024-09-09 02:00:00,25000,0,,Suivi d'un croque-monsieur ?,Provence-Alpes-Côte d'Azur,Vaucluse,44.2059418,4.7290323,[12000],Le Croque montagnes
+Ultra Trail du Vercors ,2024-09-09 02:00:00,8000,300,,Autrans en emporte le vent,Auvergne-Rhône-Alpes,Isère,45.1760986,5.5427542,"[48000, 82000, 82000]",Trail des Bleus du Vercors
+Trail des Cascades,2024-09-09 02:00:00,28000,2000,,Du trail en cascade ! ,Occitanie,Ariège,42.9625597,1.7529081,[14000],Trail 28 km
+La Course du Bien Public,2024-09-09 02:00:00,3000,0,,DijOn y va ?,Bourgogne-Franche-Comté,Côte-d'Or,47.32252070000001,5.0371733,"[20000, 10000, 5000]",Course sur route 3 km
+MYrun4help,2024-09-09 02:00:00,7000,0,,,Centre-Val de Loire,Loiret,48.029027,1.874334,[14000],Trail 7 km
+Altkirch trails,2024-09-09 02:00:00,4000,75,,"Alt, kirch voilà ? ",Grand Est,Haut-Rhin,47.6234599,7.237509999999999,[13000],L’Altkirchoise
+Astronomic Run,2024-09-09 02:00:00,10000,30,,"Viser la lune, ça te fait pas peur",Grand Est,Marne,49.2460589,4.217181699999999,[],Astronomic Run 10 Km
+La Marche du Centre,2024-09-09 02:00:00,100000,0,,Une épreuve Cher à notre coeur,Centre-Val de Loire,Cher,46.69341,2.524856,[50000],Marche 100 km
+Chens'tastic,2024-09-09 02:00:00,13000,0,,,Auvergne-Rhône-Alpes,Haute-Savoie,46.32346,6.256345,[],Trail 13 km
+Le Bol d'Air de la Forêt de Mervent,2024-09-10 02:00:00,25000,530,,Prendre un bon bol d'air pur,Pays de la Loire,Vendée,46.487861,-0.7849419999999999,"[50000, 13000, 13000]",La boucle de l’Ermite
+La Trifouillette,2024-09-10 02:00:00,16000,0,,Viens (tri)fouiller le bois brûlés d'Igny,Île-de-France,Essonne,48.7419812,2.2286523,"[26000, 8000]",Trail 16 km
+10 km de Parilly,2024-09-10 02:00:00,10000,0,,Parilly la sortie ! ,Auvergne-Rhône-Alpes,Rhône,45.699594,4.8844649,[5000],Course sur route 10 km
+Grand Trail Cévenol,2024-09-10 02:00:00,23000,820,,L'immensité des Cévennes !,Occitanie,Gard,44.062318,3.982909,"[44000, 12000, 4000]",Trail des Dolmens
+Trail de Tanlay,2024-09-10 02:00:00,68000,2150,,La gloire te Tanlay bras,Bourgogne-Franche-Comté,Yonne,47.847242,4.084764,"[33000, 15000, 10000]",Trail 68 km
+Hemera Trail,2024-09-10 02:00:00,10000,0,,L'Hemera-tu ?,Grand Est,Moselle,49.3464673,6.1335212,"[60000, 27000]",La Terville Express
+10 km François Blanc,2024-09-10 02:00:00,10000,0,,Juste Leblanc,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,43.640199,5.097022,[],Trail 10 km
+Trail Combe Bénite,2024-09-10 02:00:00,30000,2300,,,Auvergne-Rhône-Alpes,Savoie,45.5804524,6.6029155,"[19000, 10000]",Combe Bénite
+Trail en Terres d'Oc,2024-09-10 02:00:00,24000,0,,"Hop Hop Hop, l'été n'est pas terminé !",Occitanie,Hérault,43.600461,2.702604,"[13400, 49000]",Trail Court 
+Les 10km de Spirou,2024-09-10 02:00:00,10000,0,,Au pays des Belges,Provence-Alpes-Côte d'Azur,Vaucluse,44.0293926,4.9707142,[],Course sur route 10 km
+Trail Urbain Longwy,2024-09-10 02:00:00,10000,200,,Un Urban Trail Vaubanais,Grand Est,Meurthe-et-Moselle,49.51991899999999,5.761773,"[5000, 21000]",Marche 10 km
+Trail des Beaux-Monts,2024-09-10 02:00:00,14000,200,,Ça te donne du Beaumonts au cœur ! ,Hauts-de-France,Oise,49.4192921,2.8311798,"[32000, 5000]",Trail 14 km
+Trail des Légendes de Brocéliande,2024-09-10 02:00:00,14000,250,,Tu vas te faire ensorceler ! ,Bretagne,Ille-et-Vilaine,48.1292959,-2.033727,"[9000, 52000, 52000, 26000]",Merlin
+La Parisienne,2024-09-10 02:00:00,10000,0,,Au bonheur des Dames !,Île-de-France,Paris,48.85837009999999,2.2944813,"[6700, 5000]",Course sur route 10 km
+Les Foulées de la Vallée Noire,2024-09-10 02:00:00,5000,0,,"N'aie pas peur, ce n'est pas aussi sombre que ce que tu penses !",Centre-Val de Loire,Indre,46.67809500000001,1.85893,"[10000, 20000]",À la poursuite de Champi
+La Corruda,2024-09-10 02:00:00,15000,550,,,Nouvelle-Aquitaine,Pyrénées-Atlantiques,43.125087,-0.212631,"[27000, 27000, 17000]",Marche 15 km
+Trail Urbain de Marseille,2024-09-10 02:00:00,6000,0,,À la découverte de la cité phocéenne,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,43.2966941,5.3610825,"[7000, 13000]",Trail des Plages 
+La Montardonnaise Trail,2024-09-10 02:00:00,17000,500,,,Nouvelle-Aquitaine,Pyrénées-Atlantiques,43.36846,-0.346729,[9000],Trail 17 km
+Odyssea brest,2024-09-10 02:00:00,9000,0,,Tonnerre de Bre(a)st !,Bretagne,Finistère,48.390394,-4.486076,"[10000, 10000, 5000, 5000, 5000]",9 km Marche Solidaire 
+Les Foulées du Petit Bleu,2024-09-10 02:00:00,10000,0,,Je l'aime à courir !,Nouvelle-Aquitaine,Lot-et-Garonne,44.20435,0.6165613,"[21097, 5000]",Course sur route 10 km
+La Sucycienne,2024-09-10 02:00:00,10000,0,,"Ici, y'aura pas de Sucy",Île-de-France,Val-de-Marne,48.7709935,2.5080878,"[1700, 700]",Course sur route 10 km
+Trail du Château de Gaillon,2024-09-10 02:00:00,31000,700,,À la bonne Eure,Normandie,Eure,49.160734,1.33341,[15000],Trail 31 km
+Trail de la Pointe de Caux,2024-09-10 02:00:00,32000,500,,T'as le look Caux Caux !,Normandie,Seine-Maritime,49.510153,0.229565,[13000],Trail 32 km
+Trail des Têtes Plattes,2024-09-10 02:00:00,20000,620,,"La tête plate, mais pas les pieds !",Auvergne-Rhône-Alpes,Rhône,45.5998816,4.5695131,[11000],Trail 20 km
+Trail du Cabaliros,2024-09-10 02:00:00,22000,1400,,,Occitanie,Hautes-Pyrénées,42.851548,-0.1368737,[],Trail 22 km
+Trail du Bessat,2024-09-10 02:00:00,11000,150,,,Auvergne-Rhône-Alpes,Loire,45.3673508,4.527991,[22000],Trail 11 km
+Les Automnales,2024-09-11 02:00:00,15000,0,,L'Yonne t'accueille à bras ouverts !,Bourgogne-Franche-Comté,Yonne,47.8974285,3.5606691,[8000],Trail 15 km
+La Course,2024-09-11 02:00:00,13000,0,,"3,2,1... Partez !",Provence-Alpes-Côte d'Azur,Vaucluse,43.9418398,4.8979975,[6500],Marche 13 km
+Les Verti'Cimes,2024-09-12 02:00:00,4600,450,,Reserve vite ton Doussard,Auvergne-Rhône-Alpes,Haute-Savoie,45.77649599999999,6.220515000000001,[4900],Duingt
+Balnéaman,2024-09-14 02:00:00,111000,0,,,Occitanie,Hautes-Pyrénées,42.80898699999999,0.401686,[],Balnéaman
+One2Tri,2024-09-14 02:00:00,103600,0,,,Auvergne-Rhône-Alpes,Savoie,45.551434,5.783405,[43750],Triathlon L (Solo ou Relais)
+Les mulhousiennes,2024-09-14 02:00:00,5000,0,,Un week-end solidaire et festif !,Grand Est,Haut-Rhin,47.74952450000001,7.3402898,[],Marche 5 km
+Trail des Trois Provinces,2024-09-15 02:00:00,10000,0,,Comme un air de festival ! ,Pays de la Loire,Loire-Atlantique,47.086676,-1.2813211,"[18000, 12000, 42000, 21000]",L'Etoile
+Les Galopades du Patrimoine,2024-09-15 02:00:00,6000,0,,On ne fait pas dans la dentelle ici… quoique !,Normandie,Orne,48.432856,0.091266,[12000],Course sur route 6 km
+Grand Raid Du Finistère,2024-09-15 02:00:00,166000,3700,,Un blitz au Finistère,Bretagne,Finistère,48.22536299999999,-4.370337,[],Relais à 4
+Course des Remparts,2024-09-16 02:00:00,9000,0,,Tu vas tirer la Langres,Grand Est,Haute-Marne,47.8587285,5.3329851,[],Course sur route 9 km
+Trail Urbain de Fougères,2024-09-16 02:00:00,17000,300,,Plutôt se perdre dans les douves ou les fougères ? ,Bretagne,Ille-et-Vilaine,48.3515609,-1.204626,"[9000, 23000]",Le Défi Fougerais
+La nuit AJT,2024-09-16 02:00:00,21000,330,,,Auvergne-Rhône-Alpes,Ain,45.94094,4.774296,"[10000, 5000, 10000]",Trail 21 km
+Muco'run,2024-09-16 02:00:00,6700,0,,,Auvergne-Rhône-Alpes,Haute-Savoie,46.329991,6.4626952,[],Backyard
+Trail de la Renaissance,2024-09-16 02:00:00,15000,0,,Entre histoire et modernité,Pays de la Loire,Vendée,46.465972,-0.8065,"[24000, 16000, 8000]",Trail 15 km
+Le Trail de la Mine,2024-09-16 02:00:00,24000,1500,,,Auvergne-Rhône-Alpes,Rhône,45.7886005,4.6130698,[12000],Boucle des Maquisards
+Trail du Tétras-Lyre,2024-09-16 02:00:00,18000,771,,,Auvergne-Rhône-Alpes,Isère,44.9610638,5.550148800000001,[36000],Trail 18 km
+Trail de Gi J'y Monte,2024-09-16 02:00:00,16000,700,,,Auvergne-Rhône-Alpes,Ain,45.9766983,5.6015539,"[30000, 30000]","Relais Duo, 2x8 km"
+Fest'Trail Causses & Rougier,2024-09-16 02:00:00,8000,300,,La Fiesta Loca,Occitanie,Aveyron,43.9579625,2.8869509,"[15000, 25000, 48000]",Le Prologue
+Impérial Trail,2024-09-16 02:00:00,43000,960,,Les marches des empereurs,Île-de-France,Seine-et-Marne,48.4026127,2.6969502,"[24000, 12000, 63000]",Marath'bleau
+Courir pour le Plaisir à Baudre,2024-09-16 02:00:00,5000,0,,"Sans réfléchir, pour le plaisir",Normandie,Manche,49.089458,-1.072951,[9900],André Héleine
+La Course au Jambon,2024-09-16 02:00:00,10000,0,,,Pays de la Loire,Vendée,46.720653,-1.459325,"[17000, 5000]",Course sur route 10 km
+Grands Trails Esprit Volcans,2024-09-16 02:00:00,12000,450,,Un trail en fusion !,Auvergne-Rhône-Alpes,Puy-de-Dôme,45.7765846,3.0821443,"[22000, 13400, 34000]",Mardoux Trail - by night
+La Serroise,2024-09-16 02:00:00,8000,200,,,Nouvelle-Aquitaine,Pyrénées-Atlantiques,43.387059,-0.356255,"[12500, 10000]",Trail 8 km
+Trail des Bézous d'Chataignes,2024-09-16 02:00:00,24000,0,,Ave-ssac César,Pays de la Loire,Loire-Atlantique,47.664026,-2.0073439,"[8000, 16000]",Trail 24 km
+Course des Vendanges,2024-09-16 02:00:00,10000,0,,Un petit tour dans les vignes,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,43.582607,5.408437999999999,[5000],Trail 10 km
+Trail des Rives de l'Indre,2024-09-16 02:00:00,48000,0,,C'est un trail Indre-scriptible,Centre-Val de Loire,Indre,46.5863294,1.9917008,"[10000, 5000, 20000]",Trail des Tazons
+Memorun,2024-09-16 02:00:00,5000,0,,Une course pour ne pas oublier,Île-de-France,Paris,48.856614,2.3522219,"[10000, 1000]",Course sur route 5 km
+10 km de la Voie Verte,2024-09-16 02:00:00,10000,0,,,Auvergne-Rhône-Alpes,Haute-Loire,45.2178619,4.342158,[],Course sur route 10 km
+Courir à Ydes,2024-09-17 02:00:00,21000,0,,,Auvergne-Rhône-Alpes,Cantal,45.3501649,2.4434145,"[10000, 5000]",Semi-Marathon
+Icio'trail,2024-09-17 02:00:00,17000,350,,,Auvergne-Rhône-Alpes,Loire,45.389247,3.941005,"[10000, 29000, 42000]",Boucle 2
+Skytrail Terre de Running Albertville,2024-09-17 02:00:00,8500,450,,,Auvergne-Rhône-Alpes,Savoie,45.675535,6.392726,"[25000, 8000]","Randonnée des chevreuils 8,5 km"
+Gaubre'Trail,2024-09-17 02:00:00,7000,100,,À vos marques... Prêts ? Vendée ! ,Pays de la Loire,Vendée,46.943135,-1.064129,"[21000, 14000]",Trail 7 km
+Trail des Gorges du Chambon et du Montbronnais,2024-09-17 02:00:00,80000,2260,,"Une vallée, des gorges, un trail",Nouvelle-Aquitaine,Charente,45.66684799999999,0.4988900000000001,"[31000, 42000, 31000, 16000, 16000]",Trail 80 km
+La Thoronéenne,2024-09-17 02:00:00,11000,0,,Ressers moi un Var !,Provence-Alpes-Côte d'Azur,Var,43.4604131,6.2639942,"[4000, 25000]",La Course nature
+Course des Volcans,2024-09-17 02:00:00,13500,318,,The floor is lava,Auvergne-Rhône-Alpes,Puy-de-Dôme,45.786319,2.988109,[25000],"Trail 13,5 km"
+Tour du Néron,2024-09-17 02:00:00,15000,900,,,Auvergne-Rhône-Alpes,Isère,45.233131,5.681538,"[49000, 49000]",Le Néron Express
+Foulées Aquatintiennes,2024-09-17 02:00:00,21097,0,,Tout en simplicité !,Grand Est,Marne,49.247224,3.999441999999999,"[14000, 7000]",Semi-Marathon
+Vaulx Tour Trail,2024-09-17 02:00:00,30000,1450,,,Auvergne-Rhône-Alpes,Isère,44.9873369,5.749041999999999,"[20000, 10000, 10000]",Trail 30 km
+Trail du Pacte des Loups,2024-09-17 02:00:00,36000,2850,,À pas de loups ,Occitanie,Hautes-Pyrénées,43.0300393,0.3299546,"[11000, 21000]",Trail 36 km
+Trail des Petites Cités de Caractère,2024-09-17 02:00:00,19000,400,,,Pays de la Loire,Mayenne,48.0976862,-0.3515555,[9000],La diabolique
+Trail de l'Estran,2024-09-17 02:00:00,25000,0,,Contre vents et marées : un challenge estrangement séduisant ! ,Bretagne,Côtes-d'Armor,48.81830859999999,-3.3568323,"[50000, 14000, 8000, 50000, 32000, 12000]",Marche 25 km
+Laxou Trail,2024-09-17 02:00:00,22000,0,,,Grand Est,Meurthe-et-Moselle,48.684256,6.152525,[11000],Trail 22 km
+Semi-Marathon et 10km de Mâcon,2024-09-17 02:00:00,21097,0,,Plus runners que maçons,Bourgogne-Franche-Comté,Saône-et-Loire,46.3098525,4.8354085,[10000],Semi-Marathon
+10km de la Foire de Savoie,2024-09-17 02:00:00,10000,0,,,Auvergne-Rhône-Alpes,Savoie,45.5844554,5.901081899999999,[],3x Relais 10km
+Trail de l'Antimoine,2024-09-17 02:00:00,16000,250,,,Pays de la Loire,Vendée,46.7896955,-0.9940466,"[21000, 11000]",Trail 16 km
+Urban Trail Aiaccina ,2024-09-17 02:00:00,4500,100,,Made in Aïaccina ! ,Corse,Corse-du-Sud,41.9202168,8.794628399999999,[12000],"Marche 4,5 km"
+Ogeuloise,2024-09-17 02:00:00,9000,120,,,Nouvelle-Aquitaine,Pyrénées-Atlantiques,43.147054,-0.505722,"[18000, 10000, 10000, 5000]",Marche 9 km
+Trail Monassut-Audiracq,2024-09-17 02:00:00,18000,285,,Une course qui va te faire craquer,Nouvelle-Aquitaine,Pyrénées-Atlantiques,43.419353,-0.196613,"[12100, 12100, 6700]",Trail 18 km
+Semi-Marathon des Vendanges de Teyran,2024-09-17 02:00:00,8300,80,,Récolte le fruit de ton dur labeur,Occitanie,Hérault,43.68270200000001,3.925559,[21097],La Fontanaride
+Trail des Vendanges,2024-09-17 02:00:00,8000,0,,À courir avec modération ,Centre-Val de Loire,Cher,47.13223499999999,2.156712,"[28000, 13000]",La Quincyte
+Marathon de Colmar,2024-09-17 02:00:00,42195,0,,Le bretzel de la Liberté,Grand Est,Haut-Rhin,48.0742595,7.359679099999999,"[10000, 21097]",Marathon Relais à 2
+Le sentier des Lônes,2024-09-17 02:00:00,8000,0,,,Auvergne-Rhône-Alpes,Ain,45.83316,5.096755,[15000],Course la balade des Lônes
+Les Foulées Pecquencourtoises ,2024-09-17 02:00:00,5000,0,,Une course très courtoise,Hauts-de-France,Nord,50.3776632,3.2147227,"[20000, 10000, 8000, 8000]",Course sur route 5 km
+Gerstheim Ried and Rock,2024-09-17 02:00:00,10000,0,,Il va falloir avoir les Rhin solides,Grand Est,Bas-Rhin,48.38069000000001,7.695487,[5000],Course sur route 10 km
+La Ronde Cérétane,2024-09-17 02:00:00,10000,0,,"Ah, qu'est-ce qu'on est Céret, au fond de cette boîte ! ",Occitanie,Pyrénées-Orientales,42.4858211,2.7487593,"[5000, 9000, 4000, 21000]",L'Endiablée 
+Semi-Marathon de Marcq-en-Barœul,2024-09-17 02:00:00,21097,0,,"Tu verras, il fait bon vivre dans le Nord",Hauts-de-France,Nord,50.670368,3.096267,"[5000, 7000]",Semi-Marathon
+La Grenobloise,2024-09-17 02:00:00,4500,0,,,Auvergne-Rhône-Alpes,Isère,45.1906081,5.726845,[8200],"Marche 4,5 km"
+La Séméacaise,2024-09-17 02:00:00,10000,0,,,Occitanie,Hautes-Pyrénées,43.228502,0.104721,[8000],Course sur route 10 km
+Trail de Nassandres,2024-09-17 02:00:00,7000,0,,À quelle heure on court dans l'Eure ? ,Normandie,Eure,49.1282181,0.7338795,[14000],Marche 7 km
+10 km de Joinville,2024-09-17 02:00:00,5000,0,,Joins toi à la fête de Joinville ,Île-de-France,Val-de-Marne,48.821267,2.472043,[10000],Course sur route 5 km
+La Barule des Princes d'Orange,2024-09-17 02:00:00,15000,310,,,Provence-Alpes-Côte d'Azur,Vaucluse,44.1380989,4.807511,[8000],La Barule
+Conquer Paris,2024-09-18 02:00:00,10000,0,,À la conquête de Paris ,Île-de-France,Paris,48.856614,2.3522219,[],Course sur route 10 km
+Run in 2 Mure,2024-09-18 02:00:00,5500,0,,Viens franchir le Mure du son,Auvergne-Rhône-Alpes,Rhône,45.6993054,5.0171093,"[21000, 10000]","Course sur route 5,5 km"
+Kilomètre vertical du Mirantin,2024-09-18 02:00:00,2700,1000,,,Auvergne-Rhône-Alpes,Savoie,45.7171049,6.574292,[],KM Vertical du Mirantin
+Semi-marathon d’Orange,2024-09-18 02:00:00,21097,0,,Pas besoin de te presser !,Provence-Alpes-Côte d'Azur,Vaucluse,44.1380989,4.807511,[10300],Semi-marathon d'orange
+Marathon Perros-Guirec Paimpol,2024-09-18 02:00:00,42195,569,,"Inclusif, convivial et fédérateur ! ",Bretagne,Côtes-d'Armor,48.7770547,-3.046127,[10000],Marathon relais à 2
+Ronde Pédestre de Cornillon-Confoux,2024-09-18 02:00:00,11200,0,,C'est pas le moment de bailler aux corneilles,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,43.562723,5.071422399999999,[],"Course sur route 11,2 km"
+5 km de Porto-Vecchio,2024-09-18 02:00:00,5000,0,,Découvrir l'île de Beauté à grandes foulées,Corse,Corse-du-Sud,41.58073419999999,9.2782497,[],Course sur route 5 km
+10 km et Semi-marathon de Toulouse,2024-09-19 02:00:00,21097,0,,To loose ou tu win ?,Occitanie,Haute-Garonne,43.598264,1.4092542,"[15000, 10000]",Semi-Marathon
+Belle-Île en Trail,2024-09-21 02:00:00,9000,130,,Tr(ès)ail Belle-île en mer ,Bretagne,Morbihan,47.347009,-3.156406,"[32000, 45000, 81000, 19000]",La course du Sémaphore
+Triathlon de Saint-Cirq Lapopie,2024-09-21 02:00:00,112900,0,,"""Lapopie du pianiste""",Occitanie,Lot,44.464672,1.669032,"[25750, 49500, 225995]",Triathlon L
+Forca'Run,2024-09-22 02:00:00,5000,0,,,Provence-Alpes-Côte d'Azur,Alpes-de-Haute-Provence,43.9501467,5.765006899999999,[],Forca'Run
+"Marathon, 10 et 20 km de Tours",2024-09-22 02:00:00,10000,0,,,Centre-Val de Loire,Indre-et-Loire,47.3891252,0.694282,"[42195, 42195, 20000]",Course 10 km
+Light on Tri Madine,2024-09-22 02:00:00,50750,0,,,Grand Est,Meuse,48.943392,5.7557011,[25500],Triathlon M
+Les randos d'Henry,2024-09-22 02:00:00,12000,0,,,Normandie,Calvados,49.27717,-0.456465,"[15000, 80000, 55000, 35000]",Trail semi-nocturne
+Triathlon du Lac de Champos,2024-09-22 02:00:00,51500,0,,,Auvergne-Rhône-Alpes,Drôme,45.124889,4.984646,"[12800, 25750]",Triathlon M
+Trail Lys-Haut-Layon,2024-09-22 02:00:00,17500,0,,,Pays de la Loire,Maine-et-Loire,47.1386072,-0.4563037,"[10000, 11000]","Trail 17,5 km"
+Ma'dame run,2024-09-22 02:00:00,5000,0,,,Grand Est,Bas-Rhin,48.5734053,7.752111299999999,[],Marche 5 km
+Triathlon de Châteauneuf la Forêt,2024-09-22 02:00:00,25750,0,,,Nouvelle-Aquitaine,Haute-Vienne,45.713108,1.606463,"[10300, 51500]",Triathlon S (Solo/ Relais)
+Bagnoles Normandie Trail,2024-09-22 02:00:00,100000,1850,,Les clefs de Bagnoles,Occitanie,Aude,43.271535,2.4381339,"[21000, 8000, 42000, 21000, 12000, 42000]",Ultra Trail
+Les Foulées du Château,2024-09-23 02:00:00,10000,0,,,Auvergne-Rhône-Alpes,Ain,46.289428,5.158728,"[5000, 18000, 11000]",Course des As
+Ride & trail in ocre,2024-09-23 02:00:00,14000,0,,Un trail orangé ,Provence-Alpes-Côte d'Azur,Vaucluse,43.8806932,5.3163072,"[7000, 7000]",Marche 14 km
+Trail de l'Ours,2024-09-23 02:00:00,9000,450,,,Bourgogne-Franche-Comté,Jura,46.3899721,5.860323699999999,[19000],Trail 9 km
+La Skyrhune,2024-09-23 02:00:00,21000,1700,,Let's touch the Skyrhune,Nouvelle-Aquitaine,Pyrénées-Atlantiques,43.345172,-1.621327,[],Skyrhune
+Ultimate Man lac de Narlay,2024-09-23 02:00:00,6700,185,,,Bourgogne-Franche-Comté,Jura,46.617992,5.8815966,[],"Trail 6,7 km"
+Corrida de Dieppe,2024-09-23 02:00:00,7000,0,,Il n'y a pas que le cerf-volant à Dieppe,Normandie,Seine-Maritime,49.9032172,1.0783307,[],Course sur route 7 km
+La Bougarbersienne,2024-09-23 02:00:00,8000,250,,,Nouvelle-Aquitaine,Pyrénées-Atlantiques,43.39857,-0.473059,"[17000, 11000, 11000]",La Corseta
+Les Foulées de la Norges,2024-09-23 02:00:00,5000,0,,,Bourgogne-Franche-Comté,Côte-d'Or,47.39781199999999,5.104693999999999,[10000],Course sur route 5 km
+Roazhon Run,2024-09-23 02:00:00,8000,0,,Tout donner comme un rennais ! ,Bretagne,Ille-et-Vilaine,48.1143843,-1.6694938,"[10000, 10000, 1500]",Roazhon Entreprises
+X Trail Corrèze Dordogne,2024-09-23 02:00:00,53000,2060,,Les joies du X trail de A à Z,Nouvelle-Aquitaine,Corrèze,45.093356,1.93755,"[26000, 26000, 14000, 10000, 10000, 103000, 103000, 37000, 14000]",Grand Trail des Tours
+Trail du Sancy Mont-Dore Caisse d'Epargne ,2024-09-23 02:00:00,10400,750,,Puissance 4 !,Auvergne-Rhône-Alpes,Puy-de-Dôme,45.5438914,2.8179355,"[63500, 35500, 17900]",La Dorée Trail
+La Basti'Trail,2024-09-23 02:00:00,31700,2120,,,Auvergne-Rhône-Alpes,Isère,45.1906081,5.726845,"[5400, 17100]","Le Tour des Chartreux 31,7km"
+Challenge 24hd+,2024-09-23 02:00:00,1800,300,,,Auvergne-Rhône-Alpes,Isère,45.272098,5.966031,[],Challenge 6 heures
+La Castelrun,2024-09-23 02:00:00,7000,0,,,Pays de la Loire,Vendée,46.8493459,-0.8278213999999999,[14500],Petite Castel
+Course de la Corniche Vendéenne,2024-09-23 02:00:00,21000,0,,,Pays de la Loire,Vendée,46.720204,-1.945917,"[14000, 7000, 7000, 8000]",Course sur route 21 km
+La Noctambule Thiezacoise,2024-09-23 02:00:00,14600,435,,,Auvergne-Rhône-Alpes,Cantal,45.030115,2.677936,"[27600, 27600]",Terre de nuit
+Seine Marathon 76,2024-09-23 02:00:00,5000,0,,Seinesations fortes garanties ! ,Normandie,Seine-Maritime,49.4415347,1.0912631,"[42195, 42195, 21097, 10000]",Né pour bouger by Matmut
+Run'apte Nature,2024-09-23 02:00:00,6000,0,,,Pays de la Loire,Vendée,46.5970227,-1.4529163,"[23000, 12000, 12000]",Trail 6 km
+Courir à Digoin,2024-09-23 02:00:00,10000,0,,,Bourgogne-Franche-Comté,Saône-et-Loire,46.4849234,3.9893346,[],Course sur route 10 km
+Trail de Nantes à Montaigu,2024-09-23 02:00:00,53000,630,,"De Nantes à Montaigu, la digue la digue ! ",Pays de la Loire,Loire-Atlantique,47.21627489999999,-1.5487708,"[22000, 103000]",La Digue
+La ligne droite,2024-09-23 02:00:00,5000,0,,,Centre-Val de Loire,Eure-et-Loir,48.439575,1.466895,[],Course la grande ligne droite 5 km
+Défi du jerzual,2024-09-23 02:00:00,5900,75,,"Dis oui, Dinan",Bretagne,Côtes-d'Armor,48.454366,-2.047327,"[11000, 5500]","Trail 5,9 km"
+Trail des Aiguilles Rouges,2024-09-24 02:00:00,8500,0,,Ça pique à Chamonix,Auvergne-Rhône-Alpes,Haute-Savoie,45.923697,6.869433,"[16000, 55000]","Trail 8,5 km"
+Trail des Fonds de Cayenne,2024-09-24 02:00:00,42000,0,,"Alluets, gentils Alluets ",Île-de-France,Yvelines,48.9646526,1.8707273,"[26000, 14000]",Trail 42 km
+10km de Saint-Martin d'Hères,2024-09-24 02:00:00,5000,0,,,Auvergne-Rhône-Alpes,Isère,45.165133,5.767761,[10000],Course sur route 5 km
+Ruée des Fadas - Lyon,2024-09-24 02:00:00,8000,0,,Viens te ruer comme un fada,Auvergne-Rhône-Alpes,Rhône,45.7605474,4.861117699999999,[],Course d'obstacles 8 km
+Les Virades de l'Espoir,2024-09-24 02:00:00,10000,0,,Vaincre la mucoviscidose ! ,Hauts-de-France,Somme,49.88796,2.343814,[5000],Trail 10 km
+La Rochoise,2024-09-24 02:00:00,9000,0,,,Auvergne-Rhône-Alpes,Isère,45.588367,5.16013,"[18000, 3000, 1600, 14000]",Marche 9 km
+La Guebwilleroise,2024-09-24 02:00:00,6500,0,,Tous ensemble contre le cancer du sein,Grand Est,Haut-Rhin,47.911586,7.209336,[11000],"Marche 6,5 km"
+Foulées Viroises,2024-09-24 02:00:00,5000,0,,,Normandie,Calvados,48.8377627,-0.8902726,[10000],Course sur route 5 km
+Course nature de Laize Clinchamps,2024-09-24 02:00:00,7500,0,,,Normandie,Calvados,49.044835,-0.324735,[13000],"Trail 7,5 km"
+Trail des Sangliers,2024-09-24 02:00:00,13500,340,,"Marcassins aux pieds, direction le Trail des Sangliers !",Bourgogne-Franche-Comté,Doubs,46.9041039,6.354241999999999,"[14200, 9600, 9600, 23100, 14200, 9600, 43500]","Marche 13,5 km"
+Vin'Scène en Bourbonnais,2024-09-24 02:00:00,43000,0,,Vin te mettre en Scène,Auvergne-Rhône-Alpes,Allier,46.568059,3.334417,"[25000, 15000]",Trail 43 km
+10 km d'Angers,2024-09-24 02:00:00,10530,0,,Maine la danse,Pays de la Loire,Maine-et-Loire,47.47,-0.5599999999999999,[10000],"Marche nordique 10,53 km"
+Course des Remparts de Bayonne,2024-09-24 02:00:00,10000,0,,Tout est bon à Bayonne,Nouvelle-Aquitaine,Pyrénées-Atlantiques,43.492949,-1.474841,[],Course sur route 10 km
+La nojambee,2024-09-24 02:00:00,11000,0,,,Centre-Val de Loire,Eure-et-Loir,48.321762,0.8217759,[5000],"Course 10,2 km"
+Semi-Marathon Hermitage Saint-Joseph,2024-09-24 02:00:00,21097,0,,,Auvergne-Rhône-Alpes,Drôme,45.07219509999999,4.8397739,[],Semi-Marathon
+La Course des Remparts,2024-09-24 02:00:00,6000,200,,,Auvergne-Rhône-Alpes,Isère,45.7244699,5.2504289,"[12000, 12000]",Trail 6 km
+Course des Terrils,2024-09-24 02:00:00,25000,290,,Au charbon ! ,Hauts-de-France,Nord,50.4081011,3.4998523,"[9000, 16000, 55000]",Trail 25 km
+Hostens Trail,2024-09-24 02:00:00,12000,650,,Hostens en emporte le vent ! ,Nouvelle-Aquitaine,Gironde,44.493528,-0.639667,[27000],Duo à la Noix
+Foulées d'automne,2024-09-24 02:00:00,10000,0,,,Pays de la Loire,Maine-et-Loire,47.4695081,-0.6234109999999999,"[5000, 15000]",Course sur route 10 km
+Semi-marathon du Lion,2024-09-24 02:00:00,10000,0,,Le roi de la course,Bourgogne-Franche-Comté,Territoire de Belfort,47.63967400000001,6.863849,"[21097, 5000, 21097]",Le 10km en Joëlette
+Trail du Petit Saint-Paulien,2024-09-24 02:00:00,5000,100,,Petit mais aussi Grand,Auvergne-Rhône-Alpes,Ardèche,44.340084,4.151281,[15000],"5 km pour Tous - 5,5 km"
+Tour des Crus du Beaujolais,2024-09-24 02:00:00,12000,200,,In vino veritas,Bourgogne-Franche-Comté,Saône-et-Loire,46.2141751,4.7575648,"[42000, 25000, 25000]",AlenTour Des Crus 12 km
+Les Foulées du Pont,2024-09-24 02:00:00,10000,0,,,Pays de la Loire,Loire-Atlantique,47.2734979,-2.213848,[5000],Course sur route 10 km
+Marathon de Tours (Running Loire Valley),2024-09-24 02:00:00,42195,119,,Allez viens faire un petit Tours au Marathon !,Centre-Val de Loire,Indre-et-Loire,47.3891252,0.694282,"[20000, 10000, 10000]",Marathon Duo
+Les foulées de la rose,2024-09-24 02:00:00,10000,0,,,Occitanie,Gard,43.7541102,4.5138361,[5000],Course sur route 10 km
+Course des Deux Châteaux,2024-09-24 02:00:00,17000,0,,Au Compiègne fin,Hauts-de-France,Oise,49.4192921,2.8311798,"[10000, 10000]",Marche 17 km
+Les Foulées Fleurinoises,2024-09-24 02:00:00,15000,405,,,Auvergne-Rhône-Alpes,Rhône,45.8275853,4.6659105,[11000],Trail la Fleurinoise
+10 km Coeur de Ville,2024-09-24 02:00:00,10000,0,,,Bourgogne-Franche-Comté,Saône-et-Loire,46.8055662,4.4205176,[5000],Course sur route 10 km
+Foulées de l'Odon,2024-09-24 02:00:00,10000,0,,,Normandie,Calvados,49.1682739,-0.415144,[],Trail 10 km
+La Foulée de la Truffe,2024-09-24 02:00:00,8800,0,,,Auvergne-Rhône-Alpes,Drôme,44.35996670000001,4.8468859,[18800],"Trail 8,8 km"
+Les Foulées des 4 Portes,2024-09-24 02:00:00,10000,120,,Les portes du paradis ,Grand Est,Bas-Rhin,48.5052233,7.491045499999999,"[5000, 21097]",Course sur route 10 km
+La Sapinette,2024-09-24 02:00:00,10000,150,,,Bourgogne-Franche-Comté,Doubs,47.246285,6.182361999999999,"[58000, 44000, 35000, 25000, 15000, 21000]",Marche 10 km
+Trail des Rois Maudits,2024-09-24 02:00:00,58000,0,,"Des rois maudits, un trail béni ",Normandie,Eure,49.2380004,1.4034488,"[41000, 13000, 27000]",Trail 58 km
+Course de la Saint-Michel,2024-09-24 02:00:00,4200,0,,,Auvergne-Rhône-Alpes,Ain,45.718657,5.696241,[11000],"Course sur route 4,2 km"
+Isostar ExtremeMan Narbonne,2024-09-24 02:00:00,14400,0,,,Occitanie,Aude,43.1782093,3.032307,"[108250, 34750, 18400, 71500]",Relais
+Marathon et 10 km des écluses de la Mayenne,2024-09-24 02:00:00,21097,0,,,Pays de la Loire,Mayenne,48.0785146,-0.7669906000000001,"[42195, 10000]",Semi-Marathon
+Le Saint-Max Trail ,2024-09-24 02:00:00,8000,0,,Une course sainte ,Auvergne-Rhône-Alpes,Isère,45.428254,6.037861899999999,[10000],Marche 8 km
+La boucle du pavail,2024-09-24 02:00:00,10000,0,,C'est une Aub(a)ine !,Bretagne,Ille-et-Vilaine,48.0445459,-1.463669,[5000],Trail 10 km
+Semi-Marathon de l'Armagnac,2024-09-24 02:00:00,11000,0,,Attention à ne pas finir raisin ,Nouvelle-Aquitaine,Landes,43.8920683,-0.3041343,"[21097, 10000]",Marche 11 km
+Les Bacchantes Reims,2024-09-24 02:00:00,8000,0,,Ça va te friser la moustache,Grand Est,Marne,49.2538592,4.0340419,[],Les Bacchantes Reims
+Grimpée du Pays Rochois,2024-09-24 02:00:00,10600,950,,,Auvergne-Rhône-Alpes,Haute-Savoie,46.067072,6.312039,[],"Trail 10,6 km"
+10 km des Herbiers,2024-09-24 02:00:00,10000,0,,,Pays de la Loire,Vendée,46.86919,-1.013388,[5000],Course sur route 10 km
+Foulées de la Gournerie,2024-09-24 02:00:00,11600,0,,,Pays de la Loire,Loire-Atlantique,47.22449169999999,-1.6314251,[6000],"Course sur route 11,6 km"
+Disneyland Paris Run ,2024-09-24 02:00:00,31000,0,,"Hakuna Matata, mais quel trail magnifique !",Île-de-France,Seine-et-Marne,48.87846159999999,2.7657959,"[5000, 36000, 21097, 10000]",Disneyland Paris 31 km
+Trails du Layon,2024-09-24 02:00:00,16000,390,,,Île-de-France,Yvelines,48.731672,2.0208499,"[45000, 28000]",Trail 16 km
+Foulée des 1000 pattes,2024-09-24 02:00:00,8000,0,,,Occitanie,Hautes-Pyrénées,43.3846426,0.0552187,"[11000, 19000]",Marche 8 km
+Course des Écluses de la Mayenne,2024-09-24 02:00:00,42195,0,,Tu n'as plus d'Excluses ! ,Pays de la Loire,Mayenne,48.0785146,-0.7669906000000001,"[10000, 21097]",Marathon
+Carro-Carry,2024-09-24 02:00:00,14270,165,156.0,"Face à la mer, t'as voulu courir ",Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,43.3365923,5.1537325,[],Carro-Carry
+La Burosienne,2024-09-24 02:00:00,9000,0,,,Nouvelle-Aquitaine,Pyrénées-Atlantiques,43.3517409,-0.308749,[11400],Marche 9 km
+La Rolinordik,2024-09-24 02:00:00,7000,0,,,Normandie,Eure,49.2472003,1.1874359,[12000],Marche nordique 7 km
+Course du souffle,2024-09-24 02:00:00,5000,0,,,Auvergne-Rhône-Alpes,Rhône,45.781366,4.705596,[10000],Course sur route 5 km
+Trail de la Contrebandière,2024-09-24 02:00:00,55000,0,,Attention à la douane !,Hauts-de-France,Nord,50.4081011,3.4998523,[],Trail 55 km
+Paris-Versailles,2024-09-24 02:00:00,16200,0,,Un ville à ville royal ! ,Île-de-France,Yvelines,48.8048649,2.1203554,[],"Trail 16,2 km"
+La Grésylienne,2024-09-25 02:00:00,9000,0,,Cours au gré de tes envies,Auvergne-Rhône-Alpes,Savoie,45.722579,5.932794899999999,"[12000, 12000, 21000]",Marche 9 km
+Foulée de chevry,2024-09-25 02:00:00,10000,0,,,Auvergne-Rhône-Alpes,Ain,46.282084,6.038312899999999,"[6000, 6000]",Marche 10 km
+Alésia Trail,2024-09-25 02:00:00,34000,1200,,Ils sont fous ces Gaulois !,Bourgogne-Franche-Comté,Côte-d'Or,47.5356968,4.469033599999999,"[51000, 25000, 16000, 8000]",La Mandubienne
+Trail de Collioure,2024-09-28 02:00:00,19000,750,,"Quoi de mieux pour finir l'été, que Collioure ?",Occitanie,Pyrénées-Orientales,42.5265,3.0837246,"[8000, 4500]",Trail 19 km
+La Tourvillaise Rose,2024-09-29 02:00:00,10000,0,,,Normandie,Seine-Maritime,49.3285938,1.0958628,"[5000, 5000]",Course sur route 10 km
+Ultra Trail des Montagnes du Jura,2024-09-29 02:00:00,187000,7560,,Jura'ssic park,Bourgogne-Franche-Comté,Doubs,46.753914,6.316812,"[110000, 77000, 42000, 23000]",L'UTMJ
+La Haguenauvienne,2024-09-29 02:00:00,5000,0,,"Femme des années 80, femmes jusqu’au bout des seins...",Grand Est,Bas-Rhin,48.813288,7.791250000000001,[],Course sur route 5 km
+Verticale de Laprugne,2024-09-30 02:00:00,14000,700,,,Auvergne-Rhône-Alpes,Allier,45.986016,3.742655,"[27000, 5000]",Trail 14 km
+Foulées Ozanam,2024-09-30 02:00:00,5000,0,,"Une ou deux, ça ne peut pas faire de mal !",Île-de-France,Paris,48.85837009999999,2.2944813,[10000],Course sur route 5 km
+Trails des Lacs de Chamrousse-Belledonne (TLCB),2024-09-30 02:00:00,5000,350,,Well done ! ,Auvergne-Rhône-Alpes,Isère,45.125328,5.878680999999999,"[26000, 13000, 2000]",Trail 5 km
+Les 24h d'Endurance Hermeland ,2024-09-30 02:00:00,360,0,,Que pour les bruns ,Bretagne,Ille-et-Vilaine,48.018007,-1.651392,[],Course sur route 6h
+V&B run,2024-09-30 02:00:00,6000,0,,,Pays de la Loire,Mayenne,48.189852,-0.433201,"[12500, 12500, 3500]",Course sur route 6 km
+Trail du Puigmal,2024-09-30 02:00:00,18000,1200,,,Occitanie,Pyrénées-Orientales,42.442521,2.031357,[1000],Trail 18 km
+Trail de la vallée de la Sée,2024-09-30 02:00:00,27000,700,,,Normandie,Manche,48.7240123,-1.1673013,[12000],Trail du Val de Sée
+Festitrail,2024-09-30 02:00:00,1200,130,50.0,,Occitanie,Tarn-et-Garonne,44.10485200000001,1.08468,"[9000, 9000, 22000]",Le Parcours de l'Enfer
+Course a Paolina,2024-09-30 02:00:00,70000,1790,917.0,En course pour l'histoire,Corse,Haute-Corse,42.43498,9.298622,[],Run & Bike
+Marche Étoilée,2024-09-30 02:00:00,8000,0,,,Bourgogne-Franche-Comté,Doubs,46.854427,6.331523,[],Marche 8 km
+Trail des Bulles,2024-09-30 02:00:00,8000,100,,Ça va te faire pétiller !,Centre-Val de Loire,Indre-et-Loire,47.4136563,0.8083855999999999,"[10000, 15000, 21000, 15000]",Moncontour by Night
+L'Enjambée Sorguaise,2024-09-30 02:00:00,14000,0,,,Provence-Alpes-Côte d'Azur,Vaucluse,44.008767,4.872757,[6000],14 km
+Odysséa Paris ,2024-09-30 02:00:00,5000,0,,Ta grande Odyssée !,Île-de-France,Paris,48.85837009999999,2.2944813,"[10000, 10000]",Marche 5 km
+Trail de Mauves en Vert,2024-09-30 02:00:00,48000,1200,,Tu vas en voir de toutes les couleurs !,Pays de la Loire,Loire-Atlantique,47.2973073,-1.3939779,"[15000, 14000, 58000, 59000, 27000]",Trail du Samedi Soir (6 x 8K)
+Le Promenons-Nous,2024-09-30 02:00:00,8000,0,,,Occitanie,Gers,43.646621,0.7838459999999999,[13000],Trail 8 km
+Trail des 2 clochers,2024-09-30 02:00:00,12000,0,,,Île-de-France,Seine-et-Marne,48.986833,2.86036,[],Trail 12 km
+Trail des Portes de Meuse,2024-09-30 02:00:00,11000,0,,Ça va être aMeusant !,Grand Est,Meuse,48.686495,5.085525,[31000],Trail 11 km
+Trail des 7 collines,2024-09-30 02:00:00,13000,350,,,Bourgogne-Franche-Comté,Saône-et-Loire,46.2066805,4.077567699999999,[22000],Trail 13 km
+Odyssée du Tue Vaques,2024-09-30 02:00:00,16000,255,,,Normandie,Manche,49.6868627,-1.4416776,"[30400, 8900]",Trail 16 km
+100 km et Marathon de Millau,2024-09-30 02:00:00,42195,0,,O Sole Millau ,Occitanie,Aveyron,44.100575,3.077801,[100000],Marathon
+Semi-Marathon d’Argentan,2024-09-30 02:00:00,21097,0,,Ramène ton flouz,Normandie,Orne,48.7443591,-0.0209722,[],Semi-Marathon
+Trail des Glières,2024-09-30 02:00:00,20000,470,1200.0,Tu vas en faire des Bornes !,Auvergne-Rhône-Alpes,Haute-Savoie,45.9937478,6.2553902,"[11000, 47000, 47000]",Le dernier assaut
+Mud Girl Paris,2024-09-30 02:00:00,5000,0,,,Île-de-France,Seine-et-Marne,48.917429,2.761107,[],Course à obstacles 5 km
+La Reinette,2024-10-01 02:00:00,7000,0,,Girl Power !,Normandie,Seine-Maritime,49.403731,1.186045,[],Marche 7 km
+Trail de la Source,2024-10-01 02:00:00,11000,0,,,Pays de la Loire,Vendée,46.936072,-1.512859,[21000],Trail 11 km
+Trail du Petit Saint-Bernard,2024-10-01 02:00:00,60000,3500,,Le meilleur ami de l'homme ! ,Auvergne-Rhône-Alpes,Savoie,45.622935,6.800077,"[40000, 40000]",Trail 60 km
+Les 10 km du poinconnet,2024-10-01 02:00:00,5000,0,,,Centre-Val de Loire,Indre,46.7946134,1.7331675,[10000],Envolée rose 5 km
+Thusy en Trail,2024-10-01 02:00:00,24000,850,,,Auvergne-Rhône-Alpes,Haute-Savoie,45.946966,5.948887,[12000],Trail du tilleul
+La Cherbourgeoise,2024-10-01 02:00:00,3500,0,,,Normandie,Manche,49.6338979,-1.622224,"[7000, 7000]",Les petites foulées
+La YUL,2024-10-01 02:00:00,10000,0,,Courir pour soutenir,Hauts-de-France,Nord,50.655499,2.952115,"[6500, 6500]",Course virtuelle
+Le souffle de cristal,2024-10-01 02:00:00,5000,0,,,Grand Est,Meurthe-et-Moselle,48.449081,6.738029,[10000],Course sur route 5 km
+Les foulées roses de Gournay,2024-10-01 02:00:00,12000,0,,,Normandie,Seine-Maritime,49.4826616,1.7245633,"[6000, 6000, 6000, 8000]",Trail 12 km
+Grand Mulhouse Trail Urbain,2024-10-01 02:00:00,12600,163,,Vois les choses en grand à Mulhouse,Grand Est,Haut-Rhin,47.74952450000001,7.3402898,[22600],Le Trail de Gérard
+Transquar de Beauvais,2024-10-01 02:00:00,10000,0,,Une course à Beauvais ? J'Hachette ! ,Hauts-de-France,Oise,49.42953869999999,2.0807123,"[5000, 21097]",Course sur route 10 km
+Foulee de Drumettaz Clarafond,2024-10-01 02:00:00,280000,0,,,Auvergne-Rhône-Alpes,Savoie,45.6553505,5.9114426,"[20000, 8800]",Trail ronde des fours
+Trail du Cassoulet,2024-10-01 02:00:00,12000,0,,Sapristi saucisse,Occitanie,Haute-Garonne,43.6522942,1.6550631,"[9000, 9000, 42000, 21000]",Randonnée
+Marathon Bleu Finistère,2024-10-01 02:00:00,42195,0,,Bleu Océan,Bretagne,Finistère,48.3472286,-4.7033772,"[21097, 10000]",Marathon Bleu
+Trail du Berger ,2024-10-01 02:00:00,18000,400,,Echappe-toi du troupeau ,Occitanie,Hérault,43.714103,3.617468,"[7000, 2000, 13000, 5000]",Les Lavognes
+Foulées Roses,2024-10-01 02:00:00,2800,0,,Une superbe course pour une superbe cause,Centre-Val de Loire,Loiret,47.865408,1.897565,"[5700, 5700, 10000, 10000]","Marche 2,8 km"
+La Barentinoise,2024-10-01 02:00:00,10000,0,,,Normandie,Seine-Maritime,49.543453,0.9581299999999999,[5000],Course sur route 10 km
+Foulées de Nanterre,2024-10-01 02:00:00,2600,0,,,Île-de-France,Hauts-de-Seine,48.892423,2.215331,[5000],Course Relais 4x600
+Trail de la colline,2024-10-01 02:00:00,25000,900,,,Grand Est,Meurthe-et-Moselle,48.425334,6.078800999999999,"[9000, 15000]",L'Expédi'Sion
+Les foulées Canavéroises,2024-10-01 02:00:00,8000,0,,,Île-de-France,Val-de-Marne,48.796124,2.53507,"[4000, 2000]",Course sur route 8 km
+Trail du Mâconnais,2024-10-01 02:00:00,10000,250,,,Bourgogne-Franche-Comté,Saône-et-Loire,46.3098525,4.8354085,"[28000, 16000]",Trail 10 km
+Martigues-Carro,2024-10-01 02:00:00,10000,0,,Allez on va à Martigues Carro !,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,43.4310575,5.0481732,"[17000, 26000]",Marche 10 km
+La Predelloise,2024-10-01 02:00:00,12000,0,,,Auvergne-Rhône-Alpes,Haute-Loire,44.769875,3.882018,"[10000, 8000]",Marche 12 km
+Trail des P'tits Lutins,2024-10-01 02:00:00,10000,0,,"Sous l'arc en ciel, un trésor et des p'tits lutins",Nouvelle-Aquitaine,Creuse,46.1849256,2.0759625,[5000],Trail 10 km
+La Foulée de Crozet,2024-10-01 02:00:00,10280,0,,,Auvergne-Rhône-Alpes,Ain,46.279461,6.014,"[5140, 2800, 1100, 550, 550]","Course sur route 10,28 km"
+Foulées Etival,2024-10-01 02:00:00,10000,0,,,Pays de la Loire,Sarthe,47.9577159,0.0936911,[5000],Course sur route 10 km
+Les Foulées Nature de Crossey,2024-10-01 02:00:00,9000,200,,,Auvergne-Rhône-Alpes,Isère,45.379013,5.6455627,[19000],Trail 9 km
+La Téméraire Octobre Rose en Charolais Brionnais,2024-10-01 02:00:00,5700,0,,,Bourgogne-Franche-Comté,Saône-et-Loire,46.4350302,4.2724255,[],"Marche 5,7 km"
+Coulommiers Rose,2024-10-01 02:00:00,4000,0,,,Île-de-France,Seine-et-Marne,48.807768,3.0821546,"[8000, 8000]",Marche 4 km
+"Trail de Saint-Didier ""Jacques Silvain""",2024-10-01 02:00:00,42000,0,,Un trail royal,Provence-Alpes-Côte d'Azur,Vaucluse,44.006624,5.101144,"[25000, 13000, 8000]",Trail élite
+La Course des Moulins,2024-10-01 02:00:00,10000,0,,"Finisher, tu dors",Nouvelle-Aquitaine,Lot-et-Garonne,44.2384253,0.6462724999999999,"[12000, 23000, 12000]",Marche 10 km
+Run'in Vitteaux,2024-10-01 02:00:00,6000,0,,,Bourgogne-Franche-Comté,Côte-d'Or,47.3970131,4.538755399999999,[10000],Course sur route 6 km
+Course des Remparts de Provins,2024-10-01 02:00:00,18000,0,,Des remparts à part !,Île-de-France,Seine-et-Marne,48.5557169,3.3028203,[6000],Course des Remparts
+La Nogent Baltard,2024-10-01 02:00:00,10000,0,,,Île-de-France,Val-de-Marne,48.8320395,2.4894463,[5000],Course sur route 10 km
+Semi de la juine,2024-10-01 02:00:00,21000,167,171.0,C'est la classe !,Île-de-France,Essonne,48.3562581,2.1280229,"[1800, 11000, 6000]",Semi-marathon de la Juine
+Foulée Chesnaycourtoise ,2024-10-01 02:00:00,10000,0,,Un trail très courtois ,Île-de-France,Yvelines,48.8262939,2.1283783,[3000],Trail 10 km
+Trail de l'Escarelle,2024-10-01 02:00:00,24000,1250,,Un shot de chlorophylle ,Provence-Alpes-Côte d'Azur,Var,43.393994,6.041015,[13000],Trail 24 km
+Semi-Marathon de Beaufort en Anjou,2024-10-01 02:00:00,21097,0,,"Croix de bois, croix de pierres si tu cours, t'iras pas en enfer !",Pays de la Loire,Maine-et-Loire,47.4389705,-0.219596,"[9700, 5600, 11000]",Semi-marathon Intersport Intermarché
+La Montoise,2024-10-01 02:00:00,11000,0,,,Pays de la Loire,Vendée,46.8316276,-2.1302359,"[17000, 17000]",Trail 11 km
+La Band'Rill,2024-10-01 02:00:00,5000,0,,Tranquille sur la Band'Rill !,Auvergne-Rhône-Alpes,Rhône,45.819655,4.897126,"[10000, 3000]",Course sur route 5 km
+Foulées Veauchoises,2024-10-01 02:00:00,6180,0,,,Auvergne-Rhône-Alpes,Loire,45.561668,4.278078,"[5000, 21460]","Trail 6,18 km"
+Trail de l'Odon,2024-10-01 02:00:00,10000,127,,Un plongeon dans l'eau(don) ça te tente ? ,Normandie,Calvados,49.1268249,-0.4847609999999999,"[20000, 42000]",Trail 10 km
+Les foulées du lingot du Nord,2024-10-01 02:00:00,10000,0,,,Hauts-de-France,Pas-de-Calais,50.62169799999999,2.618234,[5400],Course sur route 10 km
+Les Boucles du Coeur,2024-10-01 02:00:00,10000,0,,Tous en choeur !,Auvergne-Rhône-Alpes,Haute-Savoie,45.88170700000001,6.178,"[5000, 5000]",Course sur route 10 km
+La reinette,2024-10-01 02:00:00,7000,0,,,Normandie,Seine-Maritime,49.367969,1.2434019,[],Course sur route 7 km
+Les Boucles Roses,2024-10-01 02:00:00,6000,150,,,Bourgogne-Franche-Comté,Doubs,47.2404763,6.008138499999999,"[15000, 10000, 2000]",Les Boucles de la Découverte
+Ultra Vilain Trail,2024-10-01 02:00:00,35000,700,,La Vilaine t'émerveillera !,Bretagne,Morbihan,47.518693,-2.303114,"[80000, 15000]",Trail 35 km
+Trail'in Fontenay,2024-10-01 02:00:00,16000,0,,,Centre-Val de Loire,Eure-et-Loir,48.3965784,1.4036367,"[24000, 8000, 42195, 8000]",Natur'expérience 16 km
+Trail Saint-Bruno,2024-10-01 02:00:00,6000,150,,,Auvergne-Rhône-Alpes,Haute-Savoie,46.128077,6.34251,"[11000, 11000]",Trail 6 km
+Gapen'cimes,2024-10-01 02:00:00,6000,0,,Gap ou pas Gap ?,Provence-Alpes-Côte d'Azur,Hautes-Alpes,44.5642688,6.0999025,"[27000, 15500, 47000]",Rose
+Verticale du Grand Serre,2024-10-01 02:00:00,1811,1000,,,Auvergne-Rhône-Alpes,Isère,45.003555,5.797155999999999,[],Kilomètre Vertical
+Urban Trail de la Butte Montmartre,2024-10-01 02:00:00,7000,180,,"Respire, prouve que tu existes !",Île-de-France,Paris,48.85837009999999,2.2944813,[],Marche 7 km
+Corrida Brévannaise,2024-10-01 02:00:00,5000,0,,,Île-de-France,Val-de-Marne,48.740797,2.4891362,[10000],Course sur route 5 km
+Trail des 2 Salines,2024-10-01 02:00:00,13000,0,,"Je m'habille bleu sur la poitrine, je marche vers les salines.",Bourgogne-Franche-Comté,Doubs,47.0331753,5.7776263,"[30000, 30000]",Course des Gabelous
+Les Foulées Roses,2024-10-01 02:00:00,5000,0,,"Mignonne, allons voir si la rose...",Normandie,Eure,49.3523983,0.8131438999999999,[10000],Course sur route 5 km
+Trails des Monts d'Amain,2024-10-01 02:00:00,10000,0,,,Normandie,Orne,48.627861,0.357879,"[24000, 12000]",Marche 10 km
+Jeux des Master de Vichy,2024-10-01 02:00:00,12000,0,,"Citius, Altius, Fortius ",Auvergne-Rhône-Alpes,Allier,46.1259661,3.4174551,[],Course sur route 12 km
+La Jasseronnai'se Trail,2024-10-01 02:00:00,19000,720,,,Auvergne-Rhône-Alpes,Ain,46.2120832,5.325469399999999,[8000],Le Château
+Trail du Val Suzon,2024-10-01 02:00:00,17000,586,,,Bourgogne-Franche-Comté,Côte-d'Or,47.406486,5.017257,"[11000, 27000]",Trail 17 km
+Rock and run,2024-10-01 02:00:00,7000,0,,,Normandie,Calvados,49.23276,-0.385674,[],Course sur route 7 km
+Les foulées roses Spinaliennes,2024-10-01 02:00:00,6000,0,,,Grand Est,Vosges,48.172402,6.449403,[],Marche 6 km
+Ruée des Fadas - Rocbaron,2024-10-01 02:00:00,8000,0,,Complètement fada !,Provence-Alpes-Côte d'Azur,Var,43.305978,6.083557,[],Course d'obstacles 8 km
+Foulées du Château de Polignac,2024-10-01 02:00:00,11000,0,,,Auvergne-Rhône-Alpes,Haute-Loire,45.068938,3.86024,[],Trail 11 km
+Octobre Rose Oloron,2024-10-01 02:00:00,5000,0,,"Au sud, c'était Oloron",Nouvelle-Aquitaine,Pyrénées-Atlantiques,43.1905945,-0.6106731,"[10000, 10000]",Marche 5 km
+Courses de sélestat,2024-10-01 02:00:00,5000,0,,,Grand Est,Bas-Rhin,48.259386,7.454241000000001,"[10000, 21000]",Course sur route 5 km
+La Yussoise,2024-10-01 02:00:00,10000,0,,,Grand Est,Moselle,49.357276,6.200101,[5000],Course sur route 10 km
+Foulées de Saint-Thibault-des-Vignes,2024-10-01 02:00:00,10000,0,,,Île-de-France,Seine-et-Marne,48.862463,2.6715649,[5000],Course sur route 10 km
+Trail du Four à Chaux,2024-10-01 02:00:00,28000,380,,,Île-de-France,Seine-et-Marne,48.58047,2.56649,[11000],Trail 28 km
+Course de la passerelle,2024-10-01 02:00:00,10000,280,,,Bourgogne-Franche-Comté,Jura,46.378698,5.764399999999999,"[10500, 20000, 20000, 10500]",Marche 10 km
+La Vizilloise,2024-10-01 02:00:00,14000,0,,Une course Vizilleblement incontournable !,Auvergne-Rhône-Alpes,Isère,45.0755137,5.7734425,"[8000, 8000]",Marche 14 km
+Trail Gargomancois,2024-10-01 02:00:00,27000,1100,,,Auvergne-Rhône-Alpes,Loire,45.399731,4.179118,[12500],Trail 27 km
+Aix en Foulées,2024-10-01 02:00:00,10000,0,,Au cœur de la cité aux mille fontaines,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,43.5267152,5.4629942,[5000],Course sur route 10 km
+Trail entre Loire et Vignes,2024-10-01 02:00:00,15000,150,,,Pays de la Loire,Maine-et-Loire,47.38351309999999,-0.6552646999999999,"[10000, 27000]",Trail 15 km
+Rotary tour du bouchon,2024-10-01 02:00:00,7000,0,,,Grand Est,Aube,48.2971534,4.0739553,[],Course sur route 7 km
+Sedan-Charleville,2024-10-01 02:00:00,23600,0,,La doyenne des Ardennes,Grand Est,Ardennes,49.702163,4.94923,[],"Course sur route 23,6 km"
+Diagonale du Mont-Joly,2024-10-01 02:00:00,4000,1000,,,Auvergne-Rhône-Alpes,Haute-Savoie,45.9064279,6.7012639,[],Trail 4 km
+10 km Saint-Laurent-sur-Sèvre,2024-10-01 02:00:00,5000,0,,,Pays de la Loire,Vendée,46.952891,-0.9102979999999999,[10000],Course sur route 5 km
+La Bourbonnaise pour Elles,2024-10-01 02:00:00,5000,0,,,Auvergne-Rhône-Alpes,Allier,46.568059,3.334417,[],Trail 5 km
+Montée de la Croix,2024-10-01 02:00:00,4300,0,,,Bourgogne-Franche-Comté,Saône-et-Loire,46.9507702,4.3024757,[11500],"Course sur route 4,3 km"
+Trail des Hautes Falaises,2024-10-01 02:00:00,20000,300,,,Normandie,Seine-Maritime,49.801976,0.527281,[],Trail 20 km
+Trail de Barbizon,2024-10-01 02:00:00,12500,250,,"Je te tiens, tu me tiens par la Barbizon ! ",Île-de-France,Seine-et-Marne,48.447193,2.603497,[],"Trail 12,5 km"
+Semi-Marathon de Normandie,2024-10-02 02:00:00,21097,0,,Un Havre de paix,Normandie,Seine-Maritime,49.4901983,0.1299361,"[10000, 10000]",Semi-Marathon
+Marathon Loudéac-Pontivy,2024-10-02 02:00:00,42195,0,,"Il pleut, il pleut bergère ! ",Bretagne,Côtes-d'Armor,48.176274,-2.752021,"[21097, 5000, 10000]",Marathon Loudéac-Pontivy
+Trail Castelpontin,2024-10-03 02:00:00,7000,50,,Viens fouler le Pont-du-Château !,Auvergne-Rhône-Alpes,Puy-de-Dôme,45.796936,3.2485909,"[14000, 28000]",Ti Castel
+Nice Côte d'Azur by UTMB®,2024-10-04 02:00:00,165000,8400,,"De Chamonix à la Côte d'Azur, il n'y a qu'une foulée",Provence-Alpes-Côte d'Azur,Alpes-Maritimes,43.6977066,7.270324800000001,"[111000, 59000, 22000]",Nice 100M
+Triathlon des Corsaires,2024-10-05 02:00:00,10300,0,,À l'abordage !,Nouvelle-Aquitaine,Pyrénées-Atlantiques,43.396244,-1.682907,[51500],Triathlon XS
+La Cavale des Écureuils,2024-10-06 02:00:00,14000,0,,Une course d'arbre en arbre,Île-de-France,Val-d'Oise,49.0924675,1.7231268,[19000],Trail 14 km
+Laval Urban Trail,2024-10-06 02:00:00,10500,180,,Dans la vallée ohoh de Laval lalalilala,Pays de la Loire,Mayenne,48.0785146,-0.7669906000000001,[10000],"Trail 10,5 km"
+Courir au Pays de Craon,2024-10-06 02:00:00,11000,0,,,Pays de la Loire,Mayenne,47.84867000000001,-0.949622,[5000],Course sur route 11 km
+La Bitchoise,2024-10-06 02:00:00,10000,0,,,Grand Est,Moselle,49.05369200000001,7.431437000000001,[5000],Les foulées de la Citadelle
+100 Miles Sud de France,2024-10-06 02:00:00,170000,9800,8100.0,C'est le sang ! ,Occitanie,Pyrénées-Orientales,42.5052379,2.0420012,"[95000, 55000]",100 Miles Sud de France
+Trail Muco - Pays de Vitré,2024-10-06 02:00:00,12000,0,,Attention à ne pas te prendre la porte-Vitré !,Bretagne,Ille-et-Vilaine,48.140862,-1.100423,"[7500, 13000, 16000, 33000, 30000, 22000, 7000]",Cap’Tambule
+Le Trail du Tigre,2024-10-06 02:00:00,36000,0,,,Pays de la Loire,Vendée,46.7802295,-1.099337,"[24000, 12000]",Trail 36 km
+Trail du Vuache,2024-10-06 02:00:00,24300,940,,,Auvergne-Rhône-Alpes,Haute-Savoie,46.101439,5.931858,[10600],"Trail 24,3 km"
+Triathlon des Roses - Lyon,2024-10-06 02:00:00,13700,0,,Une course seinpathique,Auvergne-Rhône-Alpes,Rhône,45.7605474,4.861117699999999,[],"Triathlon des Roses de Lyon (solo, relais à 2 ou 3)"
+Infinity Trail Backyard Ultra ,2024-10-06 02:00:00,6706,0,,Combien de boucles ?,Nouvelle-Aquitaine,Charente-Maritime,46.012563,-1.173661,[],"Trail 6,706 km"
+Ekiden de Grenoble ,2024-10-06 02:00:00,42195,0,,"Grenoble seul c'est bien, mais à plusieurs c'est mieux",Auvergne-Rhône-Alpes,Isère,45.1906081,5.726845,[],Ekiden de Grenoble
+Triathlon d'Arcachon,2024-10-06 02:00:00,53700,0,,,Nouvelle-Aquitaine,Gironde,44.6640209,-1.1643872,[10300],Triathlon M
+Triathlon de Saint Priest,2024-10-06 02:00:00,25750,0,,,Auvergne-Rhône-Alpes,Rhône,45.69127750000001,4.9361111,[],Triathlon S
+Munster'trail,2024-10-07 02:00:00,100000,5200,,Pour en faire tout un fromage ! ,Grand Est,Haut-Rhin,48.039683,7.1383287,"[40000, 20000, 10000]",MT 100km
+Top Prixtel Porquerolles Trail,2024-10-07 02:00:00,25000,600,,Un trail Porck’n’roll,Provence-Alpes-Côte d'Azur,Var,43.038034,6.137041,[],Trail de Porquerolles
+Bazan'court en Rose,2024-10-07 02:00:00,5000,0,,,Grand Est,Marne,49.365917,4.167937,"[10000, 8000]",Course sur route 5 km
+EDF Trail des Vallées d'Aigueblanche (ETVA),2024-10-07 02:00:00,51000,3020,,Un événement électrique !,Auvergne-Rhône-Alpes,Savoie,45.5026759,6.5071444,"[5000, 13000, 11000, 18000, 29000, 24000, 13500, 5500, 8500, 69000]",La Tournée Générale
+Trail Faverges Seythenex,2024-10-07 02:00:00,26000,1700,1700.0,Au coeur des sources du Lac d'Annecy,Auvergne-Rhône-Alpes,Haute-Savoie,45.74702,6.293546999999999,"[15000, 42195, 42195, 10000, 42000]",Trail de l'Eau Froide | 26KM
+Circuit des remparts - 10km panoramique de laon,2024-10-07 02:00:00,5000,0,,,Hauts-de-France,Aisne,49.5648533,3.6170011,"[10000, 3000, 500, 10000]",Marche nordique 5 km
+Tour Pédestre By Trail,2024-10-07 02:00:00,19000,395,,"Des p'tits tours, des p'tits tours, toujours des p'tits tours",Auvergne-Rhône-Alpes,Loire,45.4936827,4.2453004,"[13000, 7000]",La Pontrambertrail
+Roc d'Azur,2024-10-07 02:00:00,43130,1574,,C'est un roc ! ... C'est un pic ! ... C’est la Roc d’Azur !,Provence-Alpes-Côte d'Azur,Var,43.443408,6.637682,"[32200, 21490, 16500, 5500, 21490, 13250, 8260, 4780]",Roc Trail 43K
+Foulées Frambaldéennes,2024-10-07 02:00:00,5000,0,,,Normandie,Orne,48.4862567,-0.7003214999999999,[10000],Marche 5 km
+Trail transfrontalier des 2 Monts,2024-10-07 02:00:00,12000,250,,,Grand Est,Meuse,49.519467,5.366609,"[30000, 13000]",Trail Petite Boucle
+Corri-trail d'Airaines,2024-10-07 02:00:00,22500,310,,,Hauts-de-France,Somme,49.965672,1.9431,"[15500, 6000]","Trail 22,5 km"
+Foulées Viikings,2024-10-07 02:00:00,10500,0,,Ragnar,Pays de la Loire,Loire-Atlantique,47.19964119999999,-1.6717693,"[5800, 8500]",Asgard
+Boulieu Trail,2024-10-07 02:00:00,68000,3630,,On se roule en boule,Auvergne-Rhône-Alpes,Ardèche,45.269021,4.657995000000001,"[9000, 34000, 17000]",Les Mines
+La sein go rose,2024-10-07 02:00:00,8000,0,,Go go go go,Occitanie,Haute-Garonne,43.1050043,0.7290939,"[10000, 5000]",Marche 8 km
+L'Ersteinoise,2024-10-07 02:00:00,5000,0,,,Grand Est,Bas-Rhin,48.42353,7.66326,[],Course sur route 5 km
+Ultra Trail du Beaujolais Vert,2024-10-07 02:00:00,8000,200,,Vert Vert Vert comme disait Véro ,Auvergne-Rhône-Alpes,Rhône,46.0178463,4.3773153,"[15000, 55000, 110000, 25000]",Trail 8 km
+La Villersoise,2024-10-07 02:00:00,7000,0,,,Île-de-France,Yvelines,48.8197222,1.8913889,"[20000, 10000]",Marche nordique 7 km
+Trail de la Cimentière,2024-10-07 02:00:00,25000,650,,,Grand Est,Marne,48.75855199999999,4.571769000000001,"[12000, 10000, 3000]",Trail 25 km
+10km Foulées Ressource,2024-10-07 02:00:00,5000,0,,"Courir, ça a du sens",Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,43.5267152,5.4629942,[10000],Course sur route 5 km
+La Sorlinoise,2024-10-07 02:00:00,9900,156,,,Bourgogne-Franche-Comté,Saône-et-Loire,46.3444236,4.7436611,[],"Relais 9,9 km"
+Tour du Bearn,2024-10-07 02:00:00,200000,4153,,Tour de force,Nouvelle-Aquitaine,Pyrénées-Atlantiques,43.335524,-0.364982,[],Course sur route 200 km
+Beaver Trail,2024-10-07 02:00:00,26000,900,,Gard à ton Poulx,Occitanie,Gard,43.9113064,4.4241171,"[13000, 43000, 10000]",Confirmé
+La Neuvilloise,2024-10-07 02:00:00,5000,128,,"Sport, Convivialité et Générosité ! ",Hauts-de-France,Oise,49.552132,2.756399,"[15000, 15000, 10000, 10000]",Marche 5 km
+Caen ça bouge,2024-10-07 02:00:00,21000,0,,,Normandie,Calvados,49.182863,-0.370679,"[14000, 22000, 13000]",Trail 21 km
+La Pontchâtelaine,2024-10-07 02:00:00,7500,0,,,Pays de la Loire,Loire-Atlantique,47.436929,-2.089536,[15000],"Trail 7,5 km"
+St-Hilaire Mortain,2024-10-07 02:00:00,16500,0,,Tu vas être hilare !,Normandie,Manche,48.577086,-1.092034,[],"Trail 16,5 km"
+Run for girls,2024-10-07 02:00:00,5000,0,,,Île-de-France,Hauts-de-Seine,48.884831,2.26851,[10000],Marche 5 km
+Trail des Castagnes,2024-10-07 02:00:00,10000,430,,,Occitanie,Hérault,43.597083,3.084903,[],Trail 10 km
+La foulée des géants,2024-10-07 02:00:00,19000,0,,,Pays de la Loire,Vendée,46.884536,-0.899612,[10000],Trail 19 km
+Trail du pays d'Argentan et raid de la libération,2024-10-07 02:00:00,13000,0,,,Normandie,Orne,48.745864,0.140868,"[44000, 24000, 30000]",Marche 13 km
+Ekiden d'Albi,2024-10-07 02:00:00,42195,0,,"Ya lil, ya lil, à Albi ya lil",Occitanie,Tarn,43.9250853,2.1486413,[],Marathon
+La Course des Vendanges,2024-10-07 02:00:00,15500,450,,,Occitanie,Pyrénées-Orientales,42.48343,3.128874,[],"Trail 15,5 km"
+Anjou'r & nuit,2024-10-07 02:00:00,36000,600,,,Pays de la Loire,Maine-et-Loire,47.4007176,-0.3715396,"[12000, 24000]","Challenge Anjou'r & Nuit, 12 + 24 km"
+Run in Sennecey,2024-10-07 02:00:00,5000,0,,,Bourgogne-Franche-Comté,Saône-et-Loire,46.64285539999999,4.8706845,[10000],Course sur route 5 km
+L'Automnal 05,2024-10-07 02:00:00,3300,1000,,"Et Puy, l'automne a fait son nid",Provence-Alpes-Côte d'Azur,Hautes-Alpes,44.892922,6.617928000000001,"[25000, 12000]",KV du Prorel
+Les Préautomnales,2024-10-08 02:00:00,7000,0,,,Normandie,Seine-Maritime,49.49199249999999,1.2136171,"[25000, 15000, 42000, 15000]",La Mare Sangsue
+Trail de Jouques,2024-10-08 02:00:00,15000,0,,Ça va jouer des coudes,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,43.6372074,5.6386293,"[50000, 23000]",La Course Nature
+Grands Trails d'Auvergne,2024-10-08 02:00:00,130000,4910,,Vois les choses en Grand !,Auvergne-Rhône-Alpes,Puy-de-Dôme,45.75573199999999,3.615495,"[14000, 25000, 25000, 48000, 48000, 78000, 14000, 78000]",360° Ultra-Trail
+10 km et 20 km de Vouneuil sous Biard,2024-10-08 02:00:00,20000,0,,T'es pas là pour jouer au billard !,Nouvelle-Aquitaine,Vienne,46.5734819,0.2728195,[10000],Course sur route 20 km
+Trail de la Croix des Carmes,2024-10-08 02:00:00,15000,400,,,Grand Est,Meurthe-et-Moselle,48.900276,6.050802,"[30000, 10000]",Blue Orange Trail
+EnerGemTrail Saint-Jean,2024-10-08 02:00:00,1600,0,,Comment ne pas perdre la tête ?,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,43.2733301,5.6375795,"[800, 2400, 28000, 7500, 14000, 3200, 800]",Benjamins
+Cross de Chapet,2024-10-08 02:00:00,10000,0,,,Île-de-France,Yvelines,48.96727,1.9337262,[6600],Course sur route 10 km
+Clermont en Rose,2024-10-08 02:00:00,5000,0,,C'est Clermont la course qu'il te faut !,Auvergne-Rhône-Alpes,Puy-de-Dôme,45.7765846,3.0821443,[],Course sur route 5 km
+5 km et 10 km de Talence,2024-10-08 02:00:00,5000,0,,La Gironde a un incroyable Talence !,Nouvelle-Aquitaine,Gironde,44.80858,-0.588272,[10000],Course sur route 5 km
+Foulées des Côteaux de l'Evre,2024-10-08 02:00:00,12000,0,,,Pays de la Loire,Maine-et-Loire,47.2064668,-0.9917733000000001,[5000],Trail 12 km
+Trail des Nouettes,2024-10-08 02:00:00,10000,400,,,Île-de-France,Yvelines,48.8048649,2.1203554,"[18000, 15000]",Trail de la Dauphine 10 km
+Bati’run,2024-10-08 02:00:00,6000,0,,,Centre-Val de Loire,Eure-et-Loir,48.44385399999999,1.489012,[10000],Randonnée 6 km
+Courir à Vienne,2024-10-08 02:00:00,20000,0,,Allez Vienne je t'emmène au vent !,Auvergne-Rhône-Alpes,Isère,45.5246676,4.8784861,"[10000, 8500, 8000]",20KM Nature
+Tout Rennes Court,2024-10-08 02:00:00,10000,0,,La course à pied sera ta Rennes ! ,Bretagne,Ille-et-Vilaine,48.1143843,-1.6694938,"[21097, 5000]",10 km CMB
+Marathon Pasteur Coeur du Jura,2024-10-08 02:00:00,21097,150,,La rage de vaincre,Bourgogne-Franche-Comté,Jura,47.112027,5.499452199999999,"[10000, 10000, 42195, 6000, 42195]",Semi-Marathon
+Trail des 7 Monts,2024-10-08 02:00:00,33000,2000,,Monts précieux,Bourgogne-Franche-Comté,Jura,46.370448,5.9112369,"[15000, 15000, 9000, 9000]",Trail 33 km
+Les foulées du bord de loire,2024-10-08 02:00:00,5000,0,,,Centre-Val de Loire,Loiret,47.866604,2.122264,"[20000, 10000]",Course 5 km
+La Valdahonnaise,2024-10-08 02:00:00,8000,250,,,Bourgogne-Franche-Comté,Doubs,47.14964579999999,6.3173187,"[23000, 4000, 13000, 13000]",Trail 8 km
+Foulées du Saulnois,2024-10-08 02:00:00,5000,0,,,Grand Est,Moselle,48.820138,6.507136999999999,"[12000, 20000, 10000]",Trail 5 km
+Marathon Eurométropole Metz,2024-10-08 02:00:00,42195,0,,Courez comme vous aimez !,Grand Est,Moselle,49.1193089,6.175715599999999,"[10000, 10000]",Marathon Judiciaire
+Course Algernon,2024-10-08 02:00:00,15000,0,,"Tous ensemble, tous ensembles hey hey !",Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,43.2966941,5.3610825,"[5000, 10000, 5000]",Course sur route 15 km
+Eco Trail du Massif des Brasses,2024-10-08 02:00:00,3700,0,,Tu en auras la larme à l'oeil ,Auvergne-Rhône-Alpes,Haute-Savoie,46.17136499999999,6.480171899999999,"[19000, 9000, 36500]",P'tit Tour du Risse
+Courses Semi Nature de Romans,2024-10-08 02:00:00,9700,0,,"C’est un beau roman, c’est une belle course !",Auvergne-Rhône-Alpes,Drôme,45.044236,5.052735,[21500],"Course sur route 9,7 km"
+Trail de la Vallée de l'Yon,2024-10-08 02:00:00,5500,0,,Fais rugir le lion en toi ,Pays de la Loire,Vendée,46.540264,-1.307819,"[10000, 12000, 32000, 17500, 20000]","Marche 5,5 km"
+Trail du pays de La Chataigneraie,2024-10-08 02:00:00,15000,362,,,Pays de la Loire,Vendée,46.6417404,-0.7363794,"[9000, 30000, 42000]",Trail 15 km
+Course et marche octobre rose,2024-10-08 02:00:00,5000,0,,,Grand Est,Meurthe-et-Moselle,48.6936184,6.1832413,[],Marche 5 km
+Les Falaises de Rognac,2024-10-08 02:00:00,9000,0,,Tu vas te sentir à l'aise,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,43.487871,5.23463,[12000],La Marche des Falaises
+Les Foulées Contoises,2024-10-08 02:00:00,17000,800,,Un vrai conte de fée !,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,43.815268,7.317749999999999,[],Riba Seneca
+La Crépynoise,2024-10-08 02:00:00,10000,0,,,Hauts-de-France,Oise,49.2413458,2.8952479,"[7000, 5000]",Course sur route 10 km
+La Compiégnoise,2024-10-08 02:00:00,10000,0,,Un événement Picaritatif !,Hauts-de-France,Oise,49.4192921,2.8311798,"[5000, 5000]",La Compiégnoise
+Foulées Halluinoises,2024-10-08 02:00:00,10000,0,,,Hauts-de-France,Nord,50.7876358,3.1465785,[5000],Course sur route 10 km
+Ebroïcienne,2024-10-08 02:00:00,5000,0,,,Normandie,Eure,49.0270129,1.151361,"[2500, 2000, 10000]",Marche 5 km
+La Scintillante,2024-10-08 02:00:00,9000,0,,Aussi brillante qu'étincelante !,Auvergne-Rhône-Alpes,Rhône,45.7605474,4.861117699999999,[5000],Course sur route 9 km
+La Molshemienne,2024-10-08 02:00:00,5000,0,,,Grand Est,Bas-Rhin,48.5384954,7.5155033,[],Course sur route 5 km
+Les foulées de la licorne,2024-10-08 02:00:00,10000,0,,,Hauts-de-France,Nord,50.271667,3.707166,[5000],Course sur route 10 km
+Tour de Ballainvilliers,2024-10-08 02:00:00,10000,0,,,Île-de-France,Essonne,48.6643132,2.2778421,[5000],Course sur route 10 km
+10 km de la Cité des Papes,2024-10-08 02:00:00,10000,0,,Pas besoin d'aller jusqu'au Vatican,Provence-Alpes-Côte d'Azur,Vaucluse,43.9508521,4.8076971,[4500],Course sur route 10 km
+Trail du Soldat de la Marne,2024-10-08 02:00:00,20000,0,,À mon commandement ! Prêt ? Partez !,Île-de-France,Seine-et-Marne,48.9562018,2.8884657,"[10000, 30000, 10000, 5000]",Trail 20 km
+Roses de l'Etang,2024-10-08 02:00:00,14700,270,,,Occitanie,Gard,44.00552099999999,4.777076,[7000],"La Pujautrail 14,7 km"
+10km de Behren,2024-10-08 02:00:00,5000,0,,,Grand Est,Moselle,49.171194,6.935193,[10000],Marche 5 km
+Grandvi'Trail,2024-10-08 02:00:00,9000,0,,Longue vie au trail ,Bourgogne-Franche-Comté,Territoire de Belfort,47.538192,6.976453999999999,[18500],Marche 9 km
+Boot'in Challans,2024-10-08 02:00:00,21000,0,,,Pays de la Loire,Vendée,46.8477802,-1.87642,[12000],Marche 21 km
+Ronde du lac,2024-10-08 02:00:00,1280,0,,,Île-de-France,Essonne,48.6066878,2.3024384,"[10000, 21000, 5000]",Course sur Route 1 280m
+La Leclerc Gouesnou - Brest Métropole,2024-10-08 02:00:00,5000,0,,Qui est le moins cher ?,Bretagne,Finistère,48.390394,-4.486076,[10000],Trail 5 km
+Foulées bleues,2024-10-08 02:00:00,5000,0,,,Hauts-de-France,Pas-de-Calais,50.739042,1.623836,"[10000, 10000, 10000]",Course sur route 5 km
+Marathon et semi-marathon de Salon,2024-10-08 02:00:00,21097,0,,Courir sur de bonnes bases,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,43.640199,5.097022,[42195],Semi-marathon de Salon
+Trail des 7 Hameaux,2024-10-08 02:00:00,12500,250,250.0,C'est votre dernier hameau Jean-Pierre ?,Île-de-France,Yvelines,48.741829,2.053208,[23500],"Trail de 12,5 Km"
+La Strasbourgeoise,2024-10-08 02:00:00,5000,0,,Le nom de la rose,Grand Est,Bas-Rhin,48.5734053,7.752111299999999,[],Course sur route 5 km
+La Surbourgeoise,2024-10-08 02:00:00,5000,0,,,Grand Est,Bas-Rhin,48.90895399999999,7.850128000000001,[],Course sur route 5 km
+Trail urbain de Lisieux,2024-10-08 02:00:00,14000,250,,,Normandie,Calvados,49.145922,0.227849,[8000],Trail 14 km
+La Foulée du Madiran,2024-10-08 02:00:00,9000,0,,,Occitanie,Hautes-Pyrénées,43.549639,-0.057621,"[15000, 20000, 14000]",Marche 9 km
+La Saint-Maurienne,2024-10-08 02:00:00,10000,0,,,Île-de-France,Val-de-Marne,48.8029439,2.485429,[7000],Course sur route 10 km
+Les foulées de la Rouge Flamande,2024-10-08 02:00:00,11300,0,,,Hauts-de-France,Nord,50.9680401,2.4327217,[5600],"Course sur route 11,3 km"
+10 km de Montpellier,2024-10-08 02:00:00,10000,30,,From zero to Hérault ,Occitanie,Hérault,43.63385330000001,3.8488781,[],Course sur route 10 km
+10 km et Semi-Marathon de Marchiennes,2024-10-08 02:00:00,21097,0,,"Martiens, Marchiennes ",Hauts-de-France,Nord,50.4069458,3.2794581,[10000],Semi-Marathon
+La Neyrolande,2024-10-08 02:00:00,11000,250,,"3, 2, Ain...",Auvergne-Rhône-Alpes,Ain,45.8149818,4.9322915,"[22000, 33000]",Trail 11 km
+Foulées Bertrimontaises,2024-10-08 02:00:00,10000,0,,,Normandie,Seine-Maritime,49.668021,0.999864,"[5000, 5000]",Course sur route 10 km
+Foulées de l'Ill,2024-10-08 02:00:00,10000,0,,"À deux, pour pas te fouler",Grand Est,Haut-Rhin,47.98479500000001,7.399165000000001,"[21097, 21097]",Course sur route 10 km
+Lyrican'trail,2024-10-08 02:00:00,23000,1020,,,Île-de-France,Seine-et-Marne,48.2767822,2.6334639,[12000],Trail 23 km
+Les Foulées d'Automne,2024-10-08 02:00:00,5000,0,,,Bourgogne-Franche-Comté,Côte-d'Or,47.490238,4.332339999999999,"[10000, 12000]",Marche 5 km
+Trail de la Noxe,2024-10-08 02:00:00,8000,248,,Lumos !,Grand Est,Aube,48.58960200000001,3.553163,[16000],Rando de la Noxe
+Trail de la foret de russy- foulees gervaisiennes,2024-10-08 02:00:00,27000,0,,,Centre-Val de Loire,Loir-et-Cher,47.5598847,1.3649309,"[14000, 8000, 5000]",Trail de la forêt de Russy 27 km
+Germitrail,2024-10-08 02:00:00,27000,550,,,Grand Est,Marne,49.113259,4.0299569,[],Cerf
+La Furieuse Carrillone,2024-10-08 02:00:00,3000,0,,,Île-de-France,Yvelines,48.911292,2.178685,"[10000, 5000]",Course sur route 3 km
+La ronde de rotomagos,2024-10-08 02:00:00,10000,0,,,Centre-Val de Loire,Indre-et-Loire,47.261342,0.5751419999999999,"[17000, 17000, 24000, 24000]",Trail 10 km
+Frappadingue Gravelines,2024-10-08 02:00:00,12000,0,,,Hauts-de-France,Nord,50.98707,2.125537,[6000],Format L - 40 obstacles
+The last rabbit,2024-10-08 02:00:00,7000,150,,,Hauts-de-France,Pas-de-Calais,50.521892,2.562498,[],Course 24h solo
+Trail La Cépienne,2024-10-08 02:00:00,12000,500,,,Auvergne-Rhône-Alpes,Savoie,45.555516,6.127549,[24000],La Mini Cépienne 12 km
+Les foulées de Vertou,2024-10-08 02:00:00,23000,0,,,Pays de la Loire,Loire-Atlantique,47.17903099999999,-1.5023017,[10000],Trail Sèvre et Maine
+La thomeryonne,2024-10-08 02:00:00,10700,0,,,Île-de-France,Seine-et-Marne,48.40915400000001,2.784672,[],"Course sur route 10,7 km"
+Paris En Compagnie,2024-10-08 02:00:00,4000,0,,Pour être en bonne compagnie c'est Paris-ici ! ,Île-de-France,Paris,48.856614,2.3522219,[8000],Marche 4 km
+La Vannetaise,2024-10-08 02:00:00,6000,0,,Who run the world ? Girls !,Bretagne,Morbihan,47.658236,-2.760847,[],La Vannetaise
+Le relais de la Pomme,2024-10-08 02:00:00,14400,0,,Attention à ne pas finir en compote !,Nouvelle-Aquitaine,Charente-Maritime,46.18862499999999,-1.063803,[],Relais sur route
+Les Traillades,2024-10-09 02:00:00,1000,0,,Pars en courutde,Provence-Alpes-Côte d'Azur,Vaucluse,43.8338603,5.0814745,"[8600, 8600, 2500, 22000, 11600]",Les Pitchounets 
+Marathon des 3 Pays du Rhin,2024-10-09 02:00:00,42195,0,,3 en 1 !,Grand Est,Haut-Rhin,47.609633,7.5310671,"[21097, 10000, 5000]",Marathon
+T24 Xtrem Triathlon - Bormes-les-Mimosas,2024-10-12 02:00:00,1440,0,,,Provence-Alpes-Côte d'Azur,Var,43.1235759,6.365573299999999,[],"Xtrem Triathlon (solo, relais à 2,4 ou 6)"
+Marathon des Landes,2024-10-13 02:00:00,42195,200,,La ba-Landes des gens heureux,Nouvelle-Aquitaine,Landes,43.893485,-0.4997819999999999,"[21097, 10000]",Marathon des landes
+La Savernoise,2024-10-13 02:00:00,5000,0,,On va cassez les noix du cancer du sein !,Grand Est,Bas-Rhin,48.72479490000001,7.3383721,[],Course sur route 5 km
+Corrida de Saint-Memmie,2024-10-13 02:00:00,8800,0,,,Grand Est,Marne,48.9529766,4.3826755,[],"Course sur route 8,8 km"
+Trail de la Roche d'Oëtre,2024-10-14 02:00:00,17000,750,,Oëtre ou ne pas Oëtre ,Normandie,Orne,48.828536,-0.382011,"[30000, 8000, 5000, 13000, 22000, 107000, 90000, 82000, 65000, 47000, 29000, 12000]",Trail Nocturne 
+Cazinight,2024-10-14 02:00:00,10000,0,,Jusqu’au bout de la Cazinight,Nouvelle-Aquitaine,Creuse,46.23978049999999,1.4922634,"[5000, 17000]",Trail 10 km
+Corrida chaussinoise,2024-10-14 02:00:00,5000,0,,,Bourgogne-Franche-Comté,Jura,46.9685061,5.4081928,[10000],Course sur route 5 km
+Grand Raid de Camargue,2024-10-14 02:00:00,70000,270,,La ruée vers l'or blanc,Occitanie,Gard,43.567172,4.1925869,"[31000, 21097, 12000, 12000, 42195, 12000]",Grand Raid de Camargue
+100 Km de la Somme et Marathon d'Amiens Métropole,2024-10-14 02:00:00,100000,0,,Multiplie tes efforts dans la Somme,Hauts-de-France,Somme,49.894067,2.295753,"[21097, 42195, 42195, 21097]",100 km de la Somme
+Trail Rose,2024-10-14 02:00:00,15000,0,,Tout beau tout rose,Auvergne-Rhône-Alpes,Drôme,45.060874,4.913385,"[10000, 10000, 5000, 5000]",Marche 15 km
+Trail du Montrachet,2024-10-14 02:00:00,15000,400,,,Bourgogne-Franche-Comté,Côte-d'Or,46.937992,4.729560999999999,[8000],Trail 15 km
+Trail de l'Aqueduc de Sainte Foy-lès-Lyon,2024-10-14 02:00:00,3000,0,,Tu vas courir plus vite que ton ombre,Auvergne-Rhône-Alpes,Rhône,45.735237,4.804827,"[42200, 22000, 11000, 11000, 1600, 800, 42000, 22000]",Course d'orientation famille
+La Mégevanne,2024-10-14 02:00:00,8000,350,,"Ahahah, elle est bonne celle là !",Auvergne-Rhône-Alpes,Haute-Savoie,45.856876,6.61775,[17000],La Megevanne
+Boucles de l'Aa,2024-10-14 02:00:00,10000,0,,,Hauts-de-France,Nord,50.98707,2.125537,"[18700, 5000, 5000]",Marche 10 km
+10 km dans le Massif des Costes,2024-10-14 02:00:00,10000,114,,Pas une course pour les polissons ,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,43.6310492,5.1543743,[],Trail 10 km
+La Fastienne,2024-10-14 02:00:00,22500,965,,Un faste de courses,Grand Est,Haut-Rhin,47.911586,7.209336,"[10500, 9000]",La Fastienne
+Trail des Lumières,2024-10-14 02:00:00,7000,174,,,Grand Est,Meurthe-et-Moselle,48.67321800000001,6.153496,"[14000, 27000, 20000]",Marche 7 km
+Trail Adishatz Cancer,2024-10-14 02:00:00,16000,1336,,Courir pour la recherche !,Occitanie,Haute-Garonne,42.788963,0.592943,"[10000, 7000]",Trail 16 km
+Trail du Salagou,2024-10-14 02:00:00,12000,0,,Un lac sous les couleurs de l'automne... ,Occitanie,Hérault,43.62759,3.429495,"[25000, 13000, 5000, 42000]",Marche 12 km
+Trail de la Dent du Chat,2024-10-14 02:00:00,27000,1500,,,Auvergne-Rhône-Alpes,Savoie,45.6438475,5.8678097,[12000],Trail de la Dent du Chat
+Reims Champagne Run,2024-10-14 02:00:00,88000,1287,,Une course pétillante,Grand Est,Marne,49.2538592,4.0340419,"[21097, 10000]",Ultra Trail
+Randonnée Gourmande,2024-10-14 02:00:00,10000,280,,,Bourgogne-Franche-Comté,Doubs,47.1010383,5.8862119,[],Marche 10 km
+Foulées de Maurepas,2024-10-14 02:00:00,12000,0,,,Île-de-France,Yvelines,48.7623589,1.945326,[6000],Marche nordique 12 km
+La course pour l'enfant,2024-10-14 02:00:00,5000,0,,,Île-de-France,Seine-et-Marne,48.9562018,2.8884657,[10000],Course sur route 5 km
+Les Jas du Ventoux,2024-10-14 02:00:00,21097,1070,,Tu deviendras un as du semi !,Provence-Alpes-Côte d'Azur,Vaucluse,44.124008,5.1803739,[],Semi-Marathon
+SoMAD,2024-10-14 02:00:00,5000,0,,Ça va être soooo good !,Île-de-France,Seine-et-Marne,48.850572,2.654472,[9000],Course à obstacles 5 km
+Urban Trail Somain,2024-10-14 02:00:00,7000,0,,,Hauts-de-France,Nord,50.359201,3.281138,[10000],Trail 7 km
+Montée Sèche du Salève ,2024-10-14 02:00:00,3200,663,,À vos marques ! Prêts ? Grimpez !,Auvergne-Rhône-Alpes,Haute-Savoie,46.1700312,6.193639,[],"Trail 3,2 km"
+Béziers Urban Trail,2024-10-15 02:00:00,9000,200,,Et c'est le BUUUUUT !,Occitanie,Hérault,43.3362867,3.2188802,"[22000, 15000]",Marche 9 km
+Trail des Grisemottes,2024-10-15 02:00:00,20000,0,,"Allez marmotte, on se lève !",Auvergne-Rhône-Alpes,Rhône,46.113051,4.588337,"[32000, 12000]",Trail 20 km
+La Spinassienne,2024-10-15 02:00:00,800,0,,Tous en Seine ! ,Île-de-France,Seine-Saint-Denis,48.9540759,2.3083472,"[10000, 1500, 21000, 3800, 1000, 400]",Course sur route 800 m
+Trail du Haut Pilat,2024-10-15 02:00:00,14000,370,,Le Pilat tout l'monde est là !,Auvergne-Rhône-Alpes,Loire,45.339484,4.419964999999999,"[7000, 42000, 25000]",Trail 14 km
+La Landasienne d'Octobre Rose,2024-10-15 02:00:00,10000,0,,Landas c'est badass !,Hauts-de-France,Nord,50.473716,3.3003298,[5000],Trail 10 km
+Les Foulées Lunévilloises,2024-10-15 02:00:00,5000,0,,,Grand Est,Meurthe-et-Moselle,48.592237,6.492338999999999,[10000],Course sur route 5 km
+La Cabro d'Or,2024-10-15 02:00:00,6500,0,,Tu vas courir aussi vite qu'un cabri,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,43.4193928,5.3625284,"[15000, 10000, 5000]",La Cabriessienne
+10 km de Serquigny,2024-10-15 02:00:00,10000,0,,,Normandie,Eure,49.10953199999999,0.71485,[],Course sur route 10 km
+Trail du Barétous,2024-10-15 02:00:00,25000,1400,,Un trail barré !,Nouvelle-Aquitaine,Pyrénées-Atlantiques,42.977529,-0.745489,"[15000, 9000]",Trail 25 km
+RUN IN PLEURTUIT,2024-10-15 02:00:00,10000,0,,Et c'est Pleurtuit ! ,Bretagne,Ille-et-Vilaine,48.57962,-2.059156,[11000],Course sur route 10 km
+Trail Pom'haies vergers,2024-10-15 02:00:00,16000,0,,,Normandie,Calvados,49.150643,0.048774,"[30000, 11000]",Trail 16 km
+Trail du Buis,2024-10-15 02:00:00,21000,1110,,,Auvergne-Rhône-Alpes,Isère,45.335335,5.620711,"[10000, 8700]",Trail 21 km
+"Le 17,89 km de Crosne",2024-10-15 02:00:00,17890,0,,Game of Crosne,Île-de-France,Essonne,48.7164623,2.4580062,"[10000, 10000]",Le 17.89
+La Trilogie d'Auriol,2024-10-15 02:00:00,11000,350,,"Gagner ou non, l'important c'est de participer !",Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,43.369174,5.631362999999999,"[22000, 5000]",Course nature des Lagets
+NordicWalkin'Lyon by Alptis,2024-10-15 02:00:00,13000,50,,Vi-King in the North,Auvergne-Rhône-Alpes,Rhône,45.7605474,4.861117699999999,"[8000, 20000, 16000]",Parcours Bleu 
+Foulée Suresnoise (49ème édition),2024-10-15 02:00:00,21097,0,,Une course à faire très Suresne-ment,Île-de-France,Hauts-de-Seine,48.863314,2.2111521,"[1500, 5000, 10000, 800]",Semi-Marathon
+Trail de Tende,2024-10-15 02:00:00,13000,850,,Un trail qui tend vers la perfection ,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,44.089097,7.593454,"[30000, 50000, 19000]",Les Granges de Tende
+RunMotion Coach Marathon de Chambéry ,2024-10-15 02:00:00,21097,88,,À tout bout de Cham(bèry),Auvergne-Rhône-Alpes,Savoie,45.5844554,5.901081899999999,[42195],Semi-Marathon
+Virade de Piecaous,2024-10-15 02:00:00,12000,0,,"11 km à Piecaous, ça use, ça use",Provence-Alpes-Côte d'Azur,Vaucluse,43.9570233,4.9319342,"[7000, 11000]",Trail 12 km
+Trail des Cerises,2024-10-15 02:00:00,12000,350,,,Bourgogne-Franche-Comté,Haute-Saône,47.88567949999999,6.404509099999999,[21000],Trail 12 km
+Foulées Nazairiennes,2024-10-15 02:00:00,5000,0,,À toi de ne pas être Naz !,Pays de la Loire,Loire-Atlantique,47.2734979,-2.213848,[10000],Course sur route 5 km
+Médiéval trail de Sedan,2024-10-15 02:00:00,11000,330,,,Grand Est,Ardennes,49.702163,4.94923,[22000],Trail des Douves 11 km
+La Roquestorienne,2024-10-15 02:00:00,10000,0,,,Hauts-de-France,Pas-de-Calais,50.6589184,2.3490962,[5000],Course sur route 10 km
+Trail de consolation,2024-10-15 02:00:00,11000,650,,,Bourgogne-Franche-Comté,Doubs,47.157612,6.605573,[26000],Le Lançot
+Trail des Yrondelles,2024-10-15 02:00:00,35000,1500,,,Auvergne-Rhône-Alpes,Puy-de-Dôme,45.6064188,3.2561888,"[24000, 11000]",L'Yrond'L 35 km
+Les Foulées Douces,2024-10-15 02:00:00,10000,0,,,Bourgogne-Franche-Comté,Côte-d'Or,47.32252070000001,5.0371733,"[5000, 5000]",Course sur route 10 km
+Les Foulées vertes de Mayenne,2024-10-15 02:00:00,22000,300,,,Pays de la Loire,Mayenne,48.3043124,-0.6183099,"[11000, 10000]",Trail de tord-sabot
+Trai'elle,2024-10-15 02:00:00,7000,0,,Allie-toi à elles !,Grand Est,Haut-Rhin,48.13889,7.264023,[14000],Trail 7 km
+Les Frimas de Quarré,2024-10-15 02:00:00,45000,0,,,Bourgogne-Franche-Comté,Yonne,47.36859500000001,3.996958,"[25000, 13000, 13000]",VTT 45 km
+Courses de l'indien,2024-10-15 02:00:00,10000,0,,,Centre-Val de Loire,Loiret,47.8445744,1.9336965,"[5000, 21000]",Course 10 km
+La Levalloisienne,2024-10-15 02:00:00,5000,0,,,Île-de-France,Hauts-de-Seine,48.89321700000001,2.287864,"[10000, 3000, 3000]",Course sur route 5 km
+Course et rando LA’titude,2024-10-15 02:00:00,18000,0,,,Pays de la Loire,Maine-et-Loire,47.4454995,-0.411935,"[10000, 16000, 11000, 3000]",Trail 18 km
+Les Foulées Maniennes,2024-10-15 02:00:00,21000,910,,,Auvergne-Rhône-Alpes,Rhône,45.705609,4.449345,[11000],Trail 21 km
+Boucles tourquennoises,2024-10-15 02:00:00,10000,0,,,Hauts-de-France,Nord,50.724993,3.16207,[5000],Course sur route 10 km
+Courir pour une Fleur,2024-10-15 02:00:00,9700,0,,La fleur aux dents,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,43.58041799999999,7.125102,[21097],"Course sur route 9,7 km"
+Marche Nordique L'Aubagnaise,2024-10-15 02:00:00,5000,0,,La Provence en marchant ,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,43.2897421,5.592824299999999,"[12500, 10000]",Marche Nordique Loisir
+10 km de Sarreguemines,2024-10-15 02:00:00,10000,0,,"Sarreguemines de rien, c’est sympa ! ",Grand Est,Moselle,49.107505,7.068873,[],Course sur route 10 km
+Trail du château,2024-10-15 02:00:00,7000,0,,,Centre-Val de Loire,Indre,47.16073799999999,1.568095,[18000],Trail la duchesse de dino 7 km
+La Courvalienne,2024-10-15 02:00:00,6000,0,,,Normandie,Seine-Maritime,49.8617149,1.708531,[15000],Trail 6 km
+Trail de l'antenne Mayet,2024-10-15 02:00:00,20200,0,,,Pays de la Loire,Sarthe,47.75935699999999,0.275119,[9500],"Trail 20,2 km"
+La ronde de St Jans,2024-10-15 02:00:00,9000,170,,,Hauts-de-France,Nord,50.7634075,2.7197546,[21000],Trail 9 km
+Trail des calades,2024-10-15 02:00:00,10000,0,,,Occitanie,Hérault,43.756638,3.83474,[17000],Trail 10 km
+Semi-Marathon de la Coulée Verte,2024-10-15 02:00:00,21097,0,,En vert et pour tous !,Nouvelle-Aquitaine,Deux-Sèvres,46.3380279,-0.4104968,"[8000, 8000]",Semi-marathon
+Semin'Ordic,2024-10-15 02:00:00,10000,0,,,Île-de-France,Essonne,48.6851259,2.349282,[],Marche nordique 10 km
+Mareges Trail Shem,2024-10-15 02:00:00,5000,0,,On va bien se Marèges,Nouvelle-Aquitaine,Corrèze,45.415988,2.3316081,"[20000, 11000, 5000]",Trail 6 km
+La ValPe,2024-10-15 02:00:00,17000,1300,,,Auvergne-Rhône-Alpes,Savoie,45.44113,6.120373,[],La Valpe
+La PYREN’2ELLES ,2024-10-15 02:00:00,10000,100,,,Nouvelle-Aquitaine,Pyrénées-Atlantiques,43.5012649,-0.331713,[],Trail 10 km
+Trail des étangs,2024-10-15 02:00:00,11000,0,,,Normandie,Seine-Maritime,49.833885,1.180164,[18000],Trail 11 km
+10 km de Caluire,2024-10-15 02:00:00,5000,0,,Tes cuisses vont cuire ! ,Auvergne-Rhône-Alpes,Rhône,45.7911415,4.8599291,"[10000, 10000]",Course sur route 5 km
+Courir santé,2024-10-15 02:00:00,5000,0,,,Centre-Val de Loire,Indre-et-Loire,47.3981742,0.7716765999999999,[10000],Course 5 km
+Course des Copines,2024-10-15 02:00:00,6600,0,,Une virée entre fille ?,Grand Est,Aube,48.293191,4.056495,[],"Trail 6,6 km"
+Urban trail castelnau,2024-10-15 02:00:00,15000,0,,,Occitanie,Hérault,43.6329827,3.8975051,[7000],Trail 15 km
+Les 10 km de Ruitz,2024-10-15 02:00:00,10000,0,,,Hauts-de-France,Pas-de-Calais,50.466356,2.588673,[5000],Course sur route 10 km
+Tavel Nature Trail,2024-10-15 02:00:00,20000,600,,,Occitanie,Gard,44.01293,4.698161,[],Trail 20 km
+10 km Paris Centre,2024-10-15 02:00:00,10000,0,,Voyage au centre de Paris,Île-de-France,Paris,48.85837009999999,2.2944813,[],Course sur route 10 km
+La Course du Dodo,2024-10-15 02:00:00,1400,0,,,Île-de-France,Paris,48.85837009999999,2.2944813,[6500],"Course sur route 1,4 km"
+La Vendéole,2024-10-15 02:00:00,17000,400,,,Occitanie,Aude,43.126288,2.134087,[],Trail 17 km
+Marathon Seine Eure,2024-10-15 02:00:00,42195,37,,Seineure de courir !!,Normandie,Eure,49.147172,1.149121,[],Ekiden
+Courir à Meslay-du-Maine,2024-10-15 02:00:00,21097,0,,Se Meslay parmi les meilleurs !,Pays de la Loire,Mayenne,47.9494946,-0.5424177,[8500],Semi-Marathon
+Trail des Hauteurs,2024-10-15 02:00:00,5000,0,,Bienvenue en Trail-Saint-Denis,Île-de-France,Seine-Saint-Denis,48.886112,2.435048,"[28000, 13000]",Marche 5 km
+La Juffynoise,2024-10-15 02:00:00,18000,550,,,Grand Est,Moselle,49.1055563,6.0962799,[8000],Trail 18 km
+Les Foulées du Tram,2024-10-15 02:00:00,14800,0,,Am stram gram...,Pays de la Loire,Loire-Atlantique,47.21627489999999,-1.5487708,[],"Course sur route 14,8 km"
+Souvenir Jean Moulin,2024-10-16 02:00:00,10000,0,,"Entre ici, Jean Moulin !",Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,43.640199,5.097022,[],Marche 10 km
+Run in Réhab,2024-10-16 02:00:00,7000,0,,Une course saine pour un esprit sain ! ,Auvergne-Rhône-Alpes,Ain,46.20330480000001,5.2226652,[],Course sur route 7 km
+13 Km de La Nive,2024-10-16 02:00:00,13000,0,,Bayonne t'accueillera à bras ouverts !,Nouvelle-Aquitaine,Pyrénées-Atlantiques,43.395936,-1.45459,[],Course sur route 13 km
+Course des Lions de l'espoir ,2024-10-19 02:00:00,5000,0,,,Île-de-France,Hauts-de-Seine,48.77801600000001,2.295092,"[10000, 10000]",Course sur route 5 km
+La Vertical Rose,2024-10-19 02:00:00,100,0,,,Bourgogne-Franche-Comté,Saône-et-Loire,46.3098525,4.8354085,[],Course Verticale (280 Marches)
+Foulées de Bourges,2024-10-20 02:00:00,10000,0,,Allez bourges toi et viens aux Foulées de Bourges !,Centre-Val de Loire,Cher,47.0821639,2.399205,"[21097, 5000, 3500]",Course sur route 10 km
+La vert'Olonne,2024-10-20 02:00:00,5000,0,,,Pays de la Loire,Vendée,46.49295799999999,-1.795493,"[10000, 10000, 20000]",Trail 5 km
+Festival des Templiers,2024-10-20 02:00:00,66300,2860,,Viens faire ton temps et c'est plié ! ,Occitanie,Aveyron,44.100575,3.077801,"[106000, 80600, 48400, 7300, 36000, 35600, 17700, 29700, 11200, 7300, 4200]",L'intégrale des Causses
+Chouette trail Coulaines,2024-10-20 02:00:00,8000,0,,,Pays de la Loire,Sarthe,48.023031,0.200556,"[16000, 3000]",Trail 8 km
+Triathlon des Roses - Antibes,2024-10-20 02:00:00,10700,0,,Run and Roses 🌹,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,43.58041799999999,7.125102,[],"Triathlon des Roses d'Antibes (solo, relais à 2 ou 3)"
+Fête des Marrons,2024-10-21 02:00:00,30000,600,,,Auvergne-Rhône-Alpes,Isère,45.392643,5.295968999999999,"[8000, 15000, 9000, 20000, 45000, 20000]",VTT 30 km
+Le Défi des Vignes,2024-10-21 02:00:00,21097,0,,Une course divigne !,Provence-Alpes-Côte d'Azur,Var,43.116777,6.248334700000001,"[10000, 5000, 10000, 42195, 5000]",Semi-marathon
+La foulée des Vendanges,2024-10-21 02:00:00,20000,0,,,Bourgogne-Franche-Comté,Côte-d'Or,47.0644992,4.817557799999999,"[10000, 5000]",Course sur route 20 km
+La Nocturne du ValJoly,2024-10-21 02:00:00,10000,0,,,Hauts-de-France,Nord,50.1232431,4.1316438,[8000],Trail 10 km
+Courir pour un regard,2024-10-21 02:00:00,8000,0,,,Occitanie,Aude,43.28884000000001,2.9723035,[24000],Marche Loisir 8 km
+Trail du Haut Clunysois,2024-10-21 02:00:00,19000,0,,Clunysois qui mal y pense !,Bourgogne-Franche-Comté,Saône-et-Loire,46.331223,4.409971,"[45000, 10000, 69000, 29000]",La Gégé
+Trail de la Vallée du Scorff,2024-10-21 02:00:00,11000,300,,"Scoooorfffff, voilà votre scooorff bien fraîche ! ",Bretagne,Morbihan,47.855299,-3.383736,"[23000, 7500, 51000]",Noz Trail
+Vimeu trail,2024-10-21 02:00:00,10000,0,,,Hauts-de-France,Somme,50.0907493,1.5503797,[18000],Marche 10 km
+100 km et 50 km de Belvès,2024-10-21 02:00:00,100000,0,,Belvès c'est balèse !,Nouvelle-Aquitaine,Dordogne,44.7771942,1.0054999,[50000],Trail 100 km
+Trail de l'Angoisse,2024-10-21 02:00:00,11000,0,,"Ne cours pas, fuis !",Normandie,Calvados,48.9875049,-0.4767172999999999,[],Trail de l'Angoisse
+Golden trail,2024-10-21 02:00:00,8000,100,,,Centre-Val de Loire,Indre-et-Loire,47.4452939,0.5792229999999999,"[30000, 13000, 13000, 11700]",Trail nocturne 8 km
+La Bourbonnienne,2024-10-21 02:00:00,10000,0,,,Bourgogne-Franche-Comté,Saône-et-Loire,46.618809,3.768595,[5000],Course sur route 10 km
+Le Marathon Vert Rennes School of Business,2024-10-21 02:00:00,5000,0,,"Ils ont les chapeaux vert, Vive les Rennais ! ",Bretagne,Ille-et-Vilaine,48.1143843,-1.6694938,"[10000, 42195, 42195, 42195]",La course Féminine Yves Rocher 
+Le trail du parc balsan,2024-10-21 02:00:00,18000,0,,,Centre-Val de Loire,Indre,46.79881590000001,1.6979288,[16000],Trail par équipe de quatre 18 km
+Challenge du Ruban Rose,2024-10-21 02:00:00,7000,0,,Bordeaux tout de rose vêtue !,Nouvelle-Aquitaine,Gironde,44.8414707,-0.5699017,[],Course sur route 7 km
+Les Automnales,2024-10-21 02:00:00,11000,0,,Il fera peut-être un peu frisquet,Pays de la Loire,Mayenne,48.2742323,-1.0256497,"[22000, 5000]",Trail 11 km
+10 km de l'Île Saint-Denis,2024-10-21 02:00:00,10000,0,,Une course en v'île,Île-de-France,Seine-Saint-Denis,48.9357429,2.338612,[5000],Course sur route 10 km
+Corsica Coast Trail,2024-10-21 02:00:00,150000,0,,Un trail idyllique !,Corse,Corse-du-Sud,41.38717399999999,9.159269,"[43000, 80000, 78000, 73000, 37000]",Corsica Coast Trail
+Les foulées Nonantaises,2024-10-22 02:00:00,9000,0,,,Normandie,Calvados,49.2428079,-0.639041,"[4000, 10000, 5000]",Marche 9 km
+Nordique Bellifontaine,2024-10-22 02:00:00,8500,0,,,Île-de-France,Seine-et-Marne,48.3357184,2.7433567,"[14500, 20500]",La Virée Nordique
+Trail du Fourchat,2024-10-22 02:00:00,20000,1580,,Va pas falloir fourcher,Provence-Alpes-Côte d'Azur,Hautes-Alpes,44.395508,5.460986,[10000],Trail 20 km
+Trail de la Source du Lison,2024-10-22 02:00:00,24000,1500,,À la source du Trail !,Bourgogne-Franche-Comté,Doubs,46.9656067,6.0118642,[12000],L'Intense
+Craon natur'halles trail,2024-10-22 02:00:00,26000,0,,,Pays de la Loire,Mayenne,47.84867000000001,-0.949622,"[37000, 8500, 16000]",Trail 26 km
+Les foulées ludoises,2024-10-22 02:00:00,15000,0,,,Pays de la Loire,Sarthe,47.646742,0.1592909,"[10000, 5000, 5000]",Course sur route 15 km
+Run In Lyon,2024-10-22 02:00:00,10000,128,,Hakuna Matata 🎵,Auvergne-Rhône-Alpes,Rhône,45.7605474,4.861117699999999,"[42195, 21097, 5000]",Course sur route 10 km
+Foulées de la Bellonnie,2024-10-22 02:00:00,10000,0,,Une bien belle foulée la Bellonnie !,Hauts-de-France,Pas-de-Calais,50.31126440000001,3.0569276,[23000],Trail 10 km
+Trail de Bois le Duc,2024-10-22 02:00:00,14000,336,,,Grand Est,Meurthe-et-Moselle,48.66111799999999,6.17376,"[21000, 8000]",Trail 14 km
+Les Marcels à Plescop,2024-10-22 02:00:00,8000,0,,Le don de soi,Bretagne,Morbihan,47.697648,-2.805894,[],Trail 8 km
+Saint-Tropez Classic,2024-10-22 02:00:00,8000,0,,Mets les voiles sur Saint-Tropez ! ,Provence-Alpes-Côte d'Azur,Var,43.272517,6.636278,[16000],La Tropézienne
+Grand Défi SEP,2024-10-22 02:00:00,10000,0,,"Combattre la sclérose en plaque, un sacré défi !",Île-de-France,Hauts-de-Seine,48.77801600000001,2.295092,"[5000, 5000, 2500]",Course sur route 10 km
+Trail Urbain Verdunois,2024-10-22 02:00:00,10000,0,,,Grand Est,Meuse,49.15766199999999,5.376609999999999,"[15000, 8000]",Marche nordique 10 km
+Marathon du Boutenac en Corbières,2024-10-22 02:00:00,42195,0,,Allez Vin on est bien bien bien ! ,Occitanie,Aude,43.150058,2.790935,[7000],Marathon - Relais de 4
+Semi-Marathon Bois-Guillaume,2024-10-22 02:00:00,10000,0,,Tu n'auras pas la gueule de bois !,Normandie,Seine-Maritime,49.4830128,1.1401498,[21097],Course sur route 10 km
+La Rose Pontétienne,2024-10-22 02:00:00,5000,0,,Tu vas voir la vie en rose,Provence-Alpes-Côte d'Azur,Vaucluse,43.9591489,4.863830999999999,[10000],Marche 5 km
+Course des châteaux d'Ottrott,2024-10-22 02:00:00,21741,630,,Au galop !,Grand Est,Bas-Rhin,48.458818,7.427865,"[10000, 5000]",Trail du Mont Sainte-Odile
+Marathon de l'Ardèche,2024-10-22 02:00:00,42195,329,,Pas si simple l'Hard-èche,Auvergne-Rhône-Alpes,Ardèche,44.79960000000001,4.780713,[],Marathon de l'Ardèche
+La Pouilly-Sancerre,2024-10-22 02:00:00,20000,0,,"Sancerrement, c'est une course inoubliable ! ",Bourgogne-Franche-Comté,Nièvre,47.283935,2.955667,[],Course sur route 20 km
+Marathon des Villages de la presqu’île de Lège-Cap-Ferret,2024-10-22 02:00:00,11000,0,,"Courses, villages et crustacés",Nouvelle-Aquitaine,Gironde,44.795454,-1.147783,"[42195, 42195]",Marche 11 km
+Semi-marathon de Porto-Vecchio,2024-10-22 02:00:00,10000,0,,"Veni, Vidi, Vecchio ! ",Corse,Corse-du-Sud,41.58073419999999,9.2782497,"[21097, 8000]",Course sur route 10 km
+Le Trail des Mousquetaires,2024-10-22 02:00:00,8500,0,,"Un pour tous, tous pour un !",Occitanie,Gers,43.64638,0.5867089999999999,"[13000, 25000, 13000, 25000]",La Balade de Portos
+Belfortrail,2024-10-22 02:00:00,56000,3000,,Fort comme un roc’k !,Bourgogne-Franche-Comté,Territoire de Belfort,47.741786,6.825333,"[25000, 12500]",Belfortrail
+La Val'Lyonnaise,2024-10-22 02:00:00,20000,550,,,Auvergne-Rhône-Alpes,Rhône,45.737406,4.658003,"[14000, 28000, 11000]",Trail 20 km
+Grand Trail du Lac,2024-10-22 02:00:00,75000,3500,,Le secret c'est de respirer... respirer,Auvergne-Rhône-Alpes,Savoie,45.6438475,5.8678097,[34000],Trail 75 km
+Run des Pertuis,2024-10-22 02:00:00,20000,0,,Entre terre et mer,Nouvelle-Aquitaine,Charente-Maritime,46.160329,-1.151139,[],Course sur route 20 km
+Trail des Gaulois,2024-10-22 02:00:00,17000,0,,À faire sans potion magique !,Auvergne-Rhône-Alpes,Ardèche,44.867648,4.833495999999999,[10000],Trail 17 km
+Semi-Marathon du Bois de Vincennes,2024-10-22 02:00:00,21097,0,,Un semi loin d'être en bois ,Île-de-France,Paris,48.85837009999999,2.2944813,[],Semi-Marathon
+Ekiden de Toul'Etangs,2024-10-22 02:00:00,42195,0,,,Grand Est,Meurthe-et-Moselle,48.670174,5.907414,[],Ekiden
+Canicross du Golfe de Saint-Tropez,2024-10-22 02:00:00,5000,0,,Les canidés à Saint-Tropez,Provence-Alpes-Côte d'Azur,Var,43.272517,6.636278,[],Canicross du Golfe de Saint-Tropez
+Les Foulées Choletaises,2024-10-22 02:00:00,10000,0,,Fais ton Show à Chowlet !,Pays de la Loire,Maine-et-Loire,47.0661528,-0.8575379999999999,[],Course sur route 10 km
+Semi-Marathon du Pays-Basque Donibane Hondarribia,2024-10-22 02:00:00,21097,350,,Vamos a España !,Nouvelle-Aquitaine,Pyrénées-Atlantiques,43.3877567,-1.6603943,[],La Donibane
+Foulées Vertaviennes,2024-10-23 02:00:00,23500,240,,Tu vas en devenir vert...,Pays de la Loire,Loire-Atlantique,47.17903099999999,-1.5023017,[10000],Sèvre et Maine
+Course Nature de la Colline de Vitrolles,2024-10-23 02:00:00,20000,0,,Allez courir la haut sur la colline !,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,43.45859799999999,5.249702999999999,[11000],Trail 20 km
+Marathon des Puys,2024-10-24 02:00:00,42195,0,,Un marathon volcanique !,Auvergne-Rhône-Alpes,Puy-de-Dôme,45.7765846,3.0821443,"[10000, 5000]",Marathon
+Trail de la nuit d'halloween,2024-10-26 02:00:00,4000,0,,,Bourgogne-Franche-Comté,Doubs,47.32599039999999,6.1223036,"[18000, 10000, 10000, 10000]",Marche 4 km
+Le Noc'trail du Calvaire,2024-10-26 02:00:00,12000,0,,Réel plaisir ou véritable calvaire ?,Hauts-de-France,Aisne,49.4890535,3.5596865,[],Le Noc'Trail du Calvaire
+Grand Raid des Cathares,2024-10-26 02:00:00,161000,7000,,Retour au Moyen-Âge ,Occitanie,Aude,43.2060816,2.3641961,"[101000, 65000, 25000, 40000, 12000]",Grand Raid des Cathares
+La bacchus,2024-10-27 02:00:00,6900,0,,,Centre-Val de Loire,Indre-et-Loire,47.273383,0.5991109,[],"Course 6,9 km"
+Corrida de Landivisiau,2024-10-27 02:00:00,10000,0,,Deux minutes d’Arrée !,Bretagne,Finistère,48.510131,-4.073265,[5000],Crédit Agricole
+Chatel ZombiRun,2024-10-27 02:00:00,5000,0,,Attention les zombies Vienne à toi !,Nouvelle-Aquitaine,Vienne,46.8390541,0.5395978,[10000],Jack la Lanterne
+Zombies run,2024-10-28 01:00:00,5000,0,,,Centre-Val de Loire,Eure-et-Loir,48.585608,1.578256,[],Course nocturne effrayante 5 km
+Falaiz'Trail de Saint-Romain,2024-10-28 01:00:00,16000,0,,,Bourgogne-Franche-Comté,Côte-d'Or,46.99825800000001,4.708748,[8000],Trail 16 km
+Trail des Sapins,2024-10-28 01:00:00,7000,0,,Promenons-nous dans les bois...,Auvergne-Rhône-Alpes,Ardèche,45.1183807,4.5359293,"[21000, 12000, 46000]",La Forêt des Afars
+Cavale des 3 Monts,2024-10-28 01:00:00,10000,450,,,Auvergne-Rhône-Alpes,Ain,46.10157600000001,5.3277,[19000],Trail Nocturne 10 km
+Trail des roches de ham,2024-10-28 01:00:00,21000,400,,,Normandie,Manche,49.00200479999999,-0.9597745999999999,"[11000, 35000]",Trail 21 km
+Trail Marchaux,2024-10-28 01:00:00,18000,0,,Tu vas suer de peur !,Bourgogne-Franche-Comté,Doubs,47.32599039999999,6.1223036,"[10000, 10000, 10000]",Trail 18 km
+Les sentiers d'Allonne,2024-10-28 01:00:00,7000,0,,,Normandie,Manche,49.402507,-1.779791,"[22000, 15000, 15000]",Marche 7 km
+Les décalés de la citrouille,2024-10-28 01:00:00,27000,150,,,Centre-Val de Loire,Loiret,47.678591,2.148395,"[18000, 9000]",Trail l’ultra décalé 27 km
+La légende du Graoully by night,2024-10-28 01:00:00,24000,800,,,Grand Est,Moselle,49.152108,6.1477765,[12000],Trail de la Chauve-Souris
+La Froussarde,2024-10-28 01:00:00,9200,0,,,Grand Est,Bas-Rhin,48.8209792,7.964710999999999,[2000],"Course sur route 9,2 km"
+Trail'loween,2024-10-28 01:00:00,14500,200,,This is Trail'loween,Grand Est,Ardennes,49.696976,4.794932,"[32000, 7200]","Marche 14,5 km"
+Saint Off en Trail,2024-10-28 01:00:00,8500,0,,Pas le temps d'être en OFF à Saint-Off ,Auvergne-Rhône-Alpes,Savoie,45.737198,5.998136,"[17000, 17000, 12000, 10000, 10000, 10000, 34000, 17000]",Up Down
+Festival des Hospitaliers,2024-10-28 01:00:00,29650,1350,,"Ames charitables, bienvenue ! ",Occitanie,Aveyron,44.0913393,3.2636617,"[75500, 13600]",Trail Larzac-Dourbie
+Le semi de la pomme souvenir Olivier Moulin,2024-10-29 01:00:00,10500,0,,,Centre-Val de Loire,Indre,46.596197,1.8074236,"[21097, 5000]","Course 10,5 km"
+Virine Trail Tour,2024-10-29 01:00:00,10000,0,,,Grand Est,Vosges,48.2640614,6.316827099999999,[17000],Marche 10 km
+Le Tour du Nipalou,2024-10-29 01:00:00,6000,180,,Ce que le Massif Central a de plus beau à offrir... ,Auvergne-Rhône-Alpes,Cantal,44.958081,3.272978,"[53000, 12000, 9000, 3800, 2200, 1200, 20000, 700, 21000, 18000]",Marche 6 km
+Trail du bouton d'or,2024-10-29 01:00:00,10000,273,,,Bourgogne-Franche-Comté,Côte-d'Or,47.3555556,5.036111099999999,"[3000, 23000]",Trail 10 km
+Capito trail,2024-10-29 01:00:00,8000,0,,"C'est un roc, c'est un pic, c'est un Capito ",Auvergne-Rhône-Alpes,Haute-Loire,45.02915050000001,4.0731621,"[14000, 33000, 20000, 11000]",Marche nordique 		
+Trail des Combrailles,2024-10-29 01:00:00,10500,420,,Comblé à Combrailles !,Auvergne-Rhône-Alpes,Puy-de-Dôme,45.9256994,2.8082011,"[25000, 15500]",Le Canitrail
+Tour & Trail des Commères,2024-10-29 01:00:00,23000,1000,,,Bourgogne-Franche-Comté,Jura,46.732074,5.987609,"[6500, 11000, 6000, 11000, 15000]",Trail des Chamois
+Boucles des Cordeliers,2024-10-29 01:00:00,10000,250,,,Nouvelle-Aquitaine,Pyrénées-Atlantiques,43.3453019,-0.26266,"[20000, 20000, 14000]",La Morlanaise Trail
+Les 10 km d'Arles,2024-10-29 01:00:00,10000,0,,A la découverte de la Petite Rome des Gaules,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,43.676647,4.6277769,[5000],Course sur route 10 km
+La nuit des mangeurs de pied,2024-10-29 01:00:00,8000,0,,,Grand Est,Marne,49.0734329,4.8897261,[12000],Marche 8 km
+Course du Chicon,2024-10-29 01:00:00,5000,0,,This is the end...ive !,Hauts-de-France,Nord,50.6184879,3.2347184,"[14000, 10000, 6000, 15000, 9000]",Trail 5 km
+La Course des Citrouilles,2024-10-29 01:00:00,10000,0,,,Centre-Val de Loire,Loiret,47.9434947,3.0506686,[5000],Course 10 km
+Trail de Bonifacio,2024-10-29 01:00:00,14000,400,,A l'aise dans les falaises !,Corse,Corse-du-Sud,41.38717399999999,9.159269,[],Trail 14 km
+Marseille-Cassis,2024-10-29 01:00:00,20000,340,,Une descente aussi difficile que la montée,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,43.2966941,5.3610825,[],Course sur route 20 km
+Les Foulées Toussaintaises,2024-10-29 01:00:00,10300,0,,,Normandie,Seine-Maritime,49.738945,0.424562,[],"Trail 10,3 km"
+Festicap - Marathon de Guécélard,2024-10-29 01:00:00,42195,0,,"À Guécélard, pas de lézard !",Pays de la Loire,Sarthe,47.8760953,0.1276403,"[4250, 11000, 11000, 21097]",Ekiden Crédit Mutuel
+Course solidaire,2024-10-29 01:00:00,6000,0,,,Occitanie,Gard,43.7875717,4.3094929,"[1200, 11000]",Trail 6 km
+Trail Urbain Nantais,2024-10-29 01:00:00,8400,0,,"« Anne, ma Sainte Anne, ne vois-tu rien venir ? » ",Pays de la Loire,Loire-Atlantique,47.21627489999999,-1.5487708,[17600],Tour de Chantenay
+Trail de Galilée,2024-10-29 01:00:00,12000,500,,,Grand Est,Vosges,48.245258,7.066132,[18000],Trail 12 km
+Les 20 km du Ruban Bleu,2024-10-29 01:00:00,20000,0,,Ce rêve bleeeeuuu,Bretagne,Côtes-d'Armor,48.628222,-2.364998,[10000],Trail 20 km
+Foulées Monterelaises,2024-10-29 01:00:00,10000,0,,Tu vas être à l'aise !,Île-de-France,Seine-et-Marne,48.3798752,2.9429722,[],10 km Du Confluent
+Trail de la semine,2024-10-29 01:00:00,19600,0,,Une course pour bien terminer la Semine !,Auvergne-Rhône-Alpes,Haute-Savoie,46.0665002,5.8136012,[12300],"Trail 19,6 km"
+10 km Thermapolis,2024-10-29 01:00:00,10000,0,,,Grand Est,Moselle,49.2599469,6.142912,[],Course sur route 10 km
+La Carombaise,2024-10-30 01:00:00,5000,0,,Ça va carburer,Provence-Alpes-Côte d'Azur,Vaucluse,44.110898,5.107716,[11000],Course sur route 5 km
+Trail des POUSSE CITROUILLES,2024-10-31 01:00:00,7000,0,,Attention aux fantômes...,Nouvelle-Aquitaine,Pyrénées-Atlantiques,43.333177,-0.434402,"[10000, 3000]",Marche 7 km
+Alerte zombies,2024-10-31 01:00:00,10000,0,,,Hauts-de-France,Pas-de-Calais,50.481212,2.662174,[],Trail Nocturne
+Les foulées d'Halloween,2024-10-31 01:00:00,12000,0,,,Centre-Val de Loire,Eure-et-Loir,48.4655222,1.3582424,[],Course 12 km
+Roc d'Aluze trail nocturne,2024-10-31 01:00:00,16000,450,,,Bourgogne-Franche-Comté,Saône-et-Loire,46.846531,4.684693000000001,"[10000, 10000]",Trail 16 km
+Trail des Cuisses,2024-10-31 01:00:00,11000,280,,,Bourgogne-Franche-Comté,Saône-et-Loire,46.755702,4.538290000000001,[17000],Trail 11 km
+Corrid'halloween,2024-10-31 01:00:00,7600,0,,,Grand Est,Marne,49.287571,3.813746,[],"Course sur route 7,6 km"
+Halloween run,2024-10-31 01:00:00,10000,0,,,Pays de la Loire,Mayenne,48.3043124,-0.6183099,[],Course sur route 10 km
+Trail'oween,2024-11-01 01:00:00,10000,0,,,Île-de-France,Yvelines,48.82955150000001,1.9804609,[20000],Marche nordique 10 km
+Trail des Sorcières,2024-11-01 01:00:00,26000,0,,Prends ton balai et viens voler !,Bourgogne-Franche-Comté,Côte-d'Or,47.319533,4.796298999999999,[12000],La Nécromancienne
+La Foulée de l'Espoir,2024-11-01 01:00:00,20000,0,,"L'espoir fait vivre, le trail aussi !",Provence-Alpes-Côte d'Azur,Vaucluse,43.9984783,5.0549027,[10000],Trail 20 km
+Trail'Malling,2024-11-03 01:00:00,22000,620,,,Grand Est,Moselle,49.424177,6.297981,"[32000, 15000]",Trail 22 km
+La Courstache ,2024-11-03 01:00:00,5000,0,,Plus besoin d'huile de Ricin !,Auvergne-Rhône-Alpes,Puy-de-Dôme,45.7577377,3.1418609,[10000],Course sur route 5 km
+Corrida de Guérande,2024-11-04 01:00:00,10000,0,,,Pays de la Loire,Loire-Atlantique,47.328003,-2.4297589,[5000],Trail 10 km
+Raidlight Vendée trail,2024-11-04 01:00:00,72000,730,,,Pays de la Loire,Vendée,46.720204,-1.945917,"[42000, 20000, 10000]",Trail 72 km
+Grand Trail Nocturne des Hauts-de-France (GTN),2024-11-04 01:00:00,26000,600,,"Il m'entraîne, jusqu'au ""début"" de la nuit... ",Hauts-de-France,Pas-de-Calais,50.417921,2.775222,"[33000, 33000, 16000, 16000, 61000, 9500]",Trail 26 km
+La Duchesse,2024-11-04 01:00:00,10000,0,,C’est royal ! ,Pays de la Loire,Loire-Atlantique,47.21627489999999,-1.5487708,[5000],10KM Duo - 100% Féminin ou Mixte
+Pléla'Run,2024-11-04 01:00:00,1000,0,,T'es plé'la ?,Bretagne,Ille-et-Vilaine,48.001435,-2.094789,"[17000, 9000, 2000]",Mini'kids
+La nocturne de Pierre Aiguë,2024-11-04 01:00:00,22000,0,,,Pays de la Loire,Loire-Atlantique,47.1521433,-1.5979796,"[13000, 5000, 13000]",La Lanterne
+La Chatvoyarde Nocturne,2024-11-04 01:00:00,11000,410,,,Auvergne-Rhône-Alpes,Savoie,45.6958244,5.829917399999999,[],Trail 11 km
+Marathon du Charolais,2024-11-04 01:00:00,10000,0,,Le bonheur est dans le Charolais !,Bourgogne-Franche-Comté,Saône-et-Loire,46.601313,4.064992999999999,"[11000, 21097, 42195]","La petite Charolaise, la plus accessible de toutes"
+Course des Lumières - Marseille,2024-11-04 01:00:00,4000,0,,Éclairer Marseille contre la maladie,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,43.2966941,5.3610825,[8000],Marche 4 km
+L’Aydienne,2024-11-04 01:00:00,12000,0,,,Nouvelle-Aquitaine,Pyrénées-Atlantiques,43.569457,-0.104667,"[6000, 8000]",Trail 12 km
+Trail Di Sant'Appianu,2024-11-04 01:00:00,13000,950,,Il jouait du Appianu debout !,Corse,Haute-Corse,42.264463,9.473635,[6000],Trail 13 km
+Trail des Orris,2024-11-04 01:00:00,19000,600,,"Plus on est de fous, plus Orris !",Occitanie,Ariège,42.96904,1.871428,[11000],Trail des Orris
+Roquefortrail,2024-11-04 01:00:00,27500,900,,C'est qui le plus fort ?!,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,43.24785500000001,5.591803,[],"Trail 27,5 km"
+L'Escapade,2024-11-04 01:00:00,12200,0,,Petite sortie en Provence,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,43.3319232,5.218585699999999,[],"Trail 12,2 km"
+Trail du Forfelet,2024-11-05 01:00:00,16000,500,,,Grand Est,Vosges,48.1726979,6.878435,[],Trail 16 km
+La Voie Royale,2024-11-05 01:00:00,21097,0,,Régner sur le stade ,Île-de-France,Seine-Saint-Denis,48.9244592,2.3601645,"[10000, 5000]",Semi-marathon
+Course Nature de la Grapille,2024-11-05 01:00:00,20000,440,,,Bourgogne-Franche-Comté,Doubs,47.1697012,5.8915887,"[5000, 13000, 7000]",Trail 20 km
+Le Trail des Cathelières,2024-11-05 01:00:00,16000,540,,Comme un Mallemoisson dans l’eau ! ,Provence-Alpes-Côte d'Azur,Alpes-de-Haute-Provence,44.049358,6.124422000000001,[11000],Parcours des Vieux Villages
+Trail de l'Hyrome,2024-11-05 01:00:00,27000,300,,Hyrome Man,Pays de la Loire,Maine-et-Loire,47.210062,-0.7275324999999999,"[16000, 12000, 6000, 45000]",Trail
+Urban race seynod,2024-11-05 01:00:00,7000,0,,C'est qui ? Seynod ! ,Auvergne-Rhône-Alpes,Haute-Savoie,45.8992115,6.131265099999999,[13000],Trail 7 km
+Trail des Monts de Vaucluse,2024-11-05 01:00:00,24000,1400,,Un trail chez Dame Nature,Provence-Alpes-Côte d'Azur,Vaucluse,43.923518,5.0962511,[10500],Le sommet des Ânes
+Marathon des Alpes-Maritimes Nice-Cannes,2024-11-05 01:00:00,42195,0,,Et la palme du meilleur Finisher revient à...,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,43.6977066,7.270324800000001,[20000],2x21km
+La Méridienne,2024-11-05 01:00:00,10000,0,,,Occitanie,Hautes-Pyrénées,43.23188529999999,0.0736927,[],Marche 10 km
+La Course Royale,2024-11-05 01:00:00,10500,0,,,Île-de-France,Yvelines,48.8073782,2.0407242,[21000],"Marche 10,5 km"
+Les foulées neuvilloise,2024-11-05 01:00:00,5000,0,,,Centre-Val de Loire,Loiret,48.0018839,2.085481,[10000],Course sur route 5 km
+Toussi'Trail,2024-11-05 01:00:00,18000,0,,Toussi pour un et un pour tous ! ,Auvergne-Rhône-Alpes,Ain,45.94094,4.774296,"[12000, 5000]",Trail 18 km
+Musca'day trail,2024-11-05 01:00:00,10000,0,,,Pays de la Loire,Loire-Atlantique,47.142942,-1.416576,[23000],Trail 10 km
+La montée du Wintersberg,2024-11-05 01:00:00,10500,470,,,Grand Est,Bas-Rhin,48.9523443,7.635274399999998,[],"Trail 10,5 km"
+nom,date,distance,dplus,dminus,description,region,departement,lat,lng,raceDistances,raceName
+Toulouse Métropole Run Expérience,2024-11-10 01:00:00,42195,0,,La vie en rose ! ,Occitanie,Haute-Garonne,43.598264,1.4092542,"[10000, 21097]",Marathon en relais
+Asics SaintéLyon,2024-11-30 01:00:00,156000,4390,,"Saint'étonne, saintéfraiche, saintébynight ! ",Auvergne-Rhône-Alpes,Rhône,45.7605474,4.861117699999999,"[78000, 13000, 78000, 78000, 44000, 23000, 78000]",LyonSaintéLyon
+Grand Trail des Vallons de la Vilaine,2025-04-06 02:00:00,10000,0,,Loin d'être Vilaine !,Bretagne,Ille-et-Vilaine,47.978808,-1.721638,"[5000, 82000, 82000, 31200]",La Randonnée
+Trail du Forfelet,2024-11-05 01:00:00,16000,500,,,Grand Est,Vosges,48.1726979,6.878435,[],Trail 16 km
+La Voie Royale,2024-11-05 01:00:00,21097,0,,Régner sur le stade ,Île-de-France,Seine-Saint-Denis,48.9244592,2.3601645,"[10000, 5000]",Semi-marathon
+Course Nature de la Grapille,2024-11-05 01:00:00,20000,440,,,Bourgogne-Franche-Comté,Doubs,47.1697012,5.8915887,"[5000, 13000, 7000]",Trail 20 km
+Le Trail des Cathelières,2024-11-05 01:00:00,16000,540,,Comme un Mallemoisson dans l’eau ! ,Provence-Alpes-Côte d'Azur,Alpes-de-Haute-Provence,44.049358,6.124422000000001,[11000],Parcours des Vieux Villages
+Trail de l'Hyrome,2024-11-05 01:00:00,27000,300,,Hyrome Man,Pays de la Loire,Maine-et-Loire,47.210062,-0.7275324999999999,"[16000, 12000, 6000, 45000]",Trail
+Urban race seynod,2024-11-05 01:00:00,7000,0,,C'est qui ? Seynod ! ,Auvergne-Rhône-Alpes,Haute-Savoie,45.8992115,6.131265099999999,[13000],Trail 7 km
+Trail des Monts de Vaucluse,2024-11-05 01:00:00,24000,1400,,Un trail chez Dame Nature,Provence-Alpes-Côte d'Azur,Vaucluse,43.923518,5.0962511,[10500],Le sommet des Ânes
+Marathon des Alpes-Maritimes Nice-Cannes,2024-11-05 01:00:00,42195,0,,Et la palme du meilleur Finisher revient à...,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,43.6977066,7.270324800000001,[20000],2x21km
+La Méridienne,2024-11-05 01:00:00,10000,0,,,Occitanie,Hautes-Pyrénées,43.23188529999999,0.0736927,[],Marche 10 km
+La Course Royale,2024-11-05 01:00:00,10500,0,,,Île-de-France,Yvelines,48.8073782,2.0407242,[21000],"Marche 10,5 km"
+Les foulées neuvilloise,2024-11-05 01:00:00,5000,0,,,Centre-Val de Loire,Loiret,48.0018839,2.085481,[10000],Course sur route 5 km
+Toussi'Trail,2024-11-05 01:00:00,18000,0,,Toussi pour un et un pour tous ! ,Auvergne-Rhône-Alpes,Ain,45.94094,4.774296,"[12000, 5000]",Trail 18 km
+Musca'day trail,2024-11-05 01:00:00,10000,0,,,Pays de la Loire,Loire-Atlantique,47.142942,-1.416576,[23000],Trail 10 km
+La montée du Wintersberg,2024-11-05 01:00:00,10500,470,,,Grand Est,Bas-Rhin,48.9523443,7.635274399999998,[],"Trail 10,5 km"
+10 km ETPM des Quais de Bordeaux,2024-11-05 01:00:00,10000,0,,Quai-ce que tu attends ?,Nouvelle-Aquitaine,Gironde,44.8414707,-0.5699017,[],10 km relais
+Trail du Postier,2024-11-05 01:00:00,32000,350,,Pas besoin d'être timbré !,Centre-Val de Loire,Loir-et-Cher,47.58609209999999,1.3359475,[13000],Trail du Postier
+Ronde des Vignes ,2024-11-05 01:00:00,14000,250,,Rond comme un ballon ,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,43.24785500000001,5.591803,"[10000, 5000]",Trail 14 km
+Courses nature de coupeau,2024-11-05 01:00:00,7000,0,,,Pays de la Loire,Mayenne,48.0785146,-0.7669906000000001,[14000],Course sur route 7 km
+La Saint-Pol Morlaix,2024-11-05 01:00:00,10000,0,,Prépare-toi à une course explosive pour ses 50 ans !,Bretagne,Finistère,48.5765567,-3.8252125,[22000],10 km Taulé-Morlaix
+MAIF Ekiden de Paris,2024-11-05 01:00:00,42195,0,,Ensemble à Paris !,Île-de-France,Paris,48.85837009999999,2.2944813,[],Marathon
+La Chevignoise,2024-11-05 01:00:00,5000,0,,,Bourgogne-Franche-Comté,Côte-d'Or,47.302245,5.139997999999999,[10000],Trail 5 km
+Course Marcel Kiefer,2024-11-05 01:00:00,6000,0,,,Grand Est,Meurthe-et-Moselle,49.49295300000001,5.872779,"[13000, 21000]",Trail 6 km
+1000D Suisse Normande trail,2024-11-05 01:00:00,18000,600,,,Normandie,Calvados,48.91686499999999,-0.4815989999999999,"[27000, 27000, 12000]",Trail 18 km
+Courses DNA de Colmar,2024-11-05 01:00:00,10000,0,,L'ADN de la performance,Grand Est,Haut-Rhin,48.0742595,7.359679099999999,[5000],Course sur route 10 km
+Trail de Montagnole,2024-11-05 01:00:00,12000,600,,Montagnolympique,Auvergne-Rhône-Alpes,Savoie,45.538237,5.908586,"[8000, 24000]",Trail 12 km
+Event Trail de Royat,2024-11-05 01:00:00,9700,450,,Un trail Royal !,Auvergne-Rhône-Alpes,Puy-de-Dôme,45.764929,3.054232,"[1700, 20000, 35000, 35000]",Royat Run Nocturne
+Trail Panoramic de l’Albanais,2024-11-05 01:00:00,27000,960,,"Ne vous déplaise, en courant l'Albanaise ! ",Bourgogne-Franche-Comté,Saône-et-Loire,46.713218,4.461911,"[16000, 10000]",Trail Panoramic
+Entre Ciel et Mer,2024-11-05 01:00:00,12320,0,,Dans le but de toucher le ciel,Provence-Alpes-Côte d'Azur,Var,43.038034,6.137041,[],"Trail 12,32 km"
+Trail des Terres de Saône,2024-11-06 01:00:00,13000,200,,Un trail très Terre à Terre,Bourgogne-Franche-Comté,Haute-Saône,47.688693,6.042594999999999,[22000],Trail 13 km
+Trail des Grands Ducs d'Alençon,2024-11-09 01:00:00,15000,439,,,Normandie,Orne,48.5086818,0.09499819999999999,"[40000, 8000, 25000, 8000]",Trail 15 km
+Trail Poursuite du Mémorial,2024-11-11 01:00:00,26800,905,,Un trail pour l'histoire,Provence-Alpes-Côte d'Azur,Var,43.1250119,5.9306117,[12000],Grand trail en duo
+Cross du Courrier de l'Ouest et de la ville d'Angers,2024-11-11 01:00:00,2330,0,,Comme une lettre à la poste !,Pays de la Loire,Maine-et-Loire,47.47,-0.5599999999999999,"[3030, 4300, 1470, 1095, 1095, 950, 4298, 4298, 6883, 10518, 8581, 1470, 920]",Course N°5 - Benjamins
+Trail des Brosses,2024-11-11 01:00:00,6000,0,,Un trail à la Mario Brosse,Grand Est,Vosges,48.1692269,6.4380339,"[22000, 10000, 35000]",L'Obscure
+La Veni Vici,2024-11-11 01:00:00,13000,440,,Viens Uzer tes baskets !,Occitanie,Gard,43.83490399999999,4.3596146,"[44000, 27000, 72000, 27000]",13 km Solo
+Trail du Pastel,2024-11-11 01:00:00,11000,120,,Un mélange de couleurs oh oh...,Occitanie,Haute-Garonne,43.6289728,1.4822605,"[42000, 16000, 23000, 23000, 23000, 23000, 16000]",Marche nocturne
+Tourn'en Nocturne,2024-11-11 01:00:00,12000,0,,,Île-de-France,Seine-et-Marne,48.73988989999999,2.7657824,[],Marche 12 km
+Trail de Plaintel,2024-11-11 01:00:00,33000,700,,Aucune raison de te plaindre ! ,Bretagne,Côtes-d'Armor,48.40794,-2.817707,"[12000, 22000]",Trail 33 km
+Trail des Sources de la Loire,2024-11-11 01:00:00,61000,1740,,Source de plaisir !,Auvergne-Rhône-Alpes,Haute-Loire,44.8942181,3.850211,"[111000, 50000, 38000, 32000, 18000, 11000]",TSL 61
+Marche nordique des Terres Noires,2024-11-11 01:00:00,5000,0,,,Pays de la Loire,Vendée,46.6694281,-1.4230897,"[12000, 12000]",Marche nordique 5 km
+Trail de la croix de fer by night,2024-11-11 01:00:00,16000,400,,"Croix de bois, croix de fer, si je marche...",Grand Est,Aube,48.5117609,3.4287607,[9000],Trail 16 km
+Les Portes de Bellefontaine,2024-11-11 01:00:00,240,788,,"Ici, ce ne sont pas les Portes du Pénitencier",Grand Est,Meurthe-et-Moselle,48.7344571,6.1676557,"[14000, 18000]",Endurance Trail
+Marathon du Cognac,2024-11-11 01:00:00,21097,0,,La gnaque et le cognac !,Nouvelle-Aquitaine,Charente,45.681389,-0.1739169,"[10500, 42195]",Semi-Marathon
+Trail course nature de Barbâtre,2024-11-11 01:00:00,14000,0,,,Pays de la Loire,Vendée,46.9425669,-2.178589,"[7000, 21000]",Trail 14 km
+Trail de la vallée de la Thure by night,2024-11-11 01:00:00,12000,270,,,Hauts-de-France,Nord,50.2463819,4.149605999999999,[],Trail 12 km
+Course des flambeaux,2024-11-11 01:00:00,18000,450,,,Île-de-France,Yvelines,48.772563,1.815425,[10000],Trail 18 km
+Dark Trail,2024-11-11 01:00:00,10000,280,,Rejoint le côté obscur,Bourgogne-Franche-Comté,Jura,46.522526,5.612965,"[21000, 30000]",Trail 10 km
+Trail Urbain Besançon,2024-11-11 01:00:00,12000,370,,,Bourgogne-Franche-Comté,Doubs,47.2404763,6.008138499999999,[20700],Express 12
+La Gailhardaise,2024-11-11 01:00:00,28700,1320,,Du nerf et du fer !,Occitanie,Ariège,42.93944399999999,1.630591,[28000],"Trail 28,7 km"
+Foulées baudelloises,2024-11-11 01:00:00,10000,0,,,Pays de la Loire,Mayenne,48.28113,-0.63445,[],Trail 10 km
+Trail des Roches,2024-11-12 01:00:00,31000,0,,Trois..Deux..Ain.. Partez !,Auvergne-Rhône-Alpes,Ain,46.085641,5.405886,"[21000, 10000]",La Poncinoise
+La Bacchanale,2024-11-12 01:00:00,5000,0,,"Pas banale, la Bacchanale",Provence-Alpes-Côte d'Azur,Vaucluse,44.240968,5.075197999999999,[12000],Course sur route 5 km
+Trail des Sucs,2024-11-12 01:00:00,12000,440,,"Allez viens, t'es pas en Sucs",Auvergne-Rhône-Alpes,Haute-Loire,45.1378056,4.1328248,"[24000, 33000]",L'Orée des Sucs (DUO)
+La britestole,2024-11-12 01:00:00,9000,250,,,Occitanie,Tarn,43.751163,1.908161,"[10000, 16000]",Marche 9 km
+Sparnatrail,2024-11-12 01:00:00,33000,0,,Entre terre et vignes,Grand Est,Marne,49.0435656,3.958200299999999,"[17000, 61000]",Trail 33 km
+Ekiden 36,2024-11-12 01:00:00,42195,0,,Ensemble on est plus fort !,Centre-Val de Loire,Indre,46.79881590000001,1.6979288,[],Marathon
+Trail des Châtaignes,2024-11-12 01:00:00,9000,0,,Pas là pour compter les marrons ,Bretagne,Ille-et-Vilaine,48.313204,-1.8981992,"[16000, 30000]",Trail 9 km
+Ronde Ermont,2024-11-12 01:00:00,10000,0,,,Île-de-France,Val-d'Oise,48.9804279,2.2711963,[5000],Course sur route 10 km
+Alpin Trail de Pichauris,2024-11-12 01:00:00,3000,100,,Non mais Allauch quoi ! ,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,43.3362611,5.4819096,"[35000, 80000, 80000, 16000]",Famille
+Trail Le Gargantuesque,2024-11-12 01:00:00,17000,0,,Un trail gargantuesquement bien !,Bourgogne-Franche-Comté,Nièvre,46.7900609,3.1171005,"[10000, 11000]",Trail 17 km
+Les rêves de Paola,2024-11-12 01:00:00,10000,0,,,Nouvelle-Aquitaine,Pyrénées-Atlantiques,43.561399,-0.27164,[5000],Course sur route 10 km
+Even Trail,2024-11-12 01:00:00,12000,0,,Belle au naturel,Centre-Val de Loire,Indre-et-Loire,47.284385,0.7852699999999999,"[7000, 22000]",Trail 12 km
+Touroparc Run,2024-11-12 01:00:00,5000,0,,Gambader avec les bêtes,Bourgogne-Franche-Comté,Saône-et-Loire,46.188994,4.733571,"[20000, 10000]",Le P'tit Tour'o'Parc
+La Madone,2024-11-12 01:00:00,14000,350,,,Bourgogne-Franche-Comté,Côte-d'Or,47.3199479,4.905031999999999,"[8000, 29000]",Trail 14 km
+Foulées de la Mue,2024-11-12 01:00:00,6000,0,,AMuestoi bien sur cette course,Normandie,Calvados,49.241119,-0.449605,[12000],Trail 6 km
+La vitalavie,2024-11-12 01:00:00,20900,0,,"Loca es la vida, que loca es la Vitalavie !",Auvergne-Rhône-Alpes,Haute-Savoie,45.8992115,6.131265099999999,[16000],"Trail 20,9 km"
+Parcourir Montigny,2024-11-12 01:00:00,10000,0,,Pars courir pour parcourir Montigny ! ,Île-de-France,Yvelines,48.78785480000001,2.0442736,[5000],Course sur route 10 km
+Vinotrail,2024-11-12 01:00:00,25000,1300,,Vino sur Vino,Occitanie,Hérault,43.63385330000001,3.8488781,"[12000, 14000]",Jeroboam
+Les Foulées Outreloises,2024-11-13 01:00:00,10000,0,,Outreau ! Au galop même !,Hauts-de-France,Pas-de-Calais,50.6878184,1.6059834,[],Course sur route 10 km
+La Marlienne,2024-11-13 01:00:00,10000,0,,Oh Marly si tu savais ,Grand Est,Moselle,49.059828,6.154795,[],Trail 10 km
+La Châtenaise,2024-11-13 01:00:00,10000,0,,Un caractère bien forgé,Bourgogne-Franche-Comté,Territoire de Belfort,47.557671,6.849059,[],Course sur route 10 km
+La Corrida du 15ème,2024-11-14 01:00:00,10000,0,,"La vie, c’est Paris ! Paris, c’est la vie !",Île-de-France,Paris,48.85837009999999,2.2944813,[],Course sur route 10 km
+Landerneau Urban Trail,2024-11-14 01:00:00,10000,0,,Attention à la marche !,Bretagne,Finistère,48.4536826,-4.2564215,[18000],Trail 10 km
+La Chambérienne,2024-11-16 01:00:00,21000,0,,Trop Chambé ! ,Auvergne-Rhône-Alpes,Savoie,45.5844554,5.901081899999999,[10000],21km solo ou duo
+Trail du Chambon,2024-11-18 01:00:00,11000,336,,Ça Chambon ici !,Nouvelle-Aquitaine,Charente,45.6592126,0.5592254,"[12000, 17000, 34000, 50000]",Trail 11 km
+Course des Lumières - Paris,2024-11-18 01:00:00,4000,0,,Éclairer Paris contre la maladie,Île-de-France,Paris,48.85837009999999,2.2944813,[8000],Marche 4 km
+Semi-Marathon de la Vente des Vins des Hospices de Beaune,2024-11-18 01:00:00,21097,0,,La plus Beaune de tes copines,Bourgogne-Franche-Comté,Côte-d'Or,47.02202339999999,4.836450699999999,"[10400, 6000]",Semi-Marathon
+Trail des Truffières,2024-11-18 01:00:00,30000,1300,,À toi d'avoir du flair !,Occitanie,Aude,43.3593549,2.4570271,"[10000, 10000]",Trail des Truffières
+Urban Trail - Lille,2024-11-18 01:00:00,8000,0,,Lille de beauté !,Hauts-de-France,Nord,50.62925,3.057256,"[5000, 10000]",Urban Trail
+Foulées du souvenir,2024-11-18 01:00:00,27800,1260,,Ça va être la guerre !,Grand Est,Haut-Rhin,48.1016282,7.159725799999999,[9500],"Trail 27,8 km"
+La belmontée de feu,2024-11-18 01:00:00,16000,1000,,,Auvergne-Rhône-Alpes,Isère,45.472913,5.364936,[36000],Trail 16 km
+Semi-Marathon Vente des Vins des Hospices de Nuits ,2024-11-18 01:00:00,10000,0,,Georges Cloonight ,Bourgogne-Franche-Comté,Côte-d'Or,47.1394037,4.9515743,[21097],Course sur route 10 km
+La Traversée des Vallées,2024-11-18 01:00:00,20000,0,,,Normandie,Seine-Maritime,49.7946389,1.105822,"[28000, 11000]",Trail 20 km
+Trail des Châtaignes,2024-11-18 01:00:00,11000,400,,Pas là pour compter les marrons,Île-de-France,Val-d'Oise,48.98339319999999,2.1963723,"[16000, 48000, 32000, 14000]",Le Cani
+Marathon International du Beaujolais,2024-11-18 01:00:00,42195,0,,Ton effort ne sera pas vin !,Auvergne-Rhône-Alpes,Rhône,45.9905344,4.738449999999999,"[13000, 21097, 2500, 7500]",Le Marathon du Beaujolais
+Corrida la nocturne Yvetotaise,2024-11-18 01:00:00,7000,0,,,Normandie,Seine-Maritime,49.617779,0.755212,[],Course Féminine 7 km
+Trail Nocturne de Bonnieux,2024-11-18 01:00:00,25000,0,,Le bonhieur ,Provence-Alpes-Côte d'Azur,Vaucluse,43.829119,5.312693900000001,[12000],Trail 25 km
+Marathon International de Deauville,2024-11-18 01:00:00,10000,0,,Du pain sur les planches ! ,Normandie,Calvados,49.353976,0.075122,"[21097, 21097, 5000, 5000, 900, 42195, 42195, 42195, 42195]",Course sur route 10 km
+Urgent Run Paris,2024-11-18 01:00:00,10000,0,,Des toilettes pour tous,Île-de-France,Paris,48.85837009999999,2.2944813,"[5000, 5000]",Course sur route 10 km
+Trail de l'Apocalypse ,2024-11-18 01:00:00,10000,0,,La plus belle des fins du monde !,Pays de la Loire,Maine-et-Loire,47.47,-0.5599999999999999,[],Trail 10 km
+Trail des Truffières,2024-11-18 01:00:00,11800,340,,"Si t'es champion, appuie sur le champignon !",Auvergne-Rhône-Alpes,Drôme,44.348678,4.768295,"[20600, 27900, 48500]",Augusta Nocturna
+Trail des Ducs - Montbéliard,2024-11-18 01:00:00,120,0,,"Oyez, oyez !",Bourgogne-Franche-Comté,Doubs,47.4932977,6.8205526,"[32000, 13000, 22000]",La Nocturne de la Princesse
+La tranchée des loups,2024-11-18 01:00:00,10000,0,,,Grand Est,Meurthe-et-Moselle,48.573239,6.529186999999999,[18000],Marche 10 km
+Grand Week-End Trail,2024-11-18 01:00:00,14000,0,,Un Lot de bonnes surprises,Nouvelle-Aquitaine,Lot-et-Garonne,44.183198,0.7507469999999999,[26000],Trail de 14 km Nocturne
+10 km Le Maine Libre,2024-11-18 01:00:00,10000,0,,Ladies and Gentle’Maine !,Pays de la Loire,Sarthe,47.9560052,0.2078705,[],Course sur route 10 km
+Course des Lumières,2024-11-18 01:00:00,6000,0,,À toi de briller !,Auvergne-Rhône-Alpes,Ain,46.1185757,4.9549869,[],Course sur route 6 km
+Corrida du donjon,2024-11-18 01:00:00,6500,0,,,Centre-Val de Loire,Loir-et-Cher,47.34320049999999,1.1834576,[],"Course sur route 6,5 km"
+Trail de la côte de Jade,2024-11-18 01:00:00,15000,0,,,Pays de la Loire,Loire-Atlantique,47.160577,-2.1478914,"[11000, 26000]",Trail 15 km
+Lourdes-Tarbes,2024-11-19 01:00:00,21095,0,,La course des miracles,Occitanie,Hautes-Pyrénées,43.091463,-0.045726,[12000],Lourdes-Tarbes
+Trail Nocturne en Savès,2024-11-19 01:00:00,22000,550,,"Oh Marie, si tu Savès !",Occitanie,Haute-Garonne,43.432478,1.045324,[11000],La Castéras
+Trail de la butte de Thil,2024-11-19 01:00:00,9000,270,,,Bourgogne-Franche-Comté,Côte-d'Or,47.385855,4.310193,[17000],Trail 9 km
+Trail Émilie,2024-11-19 01:00:00,8000,0,,Émilie jolie,Auvergne-Rhône-Alpes,Puy-de-Dôme,45.98070300000001,3.088235,"[24700, 10300]",Marche 8 km
+Trail de la Croix des Têtes,2024-11-19 01:00:00,12000,490,,Des souvenirs plein la tête,Auvergne-Rhône-Alpes,Savoie,45.2558678,6.404136599999999,"[21000, 5000]",Trail de 12 km en Solo
+Tour du Lac du Val d'Auron ,2024-11-19 01:00:00,5500,0,,On va Bourger Bourger,Centre-Val de Loire,Cher,47.0821639,2.399205,"[3000, 3000, 11000]","Marche 5,5 km"
+Trail des Collines de Giono,2024-11-19 01:00:00,7000,0,,À la mémoire de Jean ...,Provence-Alpes-Côte d'Azur,Alpes-de-Haute-Provence,43.818806,5.795566,"[15000, 24000]",Trail 7 km
+Decarun Carolo,2024-11-19 01:00:00,10000,0,,Direction les Championnats de France !,Grand Est,Ardennes,49.7735236,4.720825,[6500],Course sur route 10 km
+Foulée Vénissiane,2024-11-19 01:00:00,5000,0,,Vénissieux c’est délicieux !,Auvergne-Rhône-Alpes,Rhône,45.699594,4.8844649,"[10000, 21097]",Course sur route 5 km
+Trail d'eguzon,2024-11-19 01:00:00,8000,210,,,Centre-Val de Loire,Indre,46.43818630000001,1.5692119,"[37000, 23000]",Le chemin du savoir
+La Sans Raison,2024-11-19 01:00:00,11000,0,,Là tu en as une bonne de raison !,Île-de-France,Yvelines,48.78114619999999,2.2199803,"[42000, 23000]",La Laise
+Courir au Château de la Bourdaisière,2024-11-19 01:00:00,8000,50,,Entrez messire !,Centre-Val de Loire,Indre-et-Loire,47.3880556,0.8266667,[14000],Trail 8 km
+Trail les sangliers du griffe,2024-11-19 01:00:00,17700,365,,,Occitanie,Gard,43.8263279,4.218241,[8000],"Trail 17,7 km"
+Trail du Rouvray,2024-11-19 01:00:00,11000,0,,Rouvray-nous les portes !!,Normandie,Seine-Maritime,49.37983500000001,1.1080923,[30000],Trail 11 km
+Trail de l'Arclusaz,2024-11-19 01:00:00,11000,500,,On espère que tu as plusieurs cordes à ton Arc'lusaz,Auvergne-Rhône-Alpes,Savoie,45.569489,6.154183,"[28000, 17000]",Trail 11 km
+Ekiden de Marseille,2024-11-19 01:00:00,42195,0,,Droit au but !,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,43.2966941,5.3610825,[],Marathon
+Relais de Derchigny,2024-11-19 01:00:00,13200,0,,,Normandie,Seine-Maritime,49.9671986,1.1972084,[],Course Relais x3
+Trail Malassis Tour,2024-11-19 01:00:00,13000,200,,,Île-de-France,Yvelines,48.9898219,1.7032903,[],Trail 13 km
+Route des 4 châteaux de Chevreuse,2024-11-19 01:00:00,17000,254,,"A l'assaut, preux finishers",Île-de-France,Yvelines,48.7074017,2.0342842,[],Trail 17 km
+Trail Victor Hugo,2024-11-20 01:00:00,6000,0,,"Demain dès l'aube, je partirai ",Nouvelle-Aquitaine,Pyrénées-Atlantiques,43.333177,-0.434402,"[12000, 12000]",Marche 6 km
+Course Pédestre du Bailli de Suffren,2024-11-20 01:00:00,10000,0,,"T'es pas venu ici pour souffrir, ok ?",Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,43.6066126,5.2888531,[],Course sur route 10 km
+Challenge Meltonic,2024-11-20 01:00:00,180,150,,Prêt pour un trail ultra tonique pour multiplier tes exploits ?!,Pays de la Loire,Maine-et-Loire,47.11967730000001,-0.9931268,[],Challenge nuit
+La Montagne Verte,2024-11-20 01:00:00,20000,500,,Le géant vert,Auvergne-Rhône-Alpes,Allier,46.1624426,3.4358495,[],Trail 20 km
+Ronde de Saint-Mitre-les-Remparts et Trail de Figuerolles,2024-11-24 01:00:00,10000,280,,Au bord de l'eau,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,43.4518899,5.014100099999999,[20000],Ronde de Saint Mitre
+Le Cross du Figaro NordicTrack,2024-11-24 01:00:00,5000,0,,« Nos victoires sont vos victoires »,Île-de-France,Hauts-de-Seine,48.84764699999999,2.208115,"[10000, 15000, 20000]",Varta Night Figaro
+Boulogne-sur-Mer Urban Trail Cote d'Opale ,2024-11-25 01:00:00,14000,0,,Boulogne-sur-Merci beaucoup ,Hauts-de-France,Pas-de-Calais,50.7304839,1.5945032,"[8000, 21000]",Trail 14 km
+Marathon de Nevers,2024-11-25 01:00:00,42195,0,,Lâche les chevaux !,Bourgogne-Franche-Comté,Nièvre,46.8615409,3.163392,"[21097, 4411]",Ekiden relais en 6
+Trail à la Belle Étoile,2024-11-25 01:00:00,12000,0,,,Normandie,Manche,49.6338979,-1.622224,"[8000, 21000, 30000, 8000]",Trail 12 km
+Trail de Nébian,2024-11-25 01:00:00,100000,4400,,Les doigts dans le né-bian,Occitanie,Hérault,43.606614,3.430843,"[8000, 13500, 8000, 3200]",L'Ultra Trail de Nébian (UTNB)
+Trail Urbain de la Sainte-Barbe,2024-11-25 01:00:00,9000,0,,Lens-toi à l'assaut de l'Urban Trail !,Hauts-de-France,Pas-de-Calais,50.42893000000001,2.83183,[],Trail 9 km
+Corrida de Paimpol,2024-11-25 01:00:00,9900,0,,"Paimpol Paimpol, les runners arrivent",Bretagne,Côtes-d'Armor,48.7770547,-3.046127,[],"Course sur route 9,9 km"
+Trail de la Croix Labbé,2024-11-25 01:00:00,25000,700,,,Grand Est,Meurthe-et-Moselle,49.49295300000001,5.872779,[10500],Trail 25 km
+Corrida de loches,2024-11-25 01:00:00,4100,0,,,Centre-Val de Loire,Indre-et-Loire,47.12447539999999,0.9967417999999998,"[4700, 8800]","Relais 4,1 km"
+Course des Lumières - Lyon,2024-11-25 01:00:00,4000,0,,Éclairer Lyon contre la maladie,Auvergne-Rhône-Alpes,Rhône,45.7605474,4.861117699999999,[8000],Marche 4 km
+Course des Trois Ponts,2024-11-25 01:00:00,10000,0,,"L'important, c'est les trois ponts !",Centre-Val de Loire,Loiret,47.8445744,1.9336965,[],Course sur route 10 km
+THP Winter,2024-11-25 01:00:00,40300,2220,2220.0,À toi de braver l'hiver !,Provence-Alpes-Côte d'Azur,Alpes-de-Haute-Provence,44.045675,5.778438,"[25200, 12800]",W40
+Trail Contre le Temps Perdu,2024-11-25 01:00:00,8200,0,,Plus de temps à perdre !,Centre-Val de Loire,Eure-et-Loir,48.2994013,1.2447076,[16500],"Trail 8,2 km"
+Course des Lumières - Toulouse,2024-11-25 01:00:00,4000,0,,Éclairer Toulouse contre la maladie,Occitanie,Haute-Garonne,43.598264,1.4092542,[8000],Marche 4 km
+"Courir entre deux ""O""",2024-11-25 01:00:00,10000,0,,Aller plus O !,Normandie,Calvados,49.182863,-0.370679,"[21097, 20000]",Marche 10 km
+La Fééria Barisienne,2024-11-25 01:00:00,10000,0,,La Féria de Bayonne n'a qu'à bien se tenir,Grand Est,Meuse,48.773605,5.158238000000001,[5000],La Barisienne
+Trail Noct'Urbain d'Arbois,2024-11-25 01:00:00,10000,170,,,Bourgogne-Franche-Comté,Jura,46.902851,5.772342,[],Trail 10 km
+Trail de Pontivy,2024-11-26 01:00:00,13000,0,,,Bretagne,Morbihan,48.066152,-2.967056,"[19000, 7000, 11000]",Marche 13 km
+Orange Vélodrome Trail,2024-11-26 01:00:00,4000,200,,Attention à la marche !,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,43.2966941,5.3610825,"[2000, 8000, 8000]",Mode Team de 4
+Courir pour guérir,2024-11-26 01:00:00,10000,0,,,Centre-Val de Loire,Loiret,47.865408,1.897565,[5000],Trail 10 km
+Les Boucles du 17 ème,2024-11-26 01:00:00,10000,0,,"Tu en feras deux, des boucles !",Île-de-France,Paris,48.85837009999999,2.2944813,[],Course sur route 10 km
+Foulées Roxédoises,2024-11-26 01:00:00,13000,0,,,Bretagne,Morbihan,47.86428730000001,-2.4491456,"[11700, 9000]",Marche 13 km
+La Sange'Run,2024-11-26 01:00:00,11000,540,,,Auvergne-Rhône-Alpes,Savoie,45.58568,5.996106,[24000],P'tit Sangerain
+20 bornes d'Andresy,2024-11-26 01:00:00,21100,0,,,Île-de-France,Yvelines,48.9823366,2.0606295,"[5000, 10000, 2000]","Course sur route 21,1 km"
+Trail Event Les Saint Cyriennes,2024-11-26 01:00:00,17000,0,,Un trail sain et saint,Provence-Alpes-Côte d'Azur,Var,43.1826409,5.709571,"[10000, 28000]",Trail 17 km
+Marathon de La Rochelle,2024-11-26 01:00:00,42195,0,,Port d’attaches,Nouvelle-Aquitaine,Charente-Maritime,46.160329,-1.151139,"[10000, 21000, 4000]",Challenge entreprise - Relais à 4 
+10 km de la Saint-Nicolas,2024-11-26 01:00:00,10000,0,,Noël en avance !,Grand Est,Meurthe-et-Moselle,48.6936184,6.1832413,[],Course sur route 10 km
+Trail de saint just,2024-11-26 01:00:00,21000,200,,,Nouvelle-Aquitaine,Haute-Vienne,45.863191,1.386555,"[15000, 7000]",Trail 21 km
+La Landsberg,2024-11-26 01:00:00,26000,1000,,Royal au Barr !,Grand Est,Bas-Rhin,48.4089496,7.4500303,"[17000, 9000]",Le Grand
+La Creative Chantepie,2024-11-26 01:00:00,10000,0,,,Bretagne,Ille-et-Vilaine,48.09001259999999,-1.6267407,[],Course sur route 10 km
+20 km de Montpellier,2024-11-26 01:00:00,20000,0,,Le rendez-vous des Héraults ,Occitanie,Hérault,43.63385330000001,3.8488781,[],Course sur route 20 km
+La noémienne,2024-11-26 01:00:00,8000,0,,,Centre-Val de Loire,Indre,46.764705,1.475622,"[15000, 5000]",Course sur route 8 km
+Biscatrail,2024-11-26 01:00:00,10000,55,,Range ton carrosse direction Biscarrosse,Nouvelle-Aquitaine,Landes,44.4444427,-1.2560502,"[18000, 32000]",Trail 10 km
+Montée de la madeleine,2024-11-26 01:00:00,10000,500,,,Grand Est,Vosges,48.2874679,6.947767,[15000],Trail 10 km
+La Foulée Caumontoise,2024-11-26 01:00:00,6000,0,,"Alors, Caumont elle est cette course ?",Provence-Alpes-Côte d'Azur,Vaucluse,43.89325600000001,4.944208,"[9000, 10000, 15000]",Trail 6 km
+Jurassic Trail,2024-11-26 01:00:00,18000,500,,Attention au T-Rex !,Occitanie,Gard,44.0175328,4.4658475,[],Trail 18 km
+Semi-Marathon de Boulogne-Billancourt Christian Granger,2024-11-26 01:00:00,21097,79,,Boule et Bill on court ?,Île-de-France,Hauts-de-Seine,48.8346434,2.2445197,[],Semi-Marathon
+Ultrera Trail,2024-11-27 01:00:00,40000,2000,,Un trail ultra cool !,Occitanie,Pyrénées-Orientales,42.5299132,2.8783592,[20000],En relais de 4
+Les Foulées de l'Aéroport,2024-11-27 01:00:00,10000,0,,"J'ai pris l'avion pour Courir, j'ai pris l'avion pour faire un bond",Île-de-France,Seine-Saint-Denis,48.924298,2.445676,[],Course sur route 10 km
+L'Eguillenne,2024-11-27 01:00:00,10000,0,,Aiguise bien tes mollets !,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,43.5686589,5.354234,[18000],Course sur route 10 km
+Les foulées Androgiennes,2024-11-29 01:00:00,21000,300,,,Bourgogne-Franche-Comté,Yonne,47.5172646,3.4790302,[12000],Trail 21 km
+Semi-Marathon de Bordeaux,2024-12-01 01:00:00,42195,0,,"Vin + Vin + 2,195 = Marathon de Bordeaux",Nouvelle-Aquitaine,Gironde,44.8414707,-0.5699017,[21097],Marathon de Bordeaux
+Menestrail,2024-12-02 01:00:00,7000,0,,Pas besoin d'être un musicien du Moyen Âge pour aller au Menestrail !,Bretagne,Côtes-d'Armor,48.3598425,-2.6303461,"[34000, 24000, 14000, 54000]",Le Tour du Courtil
+Kerpape Noz Trail,2024-12-02 01:00:00,15000,0,,,Bretagne,Morbihan,47.701032,-3.461667,"[8000, 8000]",Trail 15 km
+Magis'Trail,2024-12-02 01:00:00,13000,400,,Au clair de Luynes !,Centre-Val de Loire,Indre-et-Loire,47.384882,0.5542929999999999,"[7000, 19000]",Trail des Vallées
+Trail Les 40 Bosses,2024-12-02 01:00:00,43000,2000,,C’est reparti comme en 40 !,Île-de-France,Val-d'Oise,49.0177468,2.2453627,"[86000, 86000, 20000, 10000, 86000]",Trail 43 km
+Corrida de Noël de Perpignan,2024-12-02 01:00:00,6000,0,,"Oh..Oh..Oh.. Direction Perpignan, le Père Noël t'attend",Occitanie,Pyrénées-Orientales,42.6961465,2.8783772,[],Course sur route 6 km
+Trail'ethon des enclaves,2024-12-02 01:00:00,9000,131,132.0,,Occitanie,Hautes-Pyrénées,43.279945,-0.111143,"[7000, 14000]",Trail 9 km
+Les Foulées du Roc,2024-12-02 01:00:00,5000,0,,,Bretagne,Ille-et-Vilaine,48.466466,-1.1226707,[10000],Course sur route 5 km
+La corrida sancerroise de noël,2024-12-02 01:00:00,7000,125,,,Centre-Val de Loire,Cher,47.329583,2.839867,[3500],Course duo 7 km
+Ruée des Fadas - Font Romeu,2024-12-02 01:00:00,8000,0,,Complètement givré ! ❄️ ,Occitanie,Pyrénées-Orientales,42.5052379,2.0420012,[],Course à obstacles 8 km
+La salamandre givree,2024-12-02 01:00:00,0,0,,,Centre-Val de Loire,Loir-et-Cher,47.3586346,1.7473537,[6000],Trail 
+Vertrail by night,2024-12-02 01:00:00,17000,440,,,Île-de-France,Yvelines,48.8048649,2.1203554,[8000],Trail 17 km
+Foulées stenaisiennes,2024-12-02 01:00:00,5000,0,,,Grand Est,Meuse,49.4910662,5.1853124,[10000],Course sur route 5 km
+Lavy des Cimes,2024-12-02 01:00:00,4700,1030,,C'est Lavy ! ,Auvergne-Rhône-Alpes,Haute-Savoie,45.8205933,6.070888,[],KV
+La Fête de la Forme,2024-12-02 01:00:00,2500,0,,Tous à fond pour le Téléthon !,Provence-Alpes-Côte d'Azur,Vaucluse,43.9984783,5.0549027,[9000],"Parcours Plaisir (2,5 km)"
+Trail Urbain de Mortagne,2024-12-02 01:00:00,12000,0,,"La Vendée, la vraie",Pays de la Loire,Vendée,46.9925945,-0.9545625,[6000],Trail 12 km
+Trail des Collines Bleues,2024-12-03 01:00:00,8000,200,,,Bretagne,Finistère,48.20163789999999,-4.0941946,[14000],Trail 8 km
+La Kanerdall,2024-12-03 01:00:00,8000,230,,Pour les dalleux de trails,Grand Est,Moselle,49.331488,6.323526999999999,[16000],Trail 8 km
+5 et 10 km de Saint-Andiol ,2024-12-03 01:00:00,5300,0,,Courir pour la bonne cause,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,43.8328101,4.9484037,[10000],"Course sur route 5,3 km"
+Trail du Porteur d'Eau,2024-12-03 01:00:00,27000,0,,Harry... de l'eau,Bretagne,Ille-et-Vilaine,48.153703,-1.580598,"[10000, 18000, 10000]",Trail 27 km
+10 km du Canal de Périgueux,2024-12-03 01:00:00,10000,0,,Noël avant l’heure ! ,Nouvelle-Aquitaine,Dordogne,45.1835855,0.722768,[],Course sur route 10 km
+Trail du téléthon - Buhl,2024-12-03 01:00:00,18000,0,,PitBuhl,Grand Est,Haut-Rhin,47.928012,7.18683,[11000],Trail 18 km
+Launagu'etoile,2024-12-03 01:00:00,6000,0,,,Occitanie,Haute-Garonne,43.674268,1.456733,"[12000, 12000]",Marche 6 km
+Nature MarathonMan,2024-12-03 01:00:00,10000,78,,Sois un super Hérault ! ,Occitanie,Hérault,43.7731223,3.8757119,"[24000, 42195, 42195]",Marche santé Aesio Mutuelle
+Corrida de Fère,2024-12-03 01:00:00,12000,0,,,Grand Est,Marne,48.746216,3.969999,[],Course sur route 12 km
+Courir pour le Plaisir,2024-12-03 01:00:00,10000,0,,Pour le plaisir de courir,Île-de-France,Paris,48.85837009999999,2.2944813,[],Trail 10 km
+Foulées Muzillacaises,2024-12-03 01:00:00,10000,0,,,Bretagne,Morbihan,47.553903,-2.482314,[],Course sur route 10 km
+Course de Noël - Suresnes,2024-12-03 01:00:00,5000,0,,Suresnes des neiges,Île-de-France,Hauts-de-Seine,48.863314,2.2111521,[],Course sur route 5 km
+Hivernale des Templiers,2024-12-03 01:00:00,4900,190,,Tout est bon dans le Larzac !,Occitanie,Aveyron,43.9752868,2.9913697,"[13000, 67000, 34700, 25800, 16800]",Illuminés de Roquefort Société
+10 km d'Arcachon,2024-12-03 01:00:00,10000,0,,La course Dune vie !,Nouvelle-Aquitaine,Gironde,44.6640209,-1.1643872,[],Course sur route 10 km
+La Petite Origole,2024-12-04 01:00:00,13000,0,,"Ça va, ORigole !",Île-de-France,Yvelines,48.696146,1.847679,"[33000, 23000]",LA MINI
+Trail Urbain de Lannion,2024-12-04 01:00:00,5000,0,,Quoi de mieux avant les fêtes ?,Bretagne,Côtes-d'Armor,48.732084,-3.459144,[10000],La course des Pères Noël
+Trail de l'Igue,2024-12-04 01:00:00,7000,0,,Rejoins la l'Igue des traileurs du Lot !,Occitanie,Lot,44.4571029,1.70001,"[26000, 15000]",Trail 7 km
+La Ronde du Terroir,2024-12-04 01:00:00,13000,300,,On y danse tous en rond,Provence-Alpes-Côte d'Azur,Vaucluse,44.122161,5.029084,[23000],La Balméenne
+Le Castor Garou,2024-12-04 01:00:00,17000,0,,Attention au loup...castor garou,Île-de-France,Essonne,48.73419610000001,2.2074119,[],Trail 17 km
+Marathon des Barjots,2024-12-05 01:00:00,42195,0,,Complètement fou,Occitanie,Hérault,43.649322,3.69797,"[21097, 13000]",Marathon
+Corrida de ste maure de touraine,2024-12-07 01:00:00,7500,100,,,Centre-Val de Loire,Indre-et-Loire,47.10035449999999,0.6100751999999999,[],"Course sur route 7,5 km"
+Trail des Grenouilles,2024-12-07 01:00:00,8000,0,,Ne vas pas gober des mouches !,Centre-Val de Loire,Loir-et-Cher,47.8672682,1.1409625,[19000],Trail 8 km
+Corrida du Noble Joué,2024-12-08 01:00:00,7000,0,,,Centre-Val de Loire,Indre-et-Loire,47.284385,0.7852699999999999,"[5000, 7200]",Course sur route 7 km
+À la Conquête de Super Besse,2024-12-08 01:00:00,15000,0,,Ne Besse pas les bras,Auvergne-Rhône-Alpes,Puy-de-Dôme,45.5118471,2.853675,"[9000, 25000, 7000]",Trail 15 km
+Trail du Tour du Canton,2024-12-09 01:00:00,24000,400,,Canton n’a que l’amour… !  ,Normandie,Seine-Maritime,49.5913178,0.4279306,"[21000, 40000, 75000]",Trail 24 km
+Gruissan Poli Trail,2024-12-09 01:00:00,25000,800,,On t'attend AUDÉpart ! ,Occitanie,Aude,43.0967139,3.0845793,"[50000, 50000, 50000, 18000, 10000, 8000, 12000]",Las Caldas
+Trail du Loup Blanc,2024-12-09 01:00:00,48000,2000,,Une course à croquer,Nouvelle-Aquitaine,Creuse,46.16959900000001,1.871452,"[15000, 23000, 30000]",Grand méchant Loup
+Trail Nocturne de l'Ecoparc Catalan,2024-12-09 01:00:00,7000,0,,Une petite sardane et això (c'est parti) !,Occitanie,Pyrénées-Orientales,42.694486,2.769445,"[30000, 11000, 19000, 30000, 30000, 11000, 11000]",Marche Nordique 7 km
+Trail du Telethon de Bouliac,2024-12-09 01:00:00,10000,0,,Tous solidaires !,Nouvelle-Aquitaine,Gironde,44.81654169999999,-0.503944,"[11000, 20000]",Marche 10 km
+Trail Urbain du Chat Perché,2024-12-09 01:00:00,14000,140,,,Bourgogne-Franche-Comté,Jura,47.112027,5.499452199999999,[7000],Trail 14 km
+Foulées Rédénoises,2024-12-09 01:00:00,8100,0,,,Bretagne,Finistère,47.8601249,-3.462004,[15700],"Trail 8,1 km"
+Boucle de la Tourlandry,2024-12-09 01:00:00,12500,0,,Toutouyou Tourlandry ! ,Pays de la Loire,Maine-et-Loire,47.210062,-0.7275324999999999,"[10000, 25000, 17000]","Trail 12,5 km"
+La sale caractere,2024-12-09 01:00:00,12000,0,,,Bretagne,Morbihan,47.9522158,-2.5473921,[],2 x 6 km Relais
+Spassighjata in Bastia,2024-12-09 01:00:00,9500,310,,Viens fêter la Corse pour la bonne cause ,Corse,Haute-Corse,42.697283,9.450880999999999,[],La Spassighjata
+Choco Trail d’Hardricourt,2024-12-09 01:00:00,13000,0,,,Île-de-France,Yvelines,48.990181,1.912178,"[8000, 42000, 24000, 8000]",Marche 13 km
+Trail Nocturne de Noël,2024-12-09 01:00:00,7000,400,,Tu vas être gâté !,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,43.2733301,5.6375795,"[21000, 16000]",Trail 7 km
+Trail de Bathernay,2024-12-09 01:00:00,25000,950,,,Auvergne-Rhône-Alpes,Drôme,45.179636,4.994917,"[14000, 7000, 7000]",Trail 25 km
+Course des Lumières - Bordeaux ,2024-12-09 01:00:00,4000,0,,,Nouvelle-Aquitaine,Gironde,44.8414707,-0.5699017,[8000],Marche 4 km
+Trail Ecuillé,2024-12-09 01:00:00,18000,0,,Ça vaut plus d'un écu !,Pays de la Loire,Maine-et-Loire,47.618132,-0.565564,[9000],Trail duo relai de 9 km x 2
+Les Lucioles du Josas,2024-12-09 01:00:00,12000,360,,,Île-de-France,Yvelines,48.76454500000001,2.169007,[8000],Trail 12 km
+Course aux Dahuts,2024-12-09 01:00:00,15000,0,,Dahut : Animal sauvage imaginaire,Bretagne,Côtes-d'Armor,48.2945866,-2.5219133,"[12000, 8000, 8000]",Trail 15 km
+Hivernatrail,2024-12-09 01:00:00,12000,321,,Sors de ton hivernation and Côme-on !,Occitanie,Gard,43.82784,4.202453999999999,"[30000, 20000, 10000]",Trail 12 km
+La Seinche de Saint-Louis,2024-12-10 01:00:00,10000,0,,"Qu'elle est belle, notre Camargue",Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,43.676647,4.6277769,[],Marche 10 km
+Course Nature de la Vie,2024-12-10 01:00:00,9000,150,,Le trail c’est la vie !,Pays de la Loire,Vendée,46.767746,-1.508806,"[16000, 15000, 32000, 15000]",La course de ma vie 
+Les Ribines de l’Aber Ildut,2024-12-10 01:00:00,24000,0,,,Bretagne,Finistère,48.433925,-4.730869999999999,"[8000, 15000, 13000]",Trail 24 km
+Trail de Noël d'Ollioules,2024-12-10 01:00:00,16000,800,,"Petit papa noëlllll, quand tu viendras faire ce traillllll",Provence-Alpes-Côte d'Azur,Var,43.1227175,5.8269515,[27000],Trace des lutins
+Course des 2 Viaducs,2024-12-10 01:00:00,10000,0,,Un Viaduc deux fois ? Vendu,Centre-Val de Loire,Indre,46.61999309999999,1.0679079,[],Trail 10 km
+Corrida d'Auxerre,2024-12-10 01:00:00,7000,0,,Les toreros ajaïstes ,Bourgogne-Franche-Comté,Yonne,47.797823,3.5731071,[],Course sur route 7 km
+La Ronde de Noël de Rodez,2024-12-10 01:00:00,8000,0,,Joyeux Rodez à tous !,Occitanie,Aveyron,44.35107439999999,2.5762081,[4000],Ronde de Noël
+10 KM de la Tour Eiffel ,2024-12-10 01:00:00,10000,0,,Prêt pour un tour autour de La Tour,Île-de-France,Paris,48.856614,2.3522219,[],10 KM
+Marathon de l'Espoir,2024-12-10 01:00:00,42195,0,,L'espoir fait courir ,Centre-Val de Loire,Loiret,47.763082,2.373936,[],Marathon duo
+La Besace Nature,2024-12-10 01:00:00,9000,0,,Un plein de nature dans la besace !,Normandie,Calvados,49.0103963,-0.8455997000000001,"[14000, 25000]",Le Duo
+Course des Sables,2024-12-10 01:00:00,15000,0,,Viens défier le sablier !,Nouvelle-Aquitaine,Lot-et-Garonne,44.170718,0.287058,[9000],Trail 15 km
+Spartan Morzine Winter Trail,2024-12-10 01:00:00,21000,0,,,Auvergne-Rhône-Alpes,Haute-Savoie,46.19214770000001,6.7751173,[10000],21 KM
+Trail & Cross de Dourdan,2024-12-10 01:00:00,5000,0,,,Île-de-France,Essonne,48.529171,2.0152549,"[12000, 18000]",Cross F.F.A.
+Triathlon et Duathlons de la Saint Sylvestre,2024-12-10 01:00:00,13400,0,,,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,43.58041799999999,7.125102,[23750],Duathlon XS
+Trail Nocturne Villeneuve,2024-12-10 01:00:00,9000,180,,Une course lunatique ! ,Occitanie,Gard,43.96599740000001,4.7967593,[5000],Trail 9 km
+10 km d'Héricourt,2024-12-10 01:00:00,10000,0,,Et il court (Héricourt) !,Bourgogne-Franche-Comté,Haute-Saône,47.5729724,6.769431699999999,[5000],Course des As
+Corrida de Thiais,2024-12-10 01:00:00,10000,0,,Thiais le sang !,Île-de-France,Val-de-Marne,48.7566506,2.3718687,"[5000, 5000]",Course sur route 10 km
+Corrida Pédestre de Lourdes,2024-12-10 01:00:00,10000,0,,C'est du Lourdes ! ,Occitanie,Hautes-Pyrénées,43.091463,-0.045726,[],Course sur route 10 km
+Corrida de Noël de Carentan Les Marais,2024-12-10 01:00:00,7800,0,,"Viens, on va bien se marais !",Normandie,Manche,49.30598750000001,-1.2424352,[],"Course sur route 7,8 km"
+Trail nocturne de la Praille,2024-12-16 01:00:00,14000,500,,,Auvergne-Rhône-Alpes,Ain,45.9766983,5.6015539,[7000],Trail 14 km
