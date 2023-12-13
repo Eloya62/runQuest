@@ -23,8 +23,12 @@ function Filter(props) {
             </div>
             {event && (
                 <div class="event">
-
-                    <h1>event</h1>
+                    <form>
+                        <label>Date Begin : <input type="date" name="dateBegin" /></label>
+                        <label>City : <input type="text" name="city" /></label>
+                        <label>Department : <input type="text" name="department" /></label>
+                        <input type="submit" value="Submit" />
+                    </form>
 
                 </div>)
             }
