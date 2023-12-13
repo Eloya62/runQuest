@@ -11,6 +11,7 @@ function App() {
       <a href="preferences">Preferences</a>
       <a href="create-event">CreateEvent</a>
       <a href="create-race">CreateRace</a>
+      <a href="map">Map</a>
     </div>
   );
 }
