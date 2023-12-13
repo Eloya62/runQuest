@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import '../../General.css';
 import './Connect.css';
+import axios from 'axios';
 
 export const Register = () => {
   const [firstName, setFirstName] = useState('');
@@ -10,9 +11,44 @@ export const Register = () => {
   const [confirmPassword, setConfirmPassword] = useState('');
 
   const handleSubmit = (event) => {
-    event.preventDefault();
-    const data = new FormData(event.target);
-    console.log(data);
+    event.preventDefault(); // Move this line to the beginning
+  
+    if (firstName === '' || lastName === '' || email === '' || password === '' || confirmPassword === '') {
+      alert('Please fill out all fields');
+      return;
+    }
+    if (password !== confirmPassword) {
+      alert('Passwords do not match');
+      return;
+    }
+  
+    const data = new FormData();
+    data.append('firstName', firstName);
+    data.append('lastName', lastName);
+    data.append('email', email);
+    data.append('password', password);
+  
+    const url = 'http://localhost:5000/register.php';
+    axios.post(url, data)
+      .then(response => {
+        // Access the response data
+        const responseData = response.data;
+  
+        // Check if there is an error
+        if (responseData.error) {
+          alert(responseData.error);
+        } else {
+          // Registration was successful
+          alert(responseData.success);
+  
+          // Redirect to another page (you can replace the URL below)
+          window.location.href = '/connect';
+        }
+      })
+      .catch(error => {
+        // Handle the error
+        console.error("An error occurred:", error);
+      });
   }
 
   return (
