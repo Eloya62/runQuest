@@ -1,20 +1,22 @@
 import React from "react";
 import "../../General.css";
 
-function Event() {
+function Event(props) {
+  const { title, date, location } = props;
+
   return (
-    <div className="grid grid-cols-2 gap-4 m-8">
-      <div class="event shadow-lg">
-        <div class="m-8">
-          <div class="event__info">
-            <h2 class="event__title">Event title</h2>
-            <p class="event__description">Event description</p>
-            <p class="event__date">Event date</p>
-            <p class="event__location">Event location</p>
+      <div className="event shadow-md p-2">
+        <div className="m-4">
+          <div className="event__info flex justify-between">
+            <div>
+              <h2 className="event__title">{title}</h2>
+              <p className="event__location">{location}</p>
+            </div>
+            <p className="event__date">{date}</p>
           </div>
         </div>
       </div>
-    </div>
+
   );
 }
 
