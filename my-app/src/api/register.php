@@ -11,7 +11,7 @@ if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
     exit();
 }
 
-function register($firstname, $lastname, $password, $email) {
+function register($firstname, $lastname, $dateBirth, $password, $email) {
     if (empty($firstname) || empty($lastname) || empty($password) || empty($email)) {
         $response = array("error" => "Please fill in all fields.");
         echo json_encode($response);
@@ -19,7 +19,7 @@ function register($firstname, $lastname, $password, $email) {
     }
     // Check if username already exists
     $sql = "SELECT * FROM users WHERE email = ?";
-    $conn = new PDO("mysql:host=localhost;port=3306;dbname=runquest", "root", "bku23456drz");
+    $conn = new PDO("mysql:host=35.241.200.39;dbname=runquest", "root", "bku23456drz");
     $stmt = $conn->prepare($sql);
     $stmt->bindParam(1, $email);
     $stmt->execute();
@@ -40,12 +40,13 @@ function register($firstname, $lastname, $password, $email) {
         // Hash password
         $password = password_hash($password, PASSWORD_DEFAULT);
         // Insert new user into database
-        $sql = "INSERT INTO users (firstname, lastname, password, email) VALUES (?, ?, ?, ?)";
+        $sql = "INSERT INTO users (firstName, lastName, password, email, dateBirth) VALUES (?, ?, ?, ?, ?)";
         $stmt = $conn->prepare($sql);
         $stmt->bindParam(1, $firstname);
         $stmt->bindParam(2, $lastname);
         $stmt->bindParam(3, $password);
         $stmt->bindParam(4, $email);
+        $stmt->bindParam(5, $dateBirth);
 
         if ($stmt->execute() === TRUE) {
             $response = array("success" => "User registered successfully.");
@@ -63,5 +64,6 @@ $firstname = $_POST['firstName'];
 $lastname = $_POST['lastName'];
 $password = $_POST['password'];
 $email = $_POST['email'];
-register($firstname, $lastname, $password, $email);
+$dateBirth = $_POST['dateBirth'];
+register($firstname, $lastname, $dateBirth, $password, $email);
 ?>
