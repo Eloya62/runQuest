@@ -8,6 +8,7 @@ export const Register = () => {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   const [confirmPassword, setConfirmPassword] = useState('');
+  const [dateBirth, setDateBirth] = useState('');
 
   const handleSubmit = (event) => {
     event.preventDefault(); // Move this line to the beginning
@@ -20,10 +21,12 @@ export const Register = () => {
       alert('Passwords do not match');
       return;
     }
+    //TODO : check dateBirth is date
   
     const data = new FormData();
     data.append('firstName', firstName);
     data.append('lastName', lastName);
+    data.append('dateBirth', dateBirth); //TODO check valid
     data.append('email', email);
     data.append('password', password);
   
@@ -56,9 +59,10 @@ export const Register = () => {
       <form onSubmit={handleSubmit}>
         <label>First Name : <input value={firstName} onChange={(e) => setFirstName(e.target.value)} type="text" name="firstName" /></label>
         <label>Last Name : <input value={lastName} onChange={(e) => setLastName(e.target.value)} type="text" name="lastName" /></label>
+        <label>Date of birth : <input value={dateBirth} onChange={(e) => setDateBirth(e.target.value)} type="date" name="dateBirth" /></label>
         <label>Email : <input value={email} onChange={(e) => setEmail(e.target.value)} type="email" name="email" /></label>
-        <label>Password : <input value={password} onChange={(e) => setPassword(e.target.value)} type="text" name="password" /></label>
-        <label>Confirm Password : <input value={confirmPassword} onChange={(e) => setConfirmPassword(e.target.value)} type="text" name="confirmPassword" /></label>
+        <label>Password : <input value={password} onChange={(e) => setPassword(e.target.value)} type="password" name="password" /></label>
+        <label>Confirm Password : <input value={confirmPassword} onChange={(e) => setConfirmPassword(e.target.value)} type="password" name="confirmPassword" /></label>
         <input type="submit" value="Submit" />
       </form>
     </div>
