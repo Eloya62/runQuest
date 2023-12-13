@@ -61,8 +61,8 @@ export const Register = () => {
   };
 
   return (
-    <section class="bg-gray-50 dark:bg-gray-900">
-      <div class="flex flex-col items-center justify-center px-6 py-8 mx-auto md:h-screen lg:py-0">
+    <section class="bg-gray-50 dark:bg-gray-900 h-screen">
+      <div class="flex flex-col items-center justify-center px-6 py-6 mx-auto md:h-screen lg:py-0">
         <a
           href="#"
           class="flex items-center mb-6 text-2xl font-semibold text-gray-900 dark:text-white"
@@ -71,11 +71,11 @@ export const Register = () => {
           RunQuest
         </a>
         <div class="w-full bg-white rounded-lg shadow dark:border md:mt-0 sm:max-w-md xl:p-0 dark:bg-gray-800 dark:border-gray-700">
-          <div class="p-6 space-y-4 md:space-y-6 sm:p-8">
+          <div class="p-2 space-y-4 md:space-y-6 sm:p-8">
             <h1 class="text-xl font-bold leading-tight tracking-tight text-gray-900 md:text-2xl dark:text-white">
               Création et connexion
             </h1>
-            <form onSubmit={handleSubmit} class="space-y-4 md:space-y-6" action="#">
+            <form onSubmit={handleSubmit} class="space-y-2 md:space-y-2" action="#">
             <div>
                 <label
                   for="email"
@@ -184,31 +184,7 @@ export const Register = () => {
                   required=""
                 ></input>
               </div>
-              <div class="flex items-start">
-                <div class="flex items-center h-5">
-                  <input
-                    id="terms"
-                    aria-describedby="terms"
-                    type="checkbox"
-                    class="w-4 h-4 border border-gray-300 rounded bg-gray-50 focus:ring-3 focus:ring-primary-300 dark:bg-gray-700 dark:border-gray-600 dark:focus:ring-primary-600 dark:ring-offset-gray-800"
-                    required=""
-                  ></input>
-                </div>
-                <div class="ml-3 text-sm">
-                  <label
-                    for="terms"
-                    class="font-light text-gray-500 dark:text-gray-300"
-                  >
-                    J'accepte les{" "}
-                    <a
-                      class="font-medium text-primary-600 hover:underline dark:text-primary-500"
-                      href="#"
-                    >
-                      Termes et conditions
-                    </a>
-                  </label>
-                </div>
-              </div>
+              
               <button
                 type="submit"
                 class="w-full text-white bg-primary-600 hover:bg-primary-700 focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800"
