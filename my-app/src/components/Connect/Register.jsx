@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import '../../General.css';
-import './Connect.css';
 import axios from 'axios';
 
 export const Register = () => {
