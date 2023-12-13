@@ -24,10 +24,10 @@ function Filter(props) {
             {event && (
                 <div class="event">
                     <form>
-                        <label>Date Begin : <input type="date" name="dateBegin" /></label>
-                        <label>City : <input type="text" name="city" /></label>
-                        <label>Department : <input type="text" name="department" /></label>
-                        <input type="submit" value="Submit" />
+                        <label>Date début : <input type="date" name="dateBegin" /></label>
+                        <label>Ville : <input type="text" name="city" /></label>
+                        <label>Département : <input type="text" name="department" /></label>
+                        <button type="submit">valider</button>
                     </form>
 
                 </div>)
@@ -35,7 +35,12 @@ function Filter(props) {
             {race && (
                 <div class="race">
 
-                    <h1>course</h1>
+                    <form>
+                        <label>Date<input type="date" name="dateBegin" /></label>
+                        <label>Ville : <input type="text" name="city" /></label>
+                        <label>Département : <input type="text" name="department" /></label>
+                        <button type="submit">valider</button>
+                    </form>
 
                 </div>)
             }
