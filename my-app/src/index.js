@@ -13,6 +13,8 @@ import Favorite from './components/Favorite/Favorite';
 import App from './components/App/App';
 
 
+
+
 export default function Index() {
   const [token, setToken] = useState();
   return (
