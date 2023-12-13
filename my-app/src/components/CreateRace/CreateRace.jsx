@@ -20,6 +20,10 @@ export const CreateRace = () => {
       alert('Please fill out all fields');
       return;
     }
+    if (isNaN(distance) || isNaN(posDrop)  || isNaN(negDrop) || isNaN(longitude)  || isNaN(latitude)) {
+      alert("Numeric values aren't filled with numbers. Please only put numbers inside the numerical fields");
+      return;
+    }
     if (distance <= 0) {
       alert('The distance cannot be of 0 or less');
       return;
@@ -84,4 +88,4 @@ export const CreateRace = () => {
   );
 }
 
-export default Register;
+export default CreateRace;

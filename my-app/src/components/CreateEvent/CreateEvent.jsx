@@ -64,4 +64,4 @@ export const CreateEvent = () => {
   );
 }
 
-export default Register;
+export default CreateEvent;
