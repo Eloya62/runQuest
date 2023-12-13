@@ -38,15 +38,15 @@ export const CreateRace = () => {
   
     const data = new FormData();
     // TODO : check values and add admin or organiser name
-    data.append('raceName', raceName);
+    data.append('nom_course', raceName);
     data.append('location', location);
-    data.append('description', description);
-    data.append('distance', distance);
-    data.append('posDrop', posDrop);
-    data.append('negDrop', negDrop);
-    data.append('longitude', longitude);
-    data.append('latitude', latitude);
-    data.append('dateStart', dateStart); //TODO check valid
+    data.append('descr', description);
+    data.append('distance_m', distance);
+    data.append('d_plus', posDrop);
+    data.append('d_minus', negDrop);
+    data.append('lon', longitude);
+    data.append('lat', latitude);
+    data.append('date_course', dateStart); //TODO check valid
     data.append('department', department);
     data.append('region', region);
   
