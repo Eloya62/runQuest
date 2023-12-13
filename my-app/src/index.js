@@ -3,8 +3,8 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import Connect from './components/Connect/Connect';
+import Register from './components/Connect/Register';
 import Preferences from './components/Preferences/Preferences';
-import CreateAccount from './components/CreateAccount/CreateAccount';
 import CreateEvent from './components/CreateEvent/CreateEvent';
 import CreateRace from './components/CreateRace/CreateRace';
 import Agenda from './components/Agenda/Agenda';
@@ -22,7 +22,7 @@ export default function Index() {
         <Route path="/" element={<App />} />
         <Route path="/preferences" element={<Preferences />} />
         <Route path="/connect" element={<Connect setToken={setToken} />} />
-        <Route path="/create-account" element={<CreateAccount />} />
+        <Route path="/create-account" element={<Register />} />
         <Route path="/create-event" element={<CreateEvent />} />
         <Route path="/create-race" element={<CreateRace />} />
         <Route path="/agenda" element={<Agenda />} />
