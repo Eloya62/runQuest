@@ -38,7 +38,7 @@ function Events() {
   ];
 
   return (
-    <div className="max-h-700 overflow-scroll custom-scrollbar">
+    <div className="max-h-600 overflow-scroll custom-scrollbar">
       {events.map((event) => (
         <Event
           title={event.title}
