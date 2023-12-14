@@ -18,7 +18,7 @@ function register($firstname, $lastname, $dateBirth, $password, $email) {
         return;
     }
     // Check if username already exists
-    $sql = "SELECT * FROM users WHERE email = ?";
+    $sql = "SELECT * FROM utilisateur WHERE email = ?";
     $conn = new PDO("mysql:host=35.241.200.39;dbname=runquest", "root", "bku23456drz");
     $stmt = $conn->prepare($sql);
     $stmt->bindParam(1, $email);
@@ -40,7 +40,7 @@ function register($firstname, $lastname, $dateBirth, $password, $email) {
         // Hash password
         $password = password_hash($password, PASSWORD_DEFAULT);
         // Insert new user into database
-        $sql = "INSERT INTO users (firstName, lastName, password, email, dateBirth) VALUES (?, ?, ?, ?, ?)";
+        $sql = "INSERT INTO utilisateur (firstName, lastName, password, email, dateBirth) VALUES (?, ?, ?, ?, ?)";
         $stmt = $conn->prepare($sql);
         $stmt->bindParam(1, $firstname);
         $stmt->bindParam(2, $lastname);
