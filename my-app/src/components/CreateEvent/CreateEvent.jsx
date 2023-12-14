@@ -20,11 +20,11 @@ export const CreateEvent = () => {
   
     const data = new FormData();
     // TODO : check values and add admin or organiser name
-    data.append('eventName', eventName);
-    data.append('dateBegin', dateBegin);
-    data.append('dateEnding', dateEnding);
-    data.append('department', department); 
-    data.append('description', description);
+    data.append('nom_event', eventName);
+    data.append('date_debut', dateBegin);
+    data.append('date_fin', dateEnding);
+    data.append('departement', department); 
+    data.append('descr', description);
   
     const url = 'http://localhost:5000/create-race.php';
     axios.post(url, data)

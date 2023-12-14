@@ -1,0 +1,171 @@
+{"results": 
+[{"hits": 
+[
+    {
+        "eventId": "4deacd5f-dea9-4b2f-9c7e-79740fa1349b", 
+        "eventName": "Grand Trail des Vallons de la Vilaine", 
+        "eventSubtitle": "Loin d'\u00eatre Vilaine !", 
+        "eventShortDescription": null, 
+        "eventSlug": "grand-trail-des-vallons-de-la-vilaine", 
+        "eventBannerImage": "events/europe/france/bretagne/ille-et-vilaine/grand-trail-des-vallons-de-la-vilaine/Kavval_Grand_Trail_des_Vallons_de_la_Vilaine", 
+        "eventBannerImageCopyrightNotice": "<p><a href=\"https://stock.adobe.com/fr/contributor/210468048/anthony?load_type=author&amp;prev_url=detail\" rel=\"noopener noreferrer\" target=\"_blank\">Anthony</a></p>", 
+        "eventTags": ["utmb-world-series", "off-road", "forest", "castle", "cause", "relay", "night"], 
+        "eventPopularity": 0, 
+        "eventCityId": "85d434c4-7fb2-4666-a782-74474779b001", 
+        "editionStartDate": "2025-04-06", 
+        "editionEndDate": "2025-04-06", 
+        "editionStatus": "confirmed", 
+        "editionIsRescheduled": false, 
+        "editionHasCovidProtocol": false, 
+        "eventTitle": "Grand Trail des Vallons de la Vilaine", 
+        "_geoloc": {"lat": 47.978808, "lng": -1.721638}, 
+        "eventCity": "Laill\u00e9", 
+        "eventBoosted": true, 
+        "eventLevel1AdminArea": "Bretagne", 
+        "eventLevel2AdminArea": "Ille-et-Vilaine", 
+        "eventCountry": "France", 
+        "eventCountryCode": "FR", 
+        "eventRegistrationUrl": "https://www.klikego.com/inscription/grands-trails-des-vallons-de-la-vilaine-2023/course-a-pied-running/1559771128101-6", 
+        "region": 
+        {
+            "lvl0": "Europe", 
+            "lvl1": "Europe > France", 
+            "lvl2": "Europe > France > Bretagne", 
+            "lvl3": "Europe > France > Bretagne > Ille-et-Vilaine",
+            "lvl4": "Europe > France > Bretagne > Ille-et-Vilaine > Laill\u00e9"
+        }, 
+        "placesSlug": [], 
+        "placesName": [], 
+        "eventLastEditionFinisherCount": 0, 
+        "soldOnKavval": false, 
+        "raceId": "df7f42ae-56c1-402f-8662-d00c4c75ba59", 
+        "raceDescription": null, 
+        "raceSlug": null, 
+        "raceDiscipline": "walking", 
+        "raceLastEditionFinisherCount": null, 
+        "raceDate": 1743897600, 
+        "raceEndDate": 1743897600, 
+        "raceStatus": "confirmed", 
+        "raceElevationGain": 0, 
+        "raceElevationLoss": null, 
+        "raceItraPoints": 0, 
+        "raceDistance": 10000, 
+        "raceDistanceUnit": "meters", 
+        "raceDistanceCategory": null, 
+        "_tags": ["utmb-world-series", "off-road", "forest", "castle", "cause"], 
+        "eventMonths": [4], 
+        "raceTitle": "La Randonn\u00e9e", 
+        "raceMinPrice": null, 
+        "raceMaxPrice": null, 
+        "raceDistanceVariants": [5000, 82000, 82000, 31200], 
+        "raceDisciplineVariants": ["trail"], 
+        "objectID": "df7f42ae-56c1-402f-8662-d00c4c75ba59", 
+        "_highlightResult": 
+        {
+            "eventName": 
+            {
+                "value": "Grand Trail des Vallons de la Vilaine", 
+                "matchLevel": "none", 
+                "matchedWords": []
+            }, 
+            "eventSlug": 
+            {
+                "value": "grand-trail-des-vallons-de-la-vilaine", 
+                "matchLevel": "none", 
+                "matchedWords": []
+            }, 
+            "eventTitle": 
+            {
+                "value": "Grand Trail des Vallons de la Vilaine", 
+                "matchLevel": "none", 
+                "matchedWords": []
+            }, 
+            "eventCity": 
+            {
+                "value": "Laill\u00e9", 
+                "matchLevel": "none", 
+                "matchedWords": []
+            }, 
+            "region": 
+            {
+                "lvl0": 
+                {
+                    "value": "Europe", 
+                    "matchLevel": "none", 
+                    "matchedWords": []
+                }, 
+                "lvl1": 
+                {
+                    "value": "Europe > France", 
+                    "matchLevel": "none", 
+                    "matchedWords": []
+                }, 
+                "lvl2": 
+                {
+                    "value": "Europe > France > Bretagne", 
+                    "matchLevel": "none", 
+                    "matchedWords": []
+                }, 
+                "lvl3": 
+                {
+                    "value": "Europe > France > Bretagne > Ille-et-Vilaine", 
+                    "matchLevel": "none", 
+                    "matchedWords": []
+                }, 
+                "lvl4": 
+                {
+                    "value": "Europe > France > Bretagne > Ille-et-Vilaine > Laill\u00e9", 
+                    "matchLevel": "none", 
+                    "matchedWords": []
+                }
+            }, 
+            "raceElevationGain": 
+            {
+                "value": "0", 
+                "matchLevel": "none", 
+                "matchedWords": []
+            }, 
+            "raceItraPoints": 
+            {
+                "value": "0", 
+                "matchLevel": "none", 
+                "matchedWords": []
+            }, 
+            "raceDistance": 
+            {
+                "value": "10000", 
+                "matchLevel": "none", 
+                "matchedWords": []
+            }, 
+            "raceDistanceUnit": 
+            {
+                "value": "meters", 
+                "matchLevel": "none", 
+                "matchedWords": []
+            }, 
+            "raceDistanceVariants": 
+            [
+                {
+                    "value": "5000", 
+                    "matchLevel": "none", 
+                    "matchedWords": []
+                }, 
+                {
+                    "value": "82000", 
+                    "matchLevel": "none", 
+                    "matchedWords": []
+                }, 
+                {
+                    "value": "82000", 
+                    "matchLevel": "none", 
+                    "matchedWords": []
+                }, 
+                {
+                    "value": "31200", 
+                    "matchLevel": "none", 
+                    "matchedWords": []
+                }
+            ]
+        }
+    }
+]}]}

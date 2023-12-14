@@ -12,11 +12,13 @@ export const CreateRace = () => {
   const [longitude, setLongitude] = useState('');
   const [latitude, setLatitude] = useState('');
   const [dateStart, setDateStart] = useState('');
+  const [department, setDepartment] = useState('');
+  const [region, setRegion] = useState('');
 
   const handleSubmit = (event) => {
     event.preventDefault(); // Move this line to the beginning
   
-    if (raceName === '' || location === '' || description === '' || distance == null || posDrop == null || negDrop == null || longitude == null || latitude == null) {
+    if (raceName === '' || department === '' || region === '' || location === '' || description === '' || distance == null || posDrop == null || negDrop == null || longitude == null || latitude == null) {
       alert('Please fill out all fields');
       return;
     }
@@ -36,15 +38,17 @@ export const CreateRace = () => {
   
     const data = new FormData();
     // TODO : check values and add admin or organiser name
-    data.append('raceName', raceName);
+    data.append('nom_course', raceName);
     data.append('location', location);
-    data.append('description', description);
-    data.append('distance', distance);
-    data.append('posDrop', posDrop);
-    data.append('negDrop', negDrop);
-    data.append('longitude', longitude);
-    data.append('latitude', latitude);
-    data.append('dateStart', dateStart); //TODO check valid
+    data.append('descr', description);
+    data.append('distance_m', distance);
+    data.append('d_plus', posDrop);
+    data.append('d_minus', negDrop);
+    data.append('lon', longitude);
+    data.append('lat', latitude);
+    data.append('date_course', dateStart); //TODO check valid
+    data.append('department', department);
+    data.append('region', region);
   
     const url = 'http://localhost:5000/create-race.php';
     axios.post(url, data)
@@ -78,6 +82,8 @@ export const CreateRace = () => {
         <label>Distance : <input value={distance} onChange={(e) => setDistance(e.target.value)} type="number" step="0.01" name="distance" /></label>
         <label>Positive drop : <input value={posDrop} onChange={(e) => setPosDrop(e.target.value)} type="number" step="0.01" name="posDrop" /></label>
         <label>Negative drop : <input value={negDrop} onChange={(e) => setNegDrop(e.target.value)} type="number" step="0.01" name="negDrop" /></label>
+        <label>Region : <input value={region} onChange={(e) => setRegion(e.target.value)} type="text" name="region" /></label>
+        <label>Department : <input value={department} onChange={(e) => setDepartment(e.target.value)} type="text" name="department" /></label>
         <label>Longitude : <input value={longitude} onChange={(e) => setLongitude(e.target.value)} type="number" step="0.01" name="longitude" /></label>
         <label>Latitude : <input value={latitude} onChange={(e) => setLatitude(e.target.value)} type="number" step="0.01" name="latitude" /></label>
         <label>Location Info : <input value={location} onChange={(e) => setLocation(e.target.value)} type="text" name="location" /></label>

@@ -4,7 +4,6 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import Connect from './components/Connect/Connect';
 import Register from './components/Connect/Register';
-import Dashboard from './components/Dashboard/Dashboard';
 import Preferences from './components/Preferences/Preferences';
 import CreateEvent from './components/CreateEvent/CreateEvent';
 import CreateRace from './components/CreateRace/CreateRace';
@@ -13,13 +12,14 @@ import Favorite from './components/Favorite/Favorite';
 import App from './components/App/App';
 
 
+
+
 export default function Index() {
   const [token, setToken] = useState();
   return (
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<App />} />
-        <Route path="/dashboard" element={<Dashboard />} />
         <Route path="/preferences" element={<Preferences />} />
         <Route path="/connect" element={<Connect setToken={setToken} />} />
         <Route path="/create-account" element={<Register />} />
