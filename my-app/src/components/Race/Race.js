@@ -1,19 +1,27 @@
 import React from "react";
 import "../../General.css";
 
-function Event() {
-  return (
-      <div class="event shadow-lg">
-        <div class="m-8">
-          <div class="race__info">
-            <h2 class="race__title">Race title</h2>
-            <p class="race__description">Race description</p>
-            <p class="race__date">Race date</p>
-            <p class="race__location">Race location</p>
+function Race(props) {
+    const { title, date, location, distance } = props;
+
+    return (
+        <div className="race shadow-md p-2 m-2 bg-white">
+          <div className="m-4">
+            <div className="race__info flex justify-between">
+              <div>
+                <h2 className="race__title"><b>{title}</b></h2>
+                <p className="race__location">{location}</p>
+              </div>
+              <div>
+                <p className="race__date">{date}</p>
+                <p className="race__distance">{distance}</p>
+              </div>
+              
+            </div>
           </div>
         </div>
-      </div>
-  );
+  
+    );
 }
 
-export default Event;
+export default Race;
