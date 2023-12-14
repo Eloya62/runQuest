@@ -30,7 +30,9 @@ export const Connect = () => {
       default:
         setErrMsg("Login failed; Please contact an administrator at admin@example.com");
     };
-    setErrMsg(error.status+ "HMMM");
+    if (error.error) {
+      setErrMsg(error.error);
+    }
     
     errRef.current.scrollIntoView({ behavior: "smooth" });
     errRef.current.focus();
