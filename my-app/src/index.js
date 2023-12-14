@@ -11,7 +11,6 @@ import CreateRace from './components/CreateRace/CreateRace';
 import Agenda from './components/Agenda/Agenda';
 import Favorite from './components/Favorite/Favorite';
 import App from './components/App/App';
-import Map from './components/Map/map';
 
 
 export default function Index() {
@@ -28,7 +27,6 @@ export default function Index() {
         <Route path="/create-race" element={<CreateRace />} />
         <Route path="/agenda" element={<Agenda />} />
         <Route path="/favorite" element={<Favorite />} />
-        <Route path="/map" element={<Map />} />
       </Routes>
     </BrowserRouter>
   );
