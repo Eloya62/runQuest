@@ -10,18 +10,17 @@ import CreateRace from './components/CreateRace/CreateRace';
 import Agenda from './components/Agenda/Agenda';
 import Favorite from './components/Favorite/Favorite';
 import App from './components/App/App';
-
+import { AuthProvider } from './components/Context/AppContext';
 
 
 
 export default function Index() {
-  const [token, setToken] = useState();
   return (
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<App />} />
         <Route path="/preferences" element={<Preferences />} />
-        <Route path="/connect" element={<Connect setToken={setToken} />} />
+        <Route path="/connect" element={<Connect />} />
         <Route path="/create-account" element={<Register />} />
         <Route path="/create-event" element={<CreateEvent />} />
         <Route path="/create-race" element={<CreateRace />} />
@@ -32,4 +31,8 @@ export default function Index() {
   );
 }
 const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(<Index />);
+root.render(
+  <AuthProvider>
+    <Index />
+  </AuthProvider>
+);
