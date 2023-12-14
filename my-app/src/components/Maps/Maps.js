@@ -1,16 +1,19 @@
 import React, { useState } from 'react';
 import { withScriptjs, withGoogleMap, GoogleMap, Marker } from "react-google-maps";
 
+let latitude;
+let longitude;
+
+
 const MyMapComponent = withScriptjs(withGoogleMap((props) =>
   <GoogleMap
     defaultZoom={8}
-    defaultCenter={{ lat: -34.397, lng: 150.644 }}
+    defaultCenter={{ lat: latitude, lng: longitude }}
   >
-    {props.isMarkerShown && <Marker position={{ lat: -34.397, lng: 150.644 }} />}
   </GoogleMap>
 ))
 
-class Map extends React.Component {
+class Maps extends React.Component {
     render() {
       return (
         <div className="App">
@@ -26,3 +29,26 @@ class Map extends React.Component {
     }
   }
 export default Map;
+
+function Map () {
+  if (navigator.geolocation) {
+    // L'API de géolocalisation est disponible
+    navigator.geolocation.getCurrentPosition(
+      function(position) {
+        // Récupérer les coordonnées
+        latitude = position.coords.latitude;
+        longitude = position.coords.longitude;
+  
+        // Faire quelque chose avec les coordonnées
+        console.log(`Latitude: ${latitude}, Longitude: ${longitude}`);
+      },
+      function(error) {
+        // Gestion des erreurs
+        latitude =  48.8566;
+        longitude = 2.3522 ;
+      }
+    );
+  };
+  let map = new Maps();
+  return map;
+}
