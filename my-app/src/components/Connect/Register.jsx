@@ -61,7 +61,8 @@ export const Register = () => {
   };
 
   return (
-    <section class="bg-gray-50 dark:bg-gray-900 h-screen">
+    <div class="bg-gray-50 dark:bg-gray-900 h-screen">
+    <section>
       <div class="flex flex-col items-center justify-center px-6 py-6 mx-auto md:h-screen lg:py-0">
         <a
           href="#"
@@ -205,6 +206,7 @@ export const Register = () => {
         </div>
       </div>
     </section>
+    </div>
   );
 };
 
