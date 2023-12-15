@@ -7,7 +7,7 @@ header("Access-Control-Allow-Headers: Content-Type");
 if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
     // Handle invalid request
     http_response_code(403); // Forbidden
-    echo 'Invalid request method';
+    echo ('Invalid request method');
     exit();
 }
 
@@ -17,7 +17,7 @@ function create_event($nom_event, $date_debut, $date_fin, $ville, $descr, $depar
         echo json_encode($response);
         return;
     }
-    $sqldpt = "SELECT * FROM departement WHERE nom_dpt = ?";
+    $sqldpt = "SELECT id_dpt FROM departement WHERE nom_dpt = ?";
     $conn = new PDO("mysql:host=35.241.200.39;dbname=runquest", "root", "bku23456drz");
     $stmtdpt = $conn->prepare($sqldpt);
     $stmtdpt->bindParam(1, $departement);
@@ -29,11 +29,7 @@ function create_event($nom_event, $date_debut, $date_fin, $ville, $descr, $depar
         echo "Error executing SELECT query: {$errorInfo[2]}";
         exit();
     }
-    if ($stmtdpt->rowCount() > 0) {
-        //get id of dpt
-        $id_dpt = 0;
-    }
-    else {
+    if ($stmtdpt->rowCount() == 0) {
         $conn = null;
         $response = array("error" => "Department doesn't exist.");
         echo json_encode($response);
@@ -41,14 +37,14 @@ function create_event($nom_event, $date_debut, $date_fin, $ville, $descr, $depar
     }
 
     // Check if event already exists
-    $sql = "SELECT * FROM evenement WHERE nom_event = ? and date_debut = ? and date_fin = ? and ville = ? and departement = ?";
-    $conn = new PDO("mysql:host=35.241.200.39;dbname=runquest", "root", "bku23456drz");
+    //$sql = "SELECT * FROM evenement WHERE ((nom_event = ?) and (date_debut = ?) and (date_fin = ?) and (ville = ?) and (departement = ?))";
+    $sql = "SELECT * FROM evenement WHERE ((nom_event = ?) and (date_debut = ?) and (date_fin = ?) and (ville = ?))";
     $stmt = $conn->prepare($sql);
     $stmt->bindParam(1, $nom_event);
     $stmt->bindParam(2, $date_debut);
     $stmt->bindParam(3, $date_fin);
     $stmt->bindParam(4, $ville);
-    $stmt->bindParam(5, $id_dpt);
+    //$stmt->bindParam(5, "Aude");
     $stmt->execute();
     // Check for errors in the SELECT query
     if ($stmt->errorCode() != '00000') {
@@ -71,8 +67,7 @@ function create_event($nom_event, $date_debut, $date_fin, $ville, $descr, $depar
         $stmt->bindParam(3, $date_fin);
         $stmt->bindParam(4, $ville);
         $stmt->bindParam(5, $descr);
-        $stmt->bindParam(6, $id_dpt);
-
+        $stmt->bindParam(6, $departement);
         if ($stmt->execute() === TRUE) {
             $response = array("success" => "Event registered successfully.");
         } else {

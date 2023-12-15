@@ -13,7 +13,7 @@ export const CreateEvent = () => {
   const handleSubmit = (event) => {
     event.preventDefault(); // Move this line to the beginning
   
-    if (eventName === '' || department === '' || description === '' || dateBegin == null || dateEnding == null) {
+    if (eventName === '' || department === '' || ville === '' || description === '' || dateBegin == null || dateEnding == null) {
       alert('Please fill out all fields');
       return;
     }
