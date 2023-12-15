@@ -7,6 +7,11 @@ form{
   flex-direction: column;
 }
 
+.submit-button:hover{
+  background-color: #2563EB!important;
+  color: white!important;
+}
+
 .login-wrapper {
   display: flex;
   flex-direction: column;
@@ -18,7 +23,7 @@ form{
 }
 
 .custom-scrollbar::-webkit-scrollbar-thumb {
-  background-color: #4f4f4f; /* Couleur de la barre de défilement */
+  background-color: #F68E25; /* Couleur de la barre de défilement */
   border-radius: 10px;
 }
 

@@ -102,130 +102,134 @@ export const CreateRace = () => {
       <div className="Connect" class="m-10 shadow-lg p-8 bg-white">
         <p class="mb-4 text-xl"><b>Créer une course</b></p>
         <form
-          class="flex flex-row  justify-start space-x-4 content-center items-center space-y-4 flex-wrap p-4 my-4 shadow-inner drop-shadow-md"
+          class=" p-4 my-4 shadow-inner drop-shadow-md"
           onSubmit={handleSubmit}
         >
-          <label class=" ml-4 mt-4">
-            Nom de la course :{" "}
-            <input
-              value={raceName}
-              class="rounded-md border-solid border-2"
-              onChange={(e) => setRaceName(e.target.value)}
-              type="text"
-              name="raceName"
-            />
-          </label>
-          <label >
-            Date de début :{" "}
-            <input
-              value={dateStart}
-              class="rounded-md border-solid border-2"
-              onChange={(e) => setDateStart(e.target.value)}
-              type="date"
-              name="startDate"
-            />
-          </label>
-          <label >
-            Distance :{" "}
-            <input
-              value={distance}
-              class="rounded-md border-solid border-2"
-              onChange={(e) => setDistance(e.target.value)}
-              type="number"
-              step="0.01"
-              name="distance"
-            />
-          </label>
-          <label>
-            Dénivelé positif :{" "}
-            <input
-              value={posDrop}
-              class="rounded-md border-solid border-2"
-              onChange={(e) => setPosDrop(e.target.value)}
-              type="number"
-              step="0.01"
-              name="posDrop"
-            />
-          </label>
-          <label>
-            Dénivelé négatif :{" "}
-            <input
-              value={negDrop}
-              class="rounded-md border-solid border-2"
-              onChange={(e) => setNegDrop(e.target.value)}
-              type="number"
-              step="0.01"
-              name="negDrop"
-            />
-          </label>
-          <label>
-            Région :{" "}
-            <input
-              value={region}
-              class="rounded-md border-solid border-2"
-              onChange={(e) => setRegion(e.target.value)}
-              type="text"
-              name="region"
-            />
-          </label>
-          <label>
-            Département :{" "}
-            <input
-              value={department}
-              class="rounded-md border-solid border-2"
-              onChange={(e) => setDepartment(e.target.value)}
-              type="text"
-              name="department"
-            />
-          </label>
-          <label>
-            Longitude :{" "}
-            <input
-              value={longitude}
-              class="rounded-md border-solid border-2"
-              onChange={(e) => setLongitude(e.target.value)}
-              type="number"
-              step="0.01"
-              name="longitude"
-            />
-          </label>
-          <label>
-            Latitude :{" "}
-            <input
-              value={latitude}
-              class="rounded-md border-solid border-2"
-              onChange={(e) => setLatitude(e.target.value)}
-              type="number"
-              step="0.01"
-              name="latitude"
-            />
-          </label>
-          <label>
-            Location Info :{" "}
-            <input
-              value={location}
-              class="rounded-md border-solid border-2"
-              onChange={(e) => setLocation(e.target.value)}
-              type="text"
-              name="location"
-            />
-          </label>
-          <label>
-            Description :{" "}
-            <input
-              value={description}
-              class="rounded-md border-solid border-2"
-              onChange={(e) => setDescription(e.target.value)}
-              type="text"
-              name="description"
-            />
-          </label>
-          <button
-            type="submit"
-            class="m-1 border-solid border-2 border-blue-600 text-blue-600 rounded-xl p-1 px-4 hover:text-sky-500 hover:border-sky-500"
-          >
-            Créer
-          </button>
+          <div class="flex flex-row  justify-start space-x-4 content-center items-center space-y-4 flex-wrap">
+            <label class=" ml-4 mt-4">
+              Nom de la course :{" "}
+              <input
+                value={raceName}
+                class="rounded-md border-solid border-2"
+                onChange={(e) => setRaceName(e.target.value)}
+                type="text"
+                name="raceName"
+              />
+            </label>
+            <label >
+              Date de début :{" "}
+              <input
+                value={dateStart}
+                class="rounded-md border-solid border-2"
+                onChange={(e) => setDateStart(e.target.value)}
+                type="date"
+                name="startDate"
+              />
+            </label>
+            <label >
+              Distance :{" "}
+              <input
+                value={distance}
+                class="rounded-md border-solid border-2"
+                onChange={(e) => setDistance(e.target.value)}
+                type="number"
+                step="0.01"
+                name="distance"
+              />
+            </label>
+            <label>
+              Dénivelé positif :{" "}
+              <input
+                value={posDrop}
+                class="rounded-md border-solid border-2"
+                onChange={(e) => setPosDrop(e.target.value)}
+                type="number"
+                step="0.01"
+                name="posDrop"
+              />
+            </label>
+            <label>
+              Dénivelé négatif :{" "}
+              <input
+                value={negDrop}
+                class="rounded-md border-solid border-2"
+                onChange={(e) => setNegDrop(e.target.value)}
+                type="number"
+                step="0.01"
+                name="negDrop"
+              />
+            </label>
+            <label>
+              Région :{" "}
+              <input
+                value={region}
+                class="rounded-md border-solid border-2"
+                onChange={(e) => setRegion(e.target.value)}
+                type="text"
+                name="region"
+              />
+            </label>
+            <label>
+              Département :{" "}
+              <input
+                value={department}
+                class="rounded-md border-solid border-2"
+                onChange={(e) => setDepartment(e.target.value)}
+                type="text"
+                name="department"
+              />
+            </label>
+            <label>
+              Longitude :{" "}
+              <input
+                value={longitude}
+                class="rounded-md border-solid border-2"
+                onChange={(e) => setLongitude(e.target.value)}
+                type="number"
+                step="0.01"
+                name="longitude"
+              />
+            </label>
+            <label>
+              Latitude :{" "}
+              <input
+                value={latitude}
+                class="rounded-md border-solid border-2"
+                onChange={(e) => setLatitude(e.target.value)}
+                type="number"
+                step="0.01"
+                name="latitude"
+              />
+            </label>
+            <label>
+              Location Info :{" "}
+              <input
+                value={location}
+                class="rounded-md border-solid border-2"
+                onChange={(e) => setLocation(e.target.value)}
+                type="text"
+                name="location"
+              />
+            </label>
+          </div>
+          <div class="mt-8">
+            <label>
+              Description :{" "}
+              <textarea
+                value={description}
+                class="rounded-md border-solid border-2 w-full h-32"
+                onChange={(e) => setDescription(e.target.value)}
+                type="text"
+                name="description"
+              />
+            </label>
+            <button
+              type="submit"
+              class="m-1 border-solid border-2 border-blue-600 text-blue-600 rounded-xl p-1 px-4 hover:text-sky-500 hover:border-sky-500"
+            >
+              Créer
+            </button>
+          </div>
         </form>
       </div>
     </div>

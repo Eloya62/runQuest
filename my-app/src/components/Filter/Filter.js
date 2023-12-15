@@ -102,7 +102,7 @@ function Filter(props) {
             </label>
             <button
               type="submit"
-              class="m-1 border-solid border-2 border-blue-600 text-blue-600 rounded-xl p-1 px-4 hover:text-sky-500 hover:border-sky-500"
+              class="m-1 border-solid border-2 border-blue-600 text-blue-600 rounded-xl p-1 px-4 submit-button"
             >
               valider
             </button>
@@ -152,7 +152,7 @@ function Filter(props) {
             </label>
             <button
               type="submit"
-              class="m-1 border-solid border-2 border-blue-600 text-blue-600 rounded-xl p-1 px-4 hover:text-sky-500 hover:border-sky-500"
+              class="m-1 border-solid border-2 border-blue-600 text-blue-600 rounded-xl p-1 px-4 submit-button"
             >
               valider
             </button>

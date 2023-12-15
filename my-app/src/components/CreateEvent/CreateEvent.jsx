@@ -64,65 +64,69 @@ export const CreateEvent = () => {
         <p class="mb-4 text-xl"><b>Créer un évènement</b></p>
 
         <form
-          class="flex flex-row justify-start content-center items-center space-x-4 space-y-4 flex-wrap p-2 my-2 shadow-inner drop-shadow-md"
+          class=" p-2 my-2 shadow-inner drop-shadow-md"
           onSubmit={handleSubmit}
         >
-          <label class=" ml-4 mt-4">
-            Nom de l'évènement :{" "}
-            <input
-              value={eventName}
-              onChange={(e) => setEventName(e.target.value)}
-              type="text"
-              name="eventName"
-              class="rounded-md border-solid border-2"
-            />
-          </label>
-          <label>
-            Date de début:{" "}
-            <input
-              value={dateBegin}
-              onChange={(e) => setDateBegin(e.target.value)}
-              type="date"
-              name="dateBegin"
-              class=" rounded-md border-solid border-2"
-            />
-          </label>
-          <label>
-            Date de fin :{" "}
-            <input
-              value={dateEnding}
-              onChange={(e) => setDateEnding(e.target.value)}
-              type="date"
-              name="dateEnding"
-              class=" rounded-md border-solid border-2"
-            />
-          </label>
-          <label>
-            Département :{" "}
-            <input
-              value={department}
-              onChange={(e) => setDepartment(e.target.value)}
-              type="text"
-              name="department"
-              class=" rounded-md border-solid border-2"
-            />
-          </label>
-          <label>
-            Description :{" "}
-            <input
-              value={description}
-              onChange={(e) => setDescription(e.target.value)}
-              type="text"
-              name="description"
-              class=" rounded-md border-solid border-2"
-            />
-          </label>
-          <button
-            type="submit"
-            class="m-1 border-solid border-2 border-blue-600 text-blue-600 rounded-xl p-1 px-4 hover:text-sky-500 hover:border-sky-500"
-          >
-            Créer
-          </button>
+          <div class="flex flex-row justify-start content-center items-center space-x-4 space-y-4 flex-wrap">
+            <label class=" ml-4 mt-4">
+              Nom de l'évènement :{" "}
+              <input
+                value={eventName}
+                onChange={(e) => setEventName(e.target.value)}
+                type="text"
+                name="eventName"
+                class="rounded-md border-solid border-2"
+              />
+            </label>
+            <label>
+              Date de début:{" "}
+              <input
+                value={dateBegin}
+                onChange={(e) => setDateBegin(e.target.value)}
+                type="date"
+                name="dateBegin"
+                class=" rounded-md border-solid border-2"
+              />
+            </label>
+            <label>
+              Date de fin :{" "}
+              <input
+                value={dateEnding}
+                onChange={(e) => setDateEnding(e.target.value)}
+                type="date"
+                name="dateEnding"
+                class=" rounded-md border-solid border-2"
+              />
+            </label>
+            <label>
+              Département :{" "}
+              <input
+                value={department}
+                onChange={(e) => setDepartment(e.target.value)}
+                type="text"
+                name="department"
+                class=" rounded-md border-solid border-2"
+              />
+            </label>
+          </div>
+          <div class="mt-8">
+            <label>
+              Description :{" "}
+              <textarea
+                value={description}
+                onChange={(e) => setDescription(e.target.value)}
+                type="text"
+                name="description"
+                class=" rounded-md border-solid border-2 w-full h-32"
+              />
+            </label>
+            <button
+              type="submit"
+              class="m-1 border-solid border-2 border-blue-600 text-blue-600 rounded-xl p-1 px-4 hover:text-sky-500 hover:border-sky-500"
+            >
+              Créer
+            </button>
+          </div>
         </form>
       </div>
     </div>

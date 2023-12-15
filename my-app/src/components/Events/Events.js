@@ -8,6 +8,81 @@ function Events() {
       title: "Event title1",
       dateBegin: "10/11/2021",
       location: "Bègles (33)",
+      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod, nisl eget aliquam ultricies, nunc nisl ultricies nunc, vitae ultri",
+      races : [
+        {
+          title: "Race title1",
+          date: "10/11/2021",
+          location: "Bègles (33)",
+          distance: "5km",
+          positiveElevation: "100m",
+          negativeElevation: "100m",
+        },
+        {
+          title: "Race title2",
+          date: "20/11/2021",
+          location: "Toulouse (31)",
+          distance: "10km",
+          positiveElevation: "200m",
+          negativeElevation: "200m",
+        },
+        {
+            title: "Race title3",
+            date: "30/11/2021",
+            location: "Agen (47)",
+            distance: "15km",
+            positiveElevation: "300m",
+            negativeElevation: "300m",
+        },
+        {
+          title: "Race title5",
+          date: "10/11/2021",
+          location: "Bègles (33)",
+          distance: "5km",
+          positiveElevation: "100m",
+          negativeElevation: "100m",
+        },
+        {
+          title: "Race title2",
+          date: "20/11/2021",
+          location: "Toulouse (31)",
+          distance: "10km",
+          positiveElevation: "200m",
+          negativeElevation: "200m",
+        },
+        {
+            title: "Race title3",
+            date: "30/11/2021",
+            location: "Agen (47)",
+            distance: "15km",
+            positiveElevation: "300m",
+            negativeElevation: "300m",
+        },
+        {
+          title: "Race title1",
+          date: "10/11/2021",
+          location: "Bègles (33)",
+          distance: "5km",
+          positiveElevation: "100m",
+          negativeElevation: "100m",
+        },
+        {
+          title: "Race title2",
+          date: "20/11/2021",
+          location: "Toulouse (31)",
+          distance: "10km",
+          positiveElevation: "200m",
+          negativeElevation: "200m",
+        },
+        {
+            title: "Race title3",
+            date: "30/11/2021",
+            location: "Agen (47)",
+            distance: "15km",
+            positiveElevation: "300m",
+            negativeElevation: "300m",
+        },
+      ]
     },
     {
       title: "Event title2",
@@ -41,9 +116,7 @@ function Events() {
     <div class="overflow-y-auto custom-scrollbar max-h-96 shadow-inner">
       {events.map((event) => (
         <Event
-          title={event.title}
-          dateBegin={event.dateBegin}
-          location={event.location}
+          props={event}
         ></Event>
       ))}
     </div>

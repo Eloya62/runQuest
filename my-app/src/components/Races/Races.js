@@ -11,6 +11,10 @@ function Races() {
       distance: "5km",
       positiveElevation: "100m",
       negativeElevation: "100m",
+      longitude: "44.815",
+      latitude: "-0.548",
+      description:
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod, nisl eget aliquam ultricies, nunc nisl ultricies nunc, vitae aliquam ni",
     },
     {
       title: "Race title2",
@@ -19,25 +23,28 @@ function Races() {
       distance: "10km",
       positiveElevation: "200m",
       negativeElevation: "200m",
+      longitude: "43.604",
+      latitude: "1.444",
+      description:
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod, nisl eget aliquam ultricies, nunc nisl ultricies nunc, vitae aliquam ni",
     },
     {
-        title: "Race title3",
-        date: "30/11/2021",
-        location: "Agen (47)",
-        distance: "15km",
-        positiveElevation: "300m",
-        negativeElevation: "300m",
-    }
+      title: "Race title3",
+      date: "30/11/2021",
+      location: "Agen (47)",
+      distance: "15km",
+      positiveElevation: "300m",
+      negativeElevation: "300m",
+      longitude: "44.203",
+      latitude: "0.616",
+      description:
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod, nisl eget aliquam ultricies, nunc nisl ultricies nunc, vitae aliquam ni",
+    },
   ];
   return (
     <div class="overflow-y-auto custom-scrollbar max-h-96 shadow-inner">
       {races.map((race) => (
-        <Race
-          title={race.title}
-          date={race.date}
-          location={race.location}
-          distance={race.distance}
-        ></Race>
+        <Race props={race}></Race>
       ))}
     </div>
   );
