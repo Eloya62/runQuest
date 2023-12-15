@@ -104,7 +104,7 @@ function Filter(props) {
               type="submit"
               class="m-1 border-solid border-2 border-blue-600 text-blue-600 rounded-xl p-1 px-4 submit-button"
             >
-              valider
+              Valider
             </button>
           </form>
         </div>
@@ -154,7 +154,7 @@ function Filter(props) {
               type="submit"
               class="m-1 border-solid border-2 border-blue-600 text-blue-600 rounded-xl p-1 px-4 submit-button"
             >
-              valider
+              Valider
             </button>
           </form>
         </div>
