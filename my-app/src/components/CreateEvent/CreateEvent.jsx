@@ -7,6 +7,7 @@ export const CreateEvent = () => {
   const [eventName, setEventName] = useState("");
   const [dateBegin, setDateBegin] = useState("");
   const [dateEnding, setDateEnding] = useState("");
+  const [ville, setVille] = useState("");
   const [department, setDepartment] = useState("");
   const [description, setDescription] = useState("");
 
@@ -16,6 +17,7 @@ export const CreateEvent = () => {
     if (
       eventName === "" ||
       department === "" ||
+      ville === "" ||
       description === "" ||
       dateBegin == null ||
       dateEnding == null
@@ -30,10 +32,11 @@ export const CreateEvent = () => {
     data.append("nom_event", eventName);
     data.append("date_debut", dateBegin);
     data.append("date_fin", dateEnding);
+    data.append("ville", ville);
     data.append("departement", department);
     data.append("descr", description);
 
-    const url = "http://localhost:5000/create-race.php";
+    const url = "http://localhost:5000/create-event.php";
     axios
       .post(url, data)
       .then((response) => {
@@ -61,7 +64,9 @@ export const CreateEvent = () => {
     <div>
       <NavBar></NavBar>
       <div className="Connect" class="m-10 shadow-lg p-8 bg-white">
-        <p class="mb-4 text-xl"><b>Créer un évènement</b></p>
+        <p class="mb-4 text-xl">
+          <b>Créer un évènement</b>
+        </p>
 
         <form
           class=" p-2 my-2 shadow-inner drop-shadow-md"
@@ -95,6 +100,16 @@ export const CreateEvent = () => {
                 onChange={(e) => setDateEnding(e.target.value)}
                 type="date"
                 name="dateEnding"
+                class=" rounded-md border-solid border-2"
+              />
+            </label>
+            <label>
+              Ville :{" "}
+              <input
+                value={ville}
+                onChange={(e) => setVille(e.target.value)}
+                type="text"
+                name="ville"
                 class=" rounded-md border-solid border-2"
               />
             </label>
