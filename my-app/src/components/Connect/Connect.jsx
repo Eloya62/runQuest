@@ -1,14 +1,68 @@
-import React, {useState} from "react";
+import React, { useState, useRef, useEffect } from "react";
 import "../../General.css";
 
 export const Connect = () => {
+  const userRef = useRef();
+  const errRef = useRef();
+
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
+  const [errMsg, setErrMsg] = useState("");
+
+
+  useEffect(() => {
+    setErrMsg("");
+  }, [email, password]);
+
+  function handleErrors(error) {
+    switch (error.status) {
+      case 400:
+        setErrMsg("Missing username or password");
+        break;
+      case 401:
+        setErrMsg("Unauthorized");
+        break;
+      case 403:
+        setErrMsg("Forbidden");
+        break;
+      default:
+        setErrMsg("Login failed; Please contact an administrator at admin@example.com");
+    };
+    if (error.error) {
+      setErrMsg(error.error);
+    }
+    
+    errRef.current.scrollIntoView({ behavior: "smooth" });
+    errRef.current.focus();
+  };
 
   const handleSubmit = (event) => {
     event.preventDefault();
-    const data = new FormData(event.target);
-    console.log(data);
+    if (email === "" || password === "") {
+      setErrMsg("Veuillez remplir tous les champs");
+      return;
+    }
+    const data = new FormData();
+    data.append("email", email);
+    data.append("password", password);
+    const url = "http://localhost:5000/login.php";
+    fetch(url, {
+      method: "POST",
+      body: data,
+    })
+      .then((response) => response.json())
+      .then((response) => {
+        if (response.error) {
+          handleErrors(response);
+        } else {
+          setErrMsg("Logged in !");
+          localStorage.setItem("role", response.role);
+          window.location.href = "/";
+        }
+      })
+      .catch((error) => {
+        handleErrors(error);
+      });
   }
   return (
     <section class="bg-gray-50 dark:bg-gray-900">
@@ -29,7 +83,8 @@ export const Connect = () => {
             <h1 class="text-xl font-bold leading-tight tracking-tight text-gray-900 md:text-2xl dark:text-white">
               Connexion à ton compte
             </h1>
-            <form class="space-y-4 md:space-y-6" action="#">
+            <h1 ref={errRef} class={(errMsg ? "errMsg" : "hidden") + " " + "font-bold text-red-500 border-solid border-2 rounded-full border-red-600 text-center max-w-max break-words px-5"}>{errMsg}</h1>
+            <form onSubmit={handleSubmit} class="space-y-4 md:space-y-6" action="#">
               <div>
                 <label
                   for="email"
@@ -40,6 +95,7 @@ export const Connect = () => {
                 <input
                   type="email"
                   name="email"
+                  ref={userRef}
                   value={email}
                   onChange={(e) => setEmail(e.target.value)}
                   id="email"
@@ -60,6 +116,7 @@ export const Connect = () => {
                 <input
                   type="password"
                   name="password"
+                  ref={userRef}
                   value={password}
                   onChange={(e) => setPassword(e.target.value)}
                   id="password"
@@ -99,7 +156,7 @@ export const Connect = () => {
                 type="submit"
                 class="w-full text-white bg-primary-600 hover:bg-primary-700 focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800"
               >
-                Connexion
+                <input type="submit" value="Connexion" />
               </button>
               <p class="text-sm font-light text-gray-500 dark:text-gray-400">
                 Vous n'avez pas de compte ?{" "}
