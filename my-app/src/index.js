@@ -10,6 +10,9 @@ import CreateRace from './components/CreateRace/CreateRace';
 import Agenda from './components/Agenda/Agenda';
 import Favorite from './components/Favorite/Favorite';
 import App from './components/App/App';
+import EventDetails from './components/EventDetails/EventDetails';
+import RaceDetails from './components/RaceDetails/RaceDetails';
+
 
 
 
@@ -27,6 +30,8 @@ export default function Index() {
         <Route path="/create-race" element={<CreateRace />} />
         <Route path="/agenda" element={<Agenda />} />
         <Route path="/favorite" element={<Favorite />} />
+        <Route path="/event-details" element={<EventDetails />} />
+        <Route path="/race-details" element={<RaceDetails />} />
       </Routes>
     </BrowserRouter>
   );
