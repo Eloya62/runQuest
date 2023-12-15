@@ -13,7 +13,7 @@ import App from './components/App/App';
 import EventDetails from './components/EventDetails/EventDetails';
 import RaceDetails from './components/RaceDetails/RaceDetails';
 
-
+import '@fortawesome/fontawesome-svg-core/styles.css';
 
 
 export default function Index() {
