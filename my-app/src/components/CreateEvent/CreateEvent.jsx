@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect, useRef} from "react";
 import "../../General.css";
 import axios from "axios";
 import NavBar from "../NavBar/NavBar";
@@ -10,6 +10,46 @@ export const CreateEvent = () => {
   const [ville, setVille] = useState("");
   const [department, setDepartment] = useState("");
   const [description, setDescription] = useState("");
+  const date = new Date().toISOString().slice(0, 10);
+  const [errMsg, setErrMsg] = useState("");
+  const errRef = useRef();
+
+
+  useEffect(() => {
+    setErrMsg("");
+  }, []);
+
+  function handleErrors(error) {
+    switch (error.status) {
+      case 400:
+        setErrMsg("Missing username or password");
+        break;
+      case 401:
+        setErrMsg("Unauthorized");
+        break;
+      case 403:
+        setErrMsg("Forbidden");
+        break;
+      default:
+        setErrMsg("Login failed; Please contact an administrator at admin@example.com");
+    };
+    if (error.error) {
+      setErrMsg(error.error);
+    }
+    
+    errRef.current.scrollIntoView({ behavior: "smooth" });
+    errRef.current.focus();
+  };
+  
+  useEffect(() => {
+    if (dateBegin == null) {
+      setDateBegin(date);
+      setDateEnding(date);
+    }
+    if (dateEnding < dateBegin) {
+      setDateEnding(dateBegin);
+    }
+  }, [dateBegin]);
 
   const handleSubmit = (event) => {
     event.preventDefault(); // Move this line to the beginning
@@ -40,23 +80,28 @@ export const CreateEvent = () => {
     axios
       .post(url, data)
       .then((response) => {
-        // Access the response data
-        const responseData = response.data;
-
-        // Check if there is an error
-        if (responseData.error) {
-          alert(responseData.error);
+        if (response.data.error) {
+          handleErrors(response.data);
         } else {
-          // Registration was successful
-          alert(responseData.success);
+          // Access the response data
+          const responseData = response.data;
 
-          // Redirect to another page (you can replace the URL below)
-          window.location.href = "/create-event";
+          // Check if there is an error
+          if (responseData.error) {
+            alert(responseData.error);
+          } else {
+            // Registration was successful
+            alert(responseData.success);
+
+            // Redirect to another page (you can replace the URL below)
+            window.location.href = "/create-event";
+          }
         }
       })
       .catch((error) => {
         // Handle the error
         console.error("An error occurred:", error);
+        setErrMsg("An error occurred:", error);
       });
   };
 
@@ -67,6 +112,8 @@ export const CreateEvent = () => {
         <p class="mb-4 text-xl">
           <b>Créer un évènement</b>
         </p>
+        <h1 ref={errRef} class={(errMsg ? "errMsg" : "hidden") + " " + "font-bold text-red-500 border-solid border-2 rounded-full border-red-600 text-center max-w-max break-words px-5"}>{errMsg}</h1>
+            
 
         <form
           class=" p-2 my-2 shadow-inner drop-shadow-md"
@@ -91,6 +138,7 @@ export const CreateEvent = () => {
                 type="date"
                 name="dateBegin"
                 class=" rounded-md border-solid border-2"
+                min={date}
               />
             </label>
             <label>
@@ -101,6 +149,7 @@ export const CreateEvent = () => {
                 type="date"
                 name="dateEnding"
                 class=" rounded-md border-solid border-2"
+                min={dateBegin}
               />
             </label>
             <label>

@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useRef, useEffect } from "react";
 import "../../General.css";
 import axios from "axios";
 import NavBar from "../NavBar/NavBar";
@@ -15,6 +15,37 @@ export const CreateRace = () => {
   const [dateStart, setDateStart] = useState("");
   const [department, setDepartment] = useState("");
   const [region, setRegion] = useState("");
+  const date = new Date().toISOString().slice(0, 10);
+
+  const [errMsg, setErrMsg] = useState("");
+  const errRef = useRef();
+
+
+  useEffect(() => {
+    setErrMsg("");
+  }, []);
+
+  function handleErrors(error) {
+    switch (error.status) {
+      case 400:
+        setErrMsg("Missing username or password");
+        break;
+      case 401:
+        setErrMsg("Unauthorized");
+        break;
+      case 403:
+        setErrMsg("Forbidden");
+        break;
+      default:
+        setErrMsg("Login failed; Please contact an administrator at admin@example.com");
+    };
+    if (error.error) {
+      setErrMsg(error.error);
+    }
+    
+    errRef.current.scrollIntoView({ behavior: "smooth" });
+    errRef.current.focus();
+  };
 
   const handleSubmit = (event) => {
     event.preventDefault(); // Move this line to the beginning
@@ -76,18 +107,22 @@ export const CreateRace = () => {
     axios
       .post(url, data)
       .then((response) => {
-        // Access the response data
-        const responseData = response.data;
-
-        // Check if there is an error
-        if (responseData.error) {
-          alert(responseData.error);
+        if (response.data.error) {
+          handleErrors(response.data);
         } else {
-          // Registration was successful
-          alert(responseData.success);
+          // Access the response data
+          const responseData = response.data;
 
-          // Redirect to another page (you can replace the URL below)
-          window.location.href = "/create-race";
+          // Check if there is an error
+          if (responseData.error) {
+            alert(responseData.error);
+          } else {
+            // Registration was successful
+            alert(responseData.success);
+
+            // Redirect to another page (you can replace the URL below)
+            window.location.href = "/create-race";
+          }
         }
       })
       .catch((error) => {
@@ -101,6 +136,7 @@ export const CreateRace = () => {
       <NavBar></NavBar>
       <div className="Connect" class="m-10 shadow-lg p-8 bg-white">
         <p class="mb-4 text-xl"><b>Créer une course</b></p>
+        <h1 ref={errRef} class={(errMsg ? "errMsg" : "hidden") + " " + "font-bold text-red-500 border-solid border-2 rounded-full border-red-600 text-center max-w-max break-words px-5"}>{errMsg}</h1>
         <form
           class=" p-4 my-4 shadow-inner drop-shadow-md"
           onSubmit={handleSubmit}
@@ -124,6 +160,7 @@ export const CreateRace = () => {
                 onChange={(e) => setDateStart(e.target.value)}
                 type="date"
                 name="startDate"
+                min={date}
               />
             </label>
             <label >
