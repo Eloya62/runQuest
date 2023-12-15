@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import ReactDOM from 'react-dom/client';
 import './index.css';
@@ -10,7 +10,6 @@ import CreateRace from './components/CreateRace/CreateRace';
 import Agenda from './components/Agenda/Agenda';
 import Favorite from './components/Favorite/Favorite';
 import App from './components/App/App';
-import { AuthProvider } from './components/Context/AppContext';
 
 
 
@@ -32,7 +31,5 @@ export default function Index() {
 }
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-  <AuthProvider>
     <Index />
-  </AuthProvider>
 );

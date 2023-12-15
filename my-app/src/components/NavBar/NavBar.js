@@ -1,7 +1,9 @@
 import React from 'react';
 import '../../General.css';
 
-function NavBar() {
+export const NavBar = () => {
+    console.log(localStorage.getItem('role'));
+
     return (
         <nav class="bg-white border-gray-200 dark:bg-gray-900">
             <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
@@ -39,7 +41,6 @@ function NavBar() {
                 </div>
             </div>
         </nav>
-
     );
 }
 

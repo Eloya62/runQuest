@@ -1,9 +1,7 @@
-import React, { useState, useRef, useEffect, useContext } from "react";
-import AuthContext from "../Context/AppContext";
+import React, { useState, useRef, useEffect } from "react";
 import "../../General.css";
 
 export const Connect = () => {
-  const { setAuth } = useContext(AuthContext);
   const userRef = useRef();
   const errRef = useRef();
 
@@ -54,23 +52,14 @@ export const Connect = () => {
     })
       .then((response) => response.json())
       .then((response) => {
-          if (response.error) {
-            handleErrors(response);
-          } else
-          {
-            setErrMsg("Logged in !");
-            const accessToken = response.accessToken;
-            const admin = response.adminValue;
-            const organisateur = response.organisateurValue;
-            
-            localStorage.setItem("accessToken", accessToken);
-            localStorage.setItem("admin", admin);
-            localStorage.setItem("organisateur", organisateur);
-            setAuth({email, password, accessToken, admin, organisateur});
-            window.location.href = "/";
-          }
+        if (response.error) {
+          handleErrors(response);
+        } else {
+          setErrMsg("Logged in !");
+          localStorage.setItem("role", response.role);
+          window.location.href = "/";
         }
-      )
+      })
       .catch((error) => {
         handleErrors(error);
       });

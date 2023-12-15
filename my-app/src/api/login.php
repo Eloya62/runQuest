@@ -31,10 +31,18 @@ function login($email, $password) {
             $jwt_encode = JWT::encode($jwtAccessToken,$seckey,'HS256');
 
             http_response_code(200); 
+            $role = "";
+            if ($row['administrateur'] == 1) {
+                $role = "Administrateur";
+            } else if ($row['organisateur'] == 1) {
+                $role = "Organisateur";
+            } else {
+                $role = "Utilisateur";
+            }
             $response = array(
                 'accessToken' => $jwt_encode,
-                'admin' => $row['administrateur'],
-                'organisateur' => $row['organisateur']
+                'organisateur' => $row['organisateur'],
+                'role' => $role
             );
             echo json_encode($response);
             return true;
