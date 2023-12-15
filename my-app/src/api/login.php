@@ -41,8 +41,9 @@ function login($email, $password) {
             }
             $response = array(
                 'accessToken' => $jwt_encode,
-                'organisateur' => $row['organisateur'],
-                'role' => $role
+                'role' => $role,
+                'prenom' => $row['firstName'],
+                'nom' => $row['lastName']
             );
             echo json_encode($response);
             return true;
