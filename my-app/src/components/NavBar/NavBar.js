@@ -2,7 +2,12 @@ import React from 'react';
 import '../../General.css';
 
 export const NavBar = () => {
-    console.log(localStorage.getItem('role'));
+    var role = localStorage.getItem('role');
+    var nom = localStorage.getItem('nom');
+    var prenom = localStorage.getItem('prenom');
+    console.log(role);
+    console.log(nom);
+    console.log(prenom);
 
     return (
         <nav class="bg-white border-gray-200 dark:bg-gray-900">
@@ -11,6 +16,7 @@ export const NavBar = () => {
                     <img src="logo.svg" class="h-14" alt="Logo" />
                     <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">RunQuest</span>
                 </a>
+                    <p class="block py-2 px-3 text-white bg-blue-700 rounded md:bg-transparent md:text-blue-700 md:p-0 dark:text-white md:dark:text-blue-500">{(nom?nom:"")  + " " + (prenom?prenom:"")} </p>
                 <button data-collapse-toggle="navbar-default" type="button" class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600" aria-controls="navbar-default" aria-expanded="false">
                     <span class="sr-only">Open main menu</span>
                     <svg class="w-5 h-5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 17 14">
@@ -25,12 +31,16 @@ export const NavBar = () => {
                         <li>
                             <a href="preferences" class="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Préférences</a>
                         </li>
+                        {role === "Administrateur" || role === "Organisateur" ?
                         <li>
                             <a href="create-event" class="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Création évènement</a>
                         </li>
+                        : ""}
+                        {role === "Administrateur" || role === "Organisateur" ?
                         <li>
                             <a href="create-race" class="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Création course</a>
                         </li>
+                        : ""}
                         <li>
                             <a href="connect" class="block py-2 px-3 text-white bg-blue-700 rounded md:bg-transparent md:text-blue-700 md:p-0 dark:text-white md:dark:text-blue-500">Connexion</a>
                         </li>
