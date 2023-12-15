@@ -57,6 +57,8 @@ export const Connect = () => {
         } else {
           setErrMsg("Logged in !");
           localStorage.setItem("role", response.role);
+          localStorage.setItem("nom", response.nom);
+          localStorage.setItem("prenom", response.prenom);
           window.location.href = "/";
         }
       })
