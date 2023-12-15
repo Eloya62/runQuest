@@ -1,9 +1,29 @@
-import React from "react";
+import React, { useEffect } from "react";
 import "../../General.css";
 import Event from "../Event/Event";
 
 function Events() {
-  const events = [
+  const url = "http://localhost:5000/get-events.php";
+  const [events, setEvents] = React.useState([]); // [
+  
+  const fetchData = async () => {
+    const response = await fetch(url);
+    const data = await response.json();
+    console.log(data);
+    setEvents(data);
+  };
+
+  useEffect(() => {
+    try {
+      fetchData();
+    } catch (error) {
+      console.log("error", error);
+    }
+  }, []);
+
+  
+
+  const events_dummy_data = [
     {
       title: "Event title1",
       dateBegin: "10/11/2021",
@@ -119,6 +139,7 @@ function Events() {
           props={event}
         ></Event>
       ))}
+      
     </div>
   );
 }

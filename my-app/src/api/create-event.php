@@ -37,14 +37,12 @@ function create_event($nom_event, $date_debut, $date_fin, $ville, $descr, $depar
     }
 
     // Check if event already exists
-    //$sql = "SELECT * FROM evenement WHERE ((nom_event = ?) and (date_debut = ?) and (date_fin = ?) and (ville = ?) and (departement = ?))";
     $sql = "SELECT * FROM evenement WHERE ((nom_event = ?) and (date_debut = ?) and (date_fin = ?) and (ville = ?))";
     $stmt = $conn->prepare($sql);
     $stmt->bindParam(1, $nom_event);
     $stmt->bindParam(2, $date_debut);
     $stmt->bindParam(3, $date_fin);
     $stmt->bindParam(4, $ville);
-    //$stmt->bindParam(5, "Aude");
     $stmt->execute();
     // Check for errors in the SELECT query
     if ($stmt->errorCode() != '00000') {
@@ -60,7 +58,7 @@ function create_event($nom_event, $date_debut, $date_fin, $ville, $descr, $depar
         echo json_encode($response);
     } else {
         // Insert new event into database
-        $sql = "INSERT INTO evenement (nom_event, date_debut, date_fin, ville, descr, id_dpt) VALUES (?, ?, ?, ?, ?, ?)";
+        $sql = "INSERT INTO evenement (nom_event, date_debut, date_fin, ville, descr, departement) VALUES (?, ?, ?, ?, ?, ?)";
         $stmt = $conn->prepare($sql);
         $stmt->bindParam(1, $nom_event);
         $stmt->bindParam(2, $date_debut);
