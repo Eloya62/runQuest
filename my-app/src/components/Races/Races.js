@@ -1,9 +1,27 @@
-import React from "react";
+import React, {useEffect} from "react";
 import "../../General.css";
 import Race from "../Race/Race";
 
 function Races() {
-  const races = [
+  const url = "http://localhost:5000/get-races.php";
+  const [races, setRaces] = React.useState([]); // [
+  
+  const fetchData = async () => {
+    const response = await fetch(url);
+    const data = await response.json();
+    console.log("RACESS",data);
+    setRaces(data);
+  };
+
+  useEffect(() => {
+    try {
+      fetchData();
+    } catch (error) {
+      console.log("error", error);
+    }
+  }, []);
+
+  /*const races = [
     {
       title: "Race title1",
       date: "10/11/2021",
@@ -40,7 +58,7 @@ function Races() {
       description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod, nisl eget aliquam ultricies, nunc nisl ultricies nunc, vitae aliquam ni",
     },
-  ];
+  ];*/
   return (
     <div class="overflow-y-auto custom-scrollbar max-h-96 shadow-inner">
       {races.map((race) => (
